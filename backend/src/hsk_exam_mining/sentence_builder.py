@@ -279,13 +279,27 @@ def _is_clean_prompt(text: str) -> bool:
 
 def _extract_keywords(text: str) -> list[str]:
     keywords: list[str] = []
+    stop_words = {"下面", "根据", "选择", "正确", "句子", "图片", "看图", "根据图", "根据图片", "用词造句", "用词", "造句"}
+
+    # Prefer the explicit cue word in prompts like "看图，用词造句：脏".
+    cue_text = ""
+    if "：" in text:
+        cue_text = text.split("：", maxsplit=1)[1].strip()
+    elif ":" in text:
+        cue_text = text.split(":", maxsplit=1)[1].strip()
+    if cue_text:
+        for chunk in re.findall(r"[\u4e00-\u9fff]{1,6}", cue_text):
+            token = chunk.strip()
+            if token and token not in stop_words:
+                keywords.append(token)
+
     for token in jieba.cut(text):
         token = token.strip()
         if len(token) < 2:
             continue
         if not CHINESE_RE.search(token):
             continue
-        if token in {"下面", "根据", "选择", "正确", "句子", "图片"}:
+        if token in stop_words:
             continue
         keywords.append(token)
     # Keep order and deduplicate.

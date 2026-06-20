@@ -6,8 +6,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：日记",
     "keywords": [
-      "用词",
-      "造句",
       "日记"
     ],
     "options": [],
@@ -25,8 +23,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：你尝一尝",
     "keywords": [
-      "用词",
-      "造句",
+      "你尝一尝",
       "尝一尝"
     ],
     "options": [],
@@ -44,8 +41,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：鸡蛋被打破了",
     "keywords": [
-      "用词",
-      "造句",
+      "鸡蛋被打破了",
       "鸡蛋",
       "打破"
     ],
@@ -64,8 +60,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：走在海边",
     "keywords": [
-      "用词",
-      "造句",
+      "走在海边",
       "海边"
     ],
     "options": [],
@@ -83,8 +78,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：活泼",
     "keywords": [
-      "用词",
-      "造句",
       "活泼"
     ],
     "options": [],
@@ -102,10 +95,9 @@
     "section": "Reading",
     "prompt": "看图，用词造句：她听了以后很吃惊",
     "keywords": [
-      "用词",
-      "造句",
-      "以后",
-      "吃惊"
+      "她听了以后很",
+      "吃惊",
+      "以后"
     ],
     "options": [],
     "answer": "她听了以后很吃惊.",
@@ -122,8 +114,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：她出了许多汗",
     "keywords": [
-      "用词",
-      "造句",
+      "她出了许多汗",
       "许多"
     ],
     "options": [],
@@ -141,8 +132,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：他想把画挂在墙上",
     "keywords": [
-      "用词",
-      "造句",
+      "他想把画挂在",
       "墙上"
     ],
     "options": [],
@@ -160,12 +150,11 @@
     "section": "Reading",
     "prompt": "看图，用词造句：这些花闻起来很香",
     "keywords": [
-      "用词",
-      "造句",
+      "这些花闻起来",
+      "很香",
       "这些",
       "花闻",
-      "起来",
-      "很香"
+      "起来"
     ],
     "options": [],
     "answer": "这些花闻起来很香.",
@@ -182,8 +171,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：杂志",
     "keywords": [
-      "用词",
-      "造句",
       "杂志"
     ],
     "options": [],
@@ -201,8 +188,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：收拾",
     "keywords": [
-      "用词",
-      "造句",
       "收拾"
     ],
     "options": [],
@@ -220,11 +205,10 @@
     "section": "Reading",
     "prompt": "看图，用词造句：他喜欢去那儿理发",
     "keywords": [
-      "用词",
-      "造句",
+      "他喜欢去那儿",
+      "理发",
       "喜欢",
-      "那儿",
-      "理发"
+      "那儿"
     ],
     "options": [],
     "answer": "他喜欢去那儿理发.",
@@ -241,8 +225,8 @@
     "section": "Reading",
     "prompt": "看图，用词造句：困了就休息一下吧",
     "keywords": [
-      "用词",
-      "造句",
+      "困了就休息一",
+      "下吧",
       "休息",
       "一下"
     ],
@@ -261,8 +245,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：激动",
     "keywords": [
-      "用词",
-      "造句",
       "激动"
     ],
     "options": [],
@@ -280,8 +262,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：讨论",
     "keywords": [
-      "用词",
-      "造句",
       "讨论"
     ],
     "options": [],
@@ -299,8 +279,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：打扮",
     "keywords": [
-      "用词",
-      "造句",
       "打扮"
     ],
     "options": [],
@@ -318,8 +296,8 @@
     "section": "Reading",
     "prompt": "看图，用词造句：京剧一直很受欢迎",
     "keywords": [
-      "用词",
-      "造句",
+      "京剧一直很受",
+      "欢迎",
       "京剧",
       "一直",
       "受欢迎"
@@ -339,10 +317,9 @@
     "section": "Reading",
     "prompt": "看图，用词造句：这朵花又大又漂亮",
     "keywords": [
-      "用词",
-      "造句",
-      "朵花",
-      "漂亮"
+      "这朵花又大又",
+      "漂亮",
+      "朵花"
     ],
     "options": [],
     "answer": "这朵花又大又漂亮.",
@@ -359,8 +336,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：笑话",
     "keywords": [
-      "用词",
-      "造句",
       "笑话"
     ],
     "options": [],
@@ -378,8 +353,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：比赛输了",
     "keywords": [
-      "用词",
-      "造句",
+      "比赛输了",
       "比赛"
     ],
     "options": [],
@@ -397,8 +371,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：消息",
     "keywords": [
-      "用词",
-      "造句",
       "消息"
     ],
     "options": [],
@@ -416,8 +388,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：猜",
     "keywords": [
-      "用词",
-      "造句"
+      "猜"
     ],
     "options": [],
     "answer": "你猜我给你带什么了.",
@@ -434,8 +405,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：信用卡",
     "keywords": [
-      "用词",
-      "造句",
       "信用卡"
     ],
     "options": [],
@@ -453,8 +422,8 @@
     "section": "Reading",
     "prompt": "看图，用词造句：这个沙发很舒服",
     "keywords": [
-      "用词",
-      "造句",
+      "这个沙发很舒",
+      "服",
       "这个",
       "沙发",
       "舒服"
@@ -474,8 +443,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：昨晚没睡好",
     "keywords": [
-      "用词",
-      "造句",
+      "昨晚没睡好",
       "昨晚",
       "没睡"
     ],
@@ -494,8 +462,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：仔细",
     "keywords": [
-      "用词",
-      "造句",
       "仔细"
     ],
     "options": [],
@@ -513,8 +479,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：护士",
     "keywords": [
-      "用词",
-      "造句",
       "护士"
     ],
     "options": [],
@@ -532,8 +496,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：密码",
     "keywords": [
-      "用词",
-      "造句",
       "密码"
     ],
     "options": [],
@@ -551,8 +513,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：航班",
     "keywords": [
-      "用词",
-      "造句",
       "航班"
     ],
     "options": [],
@@ -570,8 +530,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：修",
     "keywords": [
-      "用词",
-      "造句"
+      "修"
     ],
     "options": [],
     "answer": "这是小问题,很好修.",
@@ -588,8 +547,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：干杯",
     "keywords": [
-      "用词",
-      "造句",
       "干杯"
     ],
     "options": [],
@@ -607,8 +564,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：流利",
     "keywords": [
-      "用词",
-      "造句",
       "流利"
     ],
     "options": [],
@@ -626,8 +581,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：禁止",
     "keywords": [
-      "用词",
-      "造句",
       "禁止"
     ],
     "options": [],
@@ -645,8 +598,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：激动",
     "keywords": [
-      "用词",
-      "造句",
       "激动"
     ],
     "options": [],
@@ -664,8 +615,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：洗衣机",
     "keywords": [
-      "用词",
-      "造句",
       "洗衣机"
     ],
     "options": [],
@@ -683,8 +632,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：困",
     "keywords": [
-      "用词",
-      "造句"
+      "困"
     ],
     "options": [],
     "answer": "她觉得有点儿困.",
@@ -701,8 +649,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：味道",
     "keywords": [
-      "用词",
-      "造句",
       "味道"
     ],
     "options": [],
@@ -720,8 +666,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：怀疑",
     "keywords": [
-      "用词",
-      "造句",
       "怀疑"
     ],
     "options": [],
@@ -739,8 +683,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：来得及",
     "keywords": [
-      "用词",
-      "造句",
       "来得及"
     ],
     "options": [],
@@ -758,8 +700,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：肚子",
     "keywords": [
-      "用词",
-      "造句",
       "肚子"
     ],
     "options": [],
@@ -777,8 +717,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：咸",
     "keywords": [
-      "用词",
-      "造句"
+      "咸"
     ],
     "options": [],
     "answer": "盐放多了,汤有点儿咸.",
@@ -795,8 +734,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：力气",
     "keywords": [
-      "用词",
-      "造句",
       "力气"
     ],
     "options": [],
@@ -814,8 +751,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：养成",
     "keywords": [
-      "用词",
-      "造句",
       "养成"
     ],
     "options": [],
@@ -833,8 +768,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：经历",
     "keywords": [
-      "用词",
-      "造句",
       "经历"
     ],
     "options": [],
@@ -852,8 +785,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：抱",
     "keywords": [
-      "用词",
-      "造句"
+      "抱"
     ],
     "options": [],
     "answer": "她抱着一只小狗.",
@@ -870,8 +802,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：商量",
     "keywords": [
-      "用词",
-      "造句",
       "商量"
     ],
     "options": [],
@@ -889,8 +819,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：厉害",
     "keywords": [
-      "用词",
-      "造句",
       "厉害"
     ],
     "options": [],
@@ -908,8 +836,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：味道",
     "keywords": [
-      "用词",
-      "造句",
       "味道"
     ],
     "options": [],
@@ -927,8 +853,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：有趣",
     "keywords": [
-      "用词",
-      "造句",
       "有趣"
     ],
     "options": [],
@@ -946,8 +870,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：怀疑",
     "keywords": [
-      "用词",
-      "造句",
       "怀疑"
     ],
     "options": [],
@@ -965,8 +887,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：盒子",
     "keywords": [
-      "用词",
-      "造句",
       "盒子"
     ],
     "options": [],
@@ -984,8 +904,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：正式",
     "keywords": [
-      "用词",
-      "造句",
       "正式"
     ],
     "options": [],
@@ -1003,8 +921,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：西红柿",
     "keywords": [
-      "用词",
-      "造句",
       "西红柿"
     ],
     "options": [],
@@ -1022,8 +938,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：后悔",
     "keywords": [
-      "用词",
-      "造句",
       "后悔"
     ],
     "options": [],
@@ -1041,8 +955,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：挂",
     "keywords": [
-      "用词",
-      "造句"
+      "挂"
     ],
     "options": [],
     "answer": "把画挂在这儿不太好.",
@@ -1059,8 +972,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：起飞",
     "keywords": [
-      "用词",
-      "造句",
       "起飞"
     ],
     "options": [],
@@ -1078,8 +989,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：香",
     "keywords": [
-      "用词",
-      "造句"
+      "香"
     ],
     "options": [],
     "answer": "这些花好香啊!",
@@ -1096,8 +1006,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：公里",
     "keywords": [
-      "用词",
-      "造句",
       "公里"
     ],
     "options": [],
@@ -1115,8 +1023,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：躺",
     "keywords": [
-      "用词",
-      "造句"
+      "躺"
     ],
     "options": [],
     "answer": "躺着看书对眼睛不好.",
@@ -1133,8 +1040,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：讨论",
     "keywords": [
-      "用词",
-      "造句",
       "讨论"
     ],
     "options": [],
@@ -1152,8 +1057,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：轻",
     "keywords": [
-      "用词",
-      "造句"
+      "轻"
     ],
     "options": [],
     "answer": "没关系,这个箱子很轻.",
@@ -1170,8 +1074,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：答案",
     "keywords": [
-      "用词",
-      "造句",
       "答案"
     ],
     "options": [],
@@ -1189,8 +1091,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：钥匙",
     "keywords": [
-      "用词",
-      "造句",
       "钥匙"
     ],
     "options": [],
@@ -1208,8 +1108,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：激动",
     "keywords": [
-      "用词",
-      "造句",
       "激动"
     ],
     "options": [],
@@ -1227,8 +1125,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：聊天儿",
     "keywords": [
-      "用词",
-      "造句",
       "聊天儿"
     ],
     "options": [],
@@ -1246,8 +1142,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：袜子",
     "keywords": [
-      "用词",
-      "造句",
       "袜子"
     ],
     "options": [],
@@ -1265,8 +1159,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：加班",
     "keywords": [
-      "用词",
-      "造句",
       "加班"
     ],
     "options": [],
@@ -1284,8 +1176,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：估计",
     "keywords": [
-      "用词",
-      "造句",
       "估计"
     ],
     "options": [],
@@ -1303,8 +1193,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：脏",
     "keywords": [
-      "用词",
-      "造句"
+      "脏"
     ],
     "options": [],
     "answer": "怎么弄得这么脏?快去洗个澡吧.",
@@ -1321,8 +1210,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：看法",
     "keywords": [
-      "用词",
-      "造句",
       "看法"
     ],
     "options": [],
@@ -1340,8 +1227,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：肚子",
     "keywords": [
-      "用词",
-      "造句",
       "肚子"
     ],
     "options": [],
@@ -1359,8 +1244,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：擦",
     "keywords": [
-      "用词",
-      "造句"
+      "擦"
     ],
     "options": [],
     "answer": "看,我把盘子擦干净了.",
@@ -1377,8 +1261,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：打折",
     "keywords": [
-      "用词",
-      "造句",
       "打折"
     ],
     "options": [],
@@ -1396,8 +1278,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：果汁",
     "keywords": [
-      "用词",
-      "造句",
       "果汁"
     ],
     "options": [],
@@ -1415,8 +1295,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：重",
     "keywords": [
-      "用词",
-      "造句"
+      "重"
     ],
     "options": [],
     "answer": "这两个箱子太重了.",
@@ -1433,8 +1312,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：零钱",
     "keywords": [
-      "用词",
-      "造句",
       "零钱"
     ],
     "options": [],
@@ -1452,8 +1329,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：俩",
     "keywords": [
-      "用词",
-      "造句"
+      "俩"
     ],
     "options": [],
     "answer": "我俩逛街买了很多东西.",
@@ -1470,8 +1346,6 @@
     "section": "Reading",
     "prompt": "看图，用词造句：严重",
     "keywords": [
-      "用词",
-      "造句",
       "严重"
     ],
     "options": [],
@@ -1489,8 +1363,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：猜",
     "keywords": [
-      "用词",
-      "造句"
+      "猜"
     ],
     "options": [],
     "answer": "你猜猜我是谁?",
@@ -1507,8 +1380,7 @@
     "section": "Reading",
     "prompt": "看图，用词造句：挂",
     "keywords": [
-      "用词",
-      "造句"
+      "挂"
     ],
     "options": [],
     "answer": "我们把画儿挂这儿怎么样?",
@@ -1524,10 +1396,7 @@
     "questionNo": 96,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "下边的盒子比上边的大。",
     "hasImageHint": true,
@@ -1542,10 +1411,7 @@
     "questionNo": 97,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "都十点多了，恐怕来不及了。",
     "hasImageHint": true,
@@ -1560,10 +1426,7 @@
     "questionNo": 98,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "她把电话号码记在笔记本上了。",
     "hasImageHint": true,
@@ -1578,10 +1441,7 @@
     "questionNo": 99,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "他弟弟也长得很帅。",
     "hasImageHint": true,
@@ -1596,10 +1456,7 @@
     "questionNo": 100,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "这本书一共有多少页？",
     "hasImageHint": true,
@@ -1614,10 +1471,7 @@
     "questionNo": 96,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "敲门的那个人是他女朋友。",
     "hasImageHint": true,
@@ -1632,10 +1486,7 @@
     "questionNo": 97,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "他在找王校长的电话号码。",
     "hasImageHint": true,
@@ -1650,10 +1501,7 @@
     "questionNo": 98,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "我困了，我们明天再聊吧。",
     "hasImageHint": true,
@@ -1668,10 +1516,7 @@
     "questionNo": 99,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "请你把这份材料再复印两份。",
     "hasImageHint": true,
@@ -1686,10 +1531,7 @@
     "questionNo": 100,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "哥哥的个子比弟弟高。",
     "hasImageHint": true,
@@ -1704,10 +1546,7 @@
     "questionNo": 96,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "这份材料写得很详细。",
     "hasImageHint": true,
@@ -1722,10 +1561,7 @@
     "questionNo": 97,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "让我想想有什么好主意。",
     "hasImageHint": true,
@@ -1740,10 +1576,7 @@
     "questionNo": 98,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "你猜我手里是什么？",
     "hasImageHint": true,
@@ -1758,10 +1591,7 @@
     "questionNo": 99,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "来，我告诉你个好消息。",
     "hasImageHint": true,
@@ -1776,10 +1606,7 @@
     "questionNo": 100,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "他们把沙发抬到外面去了。",
     "hasImageHint": true,
@@ -1794,10 +1621,7 @@
     "questionNo": 96,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "这本书她读过很多遍了。",
     "hasImageHint": true,
@@ -1812,10 +1636,7 @@
     "questionNo": 97,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "加油站禁止打电话。",
     "hasImageHint": true,
@@ -1830,10 +1651,7 @@
     "questionNo": 98,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "听到这个好消息，她非常兴奋。",
     "hasImageHint": true,
@@ -1848,10 +1666,7 @@
     "questionNo": 99,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "我想我们俩之间有一些误会。",
     "hasImageHint": true,
@@ -1866,10 +1681,7 @@
     "questionNo": 100,
     "section": "Reading",
     "prompt": "看图，用词造句",
-    "keywords": [
-      "用词",
-      "造句"
-    ],
+    "keywords": [],
     "options": [],
     "answer": "她感冒了，所以需要打一针。",
     "hasImageHint": true,
