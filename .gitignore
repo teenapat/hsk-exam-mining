@@ -12,9 +12,8 @@ output/
 !output/csv/.gitkeep
 !output/reports/.gitkeep
 
-frontend/public/data/
-!frontend/public/data/.gitkeep
-
 frontend/public/data/*
 !frontend/public/data/.gitkeep
 !frontend/public/data/*.json
+!frontend/public/data/sentence_images/
+!frontend/public/data/sentence_images/**
