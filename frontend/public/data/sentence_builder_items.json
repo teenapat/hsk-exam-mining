@@ -1,0 +1,1881 @@
+[
+  {
+    "id": "H41001-96",
+    "examId": "H41001",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句：日记",
+    "keywords": [
+      "用词",
+      "造句",
+      "日记"
+    ],
+    "options": [],
+    "answer": "她每天都坚持写日记.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41001_q96.png"
+  },
+  {
+    "id": "H41001-97",
+    "examId": "H41001",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句：你尝一尝",
+    "keywords": [
+      "用词",
+      "造句",
+      "尝一尝"
+    ],
+    "options": [],
+    "answer": "你尝一尝?味道很好.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41001_q97.png"
+  },
+  {
+    "id": "H41001-98",
+    "examId": "H41001",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句：鸡蛋被打破了",
+    "keywords": [
+      "用词",
+      "造句",
+      "鸡蛋",
+      "打破"
+    ],
+    "options": [],
+    "answer": "鸡蛋被打破了.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41001_q98.png"
+  },
+  {
+    "id": "H41001-99",
+    "examId": "H41001",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句：走在海边",
+    "keywords": [
+      "用词",
+      "造句",
+      "海边"
+    ],
+    "options": [],
+    "answer": "走在海边,感觉很凉快.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41001_q99.png"
+  },
+  {
+    "id": "H41001-100",
+    "examId": "H41001",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句：活泼",
+    "keywords": [
+      "用词",
+      "造句",
+      "活泼"
+    ],
+    "options": [],
+    "answer": "这个小女孩儿很活泼.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41001_q100.png"
+  },
+  {
+    "id": "H41002-96",
+    "examId": "H41002",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句：她听了以后很吃惊",
+    "keywords": [
+      "用词",
+      "造句",
+      "以后",
+      "吃惊"
+    ],
+    "options": [],
+    "answer": "她听了以后很吃惊.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41002_q96.png"
+  },
+  {
+    "id": "H41002-97",
+    "examId": "H41002",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句：她出了许多汗",
+    "keywords": [
+      "用词",
+      "造句",
+      "许多"
+    ],
+    "options": [],
+    "answer": "她出了许多汗.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41002_q97.png"
+  },
+  {
+    "id": "H41002-98",
+    "examId": "H41002",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句：他想把画挂在墙上",
+    "keywords": [
+      "用词",
+      "造句",
+      "墙上"
+    ],
+    "options": [],
+    "answer": "他想把画挂在墙上.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41002_q98.png"
+  },
+  {
+    "id": "H41002-99",
+    "examId": "H41002",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句：这些花闻起来很香",
+    "keywords": [
+      "用词",
+      "造句",
+      "这些",
+      "花闻",
+      "起来",
+      "很香"
+    ],
+    "options": [],
+    "answer": "这些花闻起来很香.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41002_q99.png"
+  },
+  {
+    "id": "H41002-100",
+    "examId": "H41002",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句：杂志",
+    "keywords": [
+      "用词",
+      "造句",
+      "杂志"
+    ],
+    "options": [],
+    "answer": "他坐在沙发上看杂志.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41002_q100.png"
+  },
+  {
+    "id": "H41003-96",
+    "examId": "H41003",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句：收拾",
+    "keywords": [
+      "用词",
+      "造句",
+      "收拾"
+    ],
+    "options": [],
+    "answer": "她每天都要收拾房间.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41003_q96.png"
+  },
+  {
+    "id": "H41003-97",
+    "examId": "H41003",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句：他喜欢去那儿理发",
+    "keywords": [
+      "用词",
+      "造句",
+      "喜欢",
+      "那儿",
+      "理发"
+    ],
+    "options": [],
+    "answer": "他喜欢去那儿理发.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41003_q97.png"
+  },
+  {
+    "id": "H41003-98",
+    "examId": "H41003",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句：困了就休息一下吧",
+    "keywords": [
+      "用词",
+      "造句",
+      "休息",
+      "一下"
+    ],
+    "options": [],
+    "answer": "困了就休息一下吧.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41003_q98.png"
+  },
+  {
+    "id": "H41003-99",
+    "examId": "H41003",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句：激动",
+    "keywords": [
+      "用词",
+      "造句",
+      "激动"
+    ],
+    "options": [],
+    "answer": "这个消息让他非常激动.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41003_q99.png"
+  },
+  {
+    "id": "H41003-100",
+    "examId": "H41003",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句：讨论",
+    "keywords": [
+      "用词",
+      "造句",
+      "讨论"
+    ],
+    "options": [],
+    "answer": "他们正在讨论那个计划.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41003_q100.png"
+  },
+  {
+    "id": "H41004-96",
+    "examId": "H41004",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句：打扮",
+    "keywords": [
+      "用词",
+      "造句",
+      "打扮"
+    ],
+    "options": [],
+    "answer": "表演前要好好打扮一下.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41004_q96.png"
+  },
+  {
+    "id": "H41004-97",
+    "examId": "H41004",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句：京剧一直很受欢迎",
+    "keywords": [
+      "用词",
+      "造句",
+      "京剧",
+      "一直",
+      "受欢迎"
+    ],
+    "options": [],
+    "answer": "京剧一直很受欢迎.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41004_q97.png"
+  },
+  {
+    "id": "H41004-98",
+    "examId": "H41004",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句：这朵花又大又漂亮",
+    "keywords": [
+      "用词",
+      "造句",
+      "朵花",
+      "漂亮"
+    ],
+    "options": [],
+    "answer": "这朵花又大又漂亮.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41004_q98.png"
+  },
+  {
+    "id": "H41004-99",
+    "examId": "H41004",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句：笑话",
+    "keywords": [
+      "用词",
+      "造句",
+      "笑话"
+    ],
+    "options": [],
+    "answer": "他讲的笑话真有意思.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41004_q99.png"
+  },
+  {
+    "id": "H41004-100",
+    "examId": "H41004",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句：比赛输了",
+    "keywords": [
+      "用词",
+      "造句",
+      "比赛"
+    ],
+    "options": [],
+    "answer": "比赛输了,他们很失望.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41004_q100.png"
+  },
+  {
+    "id": "H41005-96",
+    "examId": "H41005",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句：消息",
+    "keywords": [
+      "用词",
+      "造句",
+      "消息"
+    ],
+    "options": [],
+    "answer": "这个消息让他非常高兴.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41005_q96.png"
+  },
+  {
+    "id": "H41005-97",
+    "examId": "H41005",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句：猜",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "你猜我给你带什么了.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41005_q97.png"
+  },
+  {
+    "id": "H41005-98",
+    "examId": "H41005",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句：信用卡",
+    "keywords": [
+      "用词",
+      "造句",
+      "信用卡"
+    ],
+    "options": [],
+    "answer": "那家商场能用信用卡吧?",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41005_q98.png"
+  },
+  {
+    "id": "H41005-99",
+    "examId": "H41005",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句：这个沙发很舒服",
+    "keywords": [
+      "用词",
+      "造句",
+      "这个",
+      "沙发",
+      "舒服"
+    ],
+    "options": [],
+    "answer": "这个沙发很舒服.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41005_q99.png"
+  },
+  {
+    "id": "H41005-100",
+    "examId": "H41005",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句：昨晚没睡好",
+    "keywords": [
+      "用词",
+      "造句",
+      "昨晚",
+      "没睡"
+    ],
+    "options": [],
+    "answer": "昨晚没睡好,现在有点儿困了.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41005_q100.png"
+  },
+  {
+    "id": "H41006-96",
+    "examId": "H41006",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句：仔细",
+    "keywords": [
+      "用词",
+      "造句",
+      "仔细"
+    ],
+    "options": [],
+    "answer": "你再仔细找找.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41006_q96.png"
+  },
+  {
+    "id": "H41006-97",
+    "examId": "H41006",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句：护士",
+    "keywords": [
+      "用词",
+      "造句",
+      "护士"
+    ],
+    "options": [],
+    "answer": "我姐姐在医院上班,她是护士.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41006_q97.png"
+  },
+  {
+    "id": "H41006-98",
+    "examId": "H41006",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句：密码",
+    "keywords": [
+      "用词",
+      "造句",
+      "密码"
+    ],
+    "options": [],
+    "answer": "你好,我的密码忘了怎么办?",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41006_q98.png"
+  },
+  {
+    "id": "H41006-99",
+    "examId": "H41006",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句：航班",
+    "keywords": [
+      "用词",
+      "造句",
+      "航班"
+    ],
+    "options": [],
+    "answer": "对不起,您的航班已经起飞了.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41006_q99.png"
+  },
+  {
+    "id": "H41006-100",
+    "examId": "H41006",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句：修",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "这是小问题,很好修.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41006_q100.png"
+  },
+  {
+    "id": "H41007-96",
+    "examId": "H41007",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句：干杯",
+    "keywords": [
+      "用词",
+      "造句",
+      "干杯"
+    ],
+    "options": [],
+    "answer": "来,为我们的健康干杯!",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41007_q96.png"
+  },
+  {
+    "id": "H41007-97",
+    "examId": "H41007",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句：流利",
+    "keywords": [
+      "用词",
+      "造句",
+      "流利"
+    ],
+    "options": [],
+    "answer": "她汉语说得很流利.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41007_q97.png"
+  },
+  {
+    "id": "H41007-98",
+    "examId": "H41007",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句：禁止",
+    "keywords": [
+      "用词",
+      "造句",
+      "禁止"
+    ],
+    "options": [],
+    "answer": "对不起,这里禁止吸烟.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41007_q98.png"
+  },
+  {
+    "id": "H41007-99",
+    "examId": "H41007",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句：激动",
+    "keywords": [
+      "用词",
+      "造句",
+      "激动"
+    ],
+    "options": [],
+    "answer": "毕业了,他们很激动.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41007_q99.png"
+  },
+  {
+    "id": "H41007-100",
+    "examId": "H41007",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句：洗衣机",
+    "keywords": [
+      "用词",
+      "造句",
+      "洗衣机"
+    ],
+    "options": [],
+    "answer": "他的洗衣机好像出问题了.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41007_q100.png"
+  },
+  {
+    "id": "H41008-96",
+    "examId": "H41008",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句：困",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "她觉得有点儿困.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41008_q96.png"
+  },
+  {
+    "id": "H41008-97",
+    "examId": "H41008",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句：味道",
+    "keywords": [
+      "用词",
+      "造句",
+      "味道"
+    ],
+    "options": [],
+    "answer": "你尝尝,味道怎么样?",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41008_q97.png"
+  },
+  {
+    "id": "H41008-98",
+    "examId": "H41008",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句：怀疑",
+    "keywords": [
+      "用词",
+      "造句",
+      "怀疑"
+    ],
+    "options": [],
+    "answer": "是吗?我怀疑不是真的.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41008_q98.png"
+  },
+  {
+    "id": "H41008-99",
+    "examId": "H41008",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句：来得及",
+    "keywords": [
+      "用词",
+      "造句",
+      "来得及"
+    ],
+    "options": [],
+    "answer": "时间还来得及.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41008_q99.png"
+  },
+  {
+    "id": "H41008-100",
+    "examId": "H41008",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句：肚子",
+    "keywords": [
+      "用词",
+      "造句",
+      "肚子"
+    ],
+    "options": [],
+    "answer": "你怎么了,肚子疼?",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41008_q100.png"
+  },
+  {
+    "id": "H41218-96",
+    "examId": "H41218",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句：咸",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "盐放多了,汤有点儿咸.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41218_q96.png"
+  },
+  {
+    "id": "H41218-97",
+    "examId": "H41218",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句：力气",
+    "keywords": [
+      "用词",
+      "造句",
+      "力气"
+    ],
+    "options": [],
+    "answer": "比一比,看谁的力气大.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41218_q97.png"
+  },
+  {
+    "id": "H41218-98",
+    "examId": "H41218",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句：养成",
+    "keywords": [
+      "用词",
+      "造句",
+      "养成"
+    ],
+    "options": [],
+    "answer": "应该养成每天刷牙的好习惯.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41218_q98.png"
+  },
+  {
+    "id": "H41218-99",
+    "examId": "H41218",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句：经历",
+    "keywords": [
+      "用词",
+      "造句",
+      "经历"
+    ],
+    "options": [],
+    "answer": "他的经历非常丰富.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41218_q99.png"
+  },
+  {
+    "id": "H41218-100",
+    "examId": "H41218",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句：抱",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "她抱着一只小狗.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41218_q100.png"
+  },
+  {
+    "id": "H41219-96",
+    "examId": "H41219",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句：商量",
+    "keywords": [
+      "用词",
+      "造句",
+      "商量"
+    ],
+    "options": [],
+    "answer": "他们还没商量出结果.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41219_q96.png"
+  },
+  {
+    "id": "H41219-97",
+    "examId": "H41219",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句：厉害",
+    "keywords": [
+      "用词",
+      "造句",
+      "厉害"
+    ],
+    "options": [],
+    "answer": "全都答对了,你真厉害!",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41219_q97.png"
+  },
+  {
+    "id": "H41219-98",
+    "examId": "H41219",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句：味道",
+    "keywords": [
+      "用词",
+      "造句",
+      "味道"
+    ],
+    "options": [],
+    "answer": "这个菜的味道还不错.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41219_q98.png"
+  },
+  {
+    "id": "H41219-99",
+    "examId": "H41219",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句：有趣",
+    "keywords": [
+      "用词",
+      "造句",
+      "有趣"
+    ],
+    "options": [],
+    "answer": "他说话非常有趣.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41219_q99.png"
+  },
+  {
+    "id": "H41219-100",
+    "examId": "H41219",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句：怀疑",
+    "keywords": [
+      "用词",
+      "造句",
+      "怀疑"
+    ],
+    "options": [],
+    "answer": "别人的怀疑让他很难过.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41219_q100.png"
+  },
+  {
+    "id": "H41220-96",
+    "examId": "H41220",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句：盒子",
+    "keywords": [
+      "用词",
+      "造句",
+      "盒子"
+    ],
+    "options": [],
+    "answer": "盒子里什么也没有.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41220_q96.png"
+  },
+  {
+    "id": "H41220-97",
+    "examId": "H41220",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句：正式",
+    "keywords": [
+      "用词",
+      "造句",
+      "正式"
+    ],
+    "options": [],
+    "answer": "他今天穿得十分正式.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41220_q97.png"
+  },
+  {
+    "id": "H41220-98",
+    "examId": "H41220",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句：西红柿",
+    "keywords": [
+      "用词",
+      "造句",
+      "西红柿"
+    ],
+    "options": [],
+    "answer": "西红柿是水果吗?",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41220_q98.png"
+  },
+  {
+    "id": "H41220-99",
+    "examId": "H41220",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句：后悔",
+    "keywords": [
+      "用词",
+      "造句",
+      "后悔"
+    ],
+    "options": [],
+    "answer": "我真后悔告诉他这件事.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41220_q99.png"
+  },
+  {
+    "id": "H41220-100",
+    "examId": "H41220",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句：挂",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "把画挂在这儿不太好.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41220_q100.png"
+  },
+  {
+    "id": "H41221-96",
+    "examId": "H41221",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句：起飞",
+    "keywords": [
+      "用词",
+      "造句",
+      "起飞"
+    ],
+    "options": [],
+    "answer": "飞机已经起飞了.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41221_q96.png"
+  },
+  {
+    "id": "H41221-97",
+    "examId": "H41221",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句：香",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "这些花好香啊!",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41221_q97.png"
+  },
+  {
+    "id": "H41221-98",
+    "examId": "H41221",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句：公里",
+    "keywords": [
+      "用词",
+      "造句",
+      "公里"
+    ],
+    "options": [],
+    "answer": "他每天早上都要跑两公里.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41221_q98.png"
+  },
+  {
+    "id": "H41221-99",
+    "examId": "H41221",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句：躺",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "躺着看书对眼睛不好.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41221_q99.png"
+  },
+  {
+    "id": "H41221-100",
+    "examId": "H41221",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句：讨论",
+    "keywords": [
+      "用词",
+      "造句",
+      "讨论"
+    ],
+    "options": [],
+    "answer": "她们在讨论明天的事情.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41221_q100.png"
+  },
+  {
+    "id": "H41327-96",
+    "examId": "H41327",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句：轻",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "没关系,这个箱子很轻.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41327_q96.png"
+  },
+  {
+    "id": "H41327-97",
+    "examId": "H41327",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句：答案",
+    "keywords": [
+      "用词",
+      "造句",
+      "答案"
+    ],
+    "options": [],
+    "answer": "这道题的答案在这儿.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41327_q97.png"
+  },
+  {
+    "id": "H41327-98",
+    "examId": "H41327",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句：钥匙",
+    "keywords": [
+      "用词",
+      "造句",
+      "钥匙"
+    ],
+    "options": [],
+    "answer": "钥匙应该就在包里呀.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41327_q98.png"
+  },
+  {
+    "id": "H41327-99",
+    "examId": "H41327",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句：激动",
+    "keywords": [
+      "用词",
+      "造句",
+      "激动"
+    ],
+    "options": [],
+    "answer": "那个消息让他很激动.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41327_q99.png"
+  },
+  {
+    "id": "H41327-100",
+    "examId": "H41327",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句：聊天儿",
+    "keywords": [
+      "用词",
+      "造句",
+      "聊天儿"
+    ],
+    "options": [],
+    "answer": "她们一边喝茶一边聊天儿.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41327_q100.png"
+  },
+  {
+    "id": "H41328-96",
+    "examId": "H41328",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句：袜子",
+    "keywords": [
+      "用词",
+      "造句",
+      "袜子"
+    ],
+    "options": [],
+    "answer": "这双袜子是我新买的.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41328_q96.png"
+  },
+  {
+    "id": "H41328-97",
+    "examId": "H41328",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句：加班",
+    "keywords": [
+      "用词",
+      "造句",
+      "加班"
+    ],
+    "options": [],
+    "answer": "姐姐最近经常加班.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41328_q97.png"
+  },
+  {
+    "id": "H41328-98",
+    "examId": "H41328",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句：估计",
+    "keywords": [
+      "用词",
+      "造句",
+      "估计"
+    ],
+    "options": [],
+    "answer": "我现在就过去,估计半小时后到.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41328_q98.png"
+  },
+  {
+    "id": "H41328-99",
+    "examId": "H41328",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句：脏",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "怎么弄得这么脏?快去洗个澡吧.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41328_q99.png"
+  },
+  {
+    "id": "H41328-100",
+    "examId": "H41328",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句：看法",
+    "keywords": [
+      "用词",
+      "造句",
+      "看法"
+    ],
+    "options": [],
+    "answer": "对于这件事,您有什么看法?",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41328_q100.png"
+  },
+  {
+    "id": "H41329-96",
+    "examId": "H41329",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句：肚子",
+    "keywords": [
+      "用词",
+      "造句",
+      "肚子"
+    ],
+    "options": [],
+    "answer": "他突然觉得肚子疼.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41329_q96.png"
+  },
+  {
+    "id": "H41329-97",
+    "examId": "H41329",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句：擦",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "看,我把盘子擦干净了.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41329_q97.png"
+  },
+  {
+    "id": "H41329-98",
+    "examId": "H41329",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句：打折",
+    "keywords": [
+      "用词",
+      "造句",
+      "打折"
+    ],
+    "options": [],
+    "answer": "这双鞋现在打折,很便宜.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41329_q98.png"
+  },
+  {
+    "id": "H41329-99",
+    "examId": "H41329",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句：果汁",
+    "keywords": [
+      "用词",
+      "造句",
+      "果汁"
+    ],
+    "options": [],
+    "answer": "我每天都要喝杯果汁.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41329_q99.png"
+  },
+  {
+    "id": "H41329-100",
+    "examId": "H41329",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句：重",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "这两个箱子太重了.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41329_q100.png"
+  },
+  {
+    "id": "H41330-96",
+    "examId": "H41330",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句：零钱",
+    "keywords": [
+      "用词",
+      "造句",
+      "零钱"
+    ],
+    "options": [],
+    "answer": "我这里有很多零钱.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41330_q96.png"
+  },
+  {
+    "id": "H41330-97",
+    "examId": "H41330",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句：俩",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "我俩逛街买了很多东西.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41330_q97.png"
+  },
+  {
+    "id": "H41330-98",
+    "examId": "H41330",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句：严重",
+    "keywords": [
+      "用词",
+      "造句",
+      "严重"
+    ],
+    "options": [],
+    "answer": "我就是有点儿感冒,不太严重.",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41330_q98.png"
+  },
+  {
+    "id": "H41330-99",
+    "examId": "H41330",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句：猜",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "你猜猜我是谁?",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41330_q99.png"
+  },
+  {
+    "id": "H41330-100",
+    "examId": "H41330",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句：挂",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "我们把画儿挂这儿怎么样?",
+    "hasImageHint": true,
+    "confidence": 0.95,
+    "parseMethod": "hsk4_96_100_rule",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41330_q100.png"
+  },
+  {
+    "id": "H41113-96",
+    "examId": "H41113",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "下边的盒子比上边的大。",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41113_q96.png"
+  },
+  {
+    "id": "H41113-97",
+    "examId": "H41113",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "都十点多了，恐怕来不及了。",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41113_q97.png"
+  },
+  {
+    "id": "H41113-98",
+    "examId": "H41113",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "她把电话号码记在笔记本上了。",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41113_q98.png"
+  },
+  {
+    "id": "H41113-99",
+    "examId": "H41113",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "他弟弟也长得很帅。",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41113_q99.png"
+  },
+  {
+    "id": "H41113-100",
+    "examId": "H41113",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "这本书一共有多少页？",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41113_q100.png"
+  },
+  {
+    "id": "H41114-96",
+    "examId": "H41114",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "敲门的那个人是他女朋友。",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41114_q96.png"
+  },
+  {
+    "id": "H41114-97",
+    "examId": "H41114",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "他在找王校长的电话号码。",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41114_q97.png"
+  },
+  {
+    "id": "H41114-98",
+    "examId": "H41114",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "我困了，我们明天再聊吧。",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41114_q98.png"
+  },
+  {
+    "id": "H41114-99",
+    "examId": "H41114",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "请你把这份材料再复印两份。",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41114_q99.png"
+  },
+  {
+    "id": "H41114-100",
+    "examId": "H41114",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "哥哥的个子比弟弟高。",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41114_q100.png"
+  },
+  {
+    "id": "H41115-96",
+    "examId": "H41115",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "这份材料写得很详细。",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41115_q96.png"
+  },
+  {
+    "id": "H41115-97",
+    "examId": "H41115",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "让我想想有什么好主意。",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41115_q97.png"
+  },
+  {
+    "id": "H41115-98",
+    "examId": "H41115",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "你猜我手里是什么？",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41115_q98.png"
+  },
+  {
+    "id": "H41115-99",
+    "examId": "H41115",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "来，我告诉你个好消息。",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41115_q99.png"
+  },
+  {
+    "id": "H41115-100",
+    "examId": "H41115",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "他们把沙发抬到外面去了。",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41115_q100.png"
+  },
+  {
+    "id": "H41116-96",
+    "examId": "H41116",
+    "questionNo": 96,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "这本书她读过很多遍了。",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41116_q96.png"
+  },
+  {
+    "id": "H41116-97",
+    "examId": "H41116",
+    "questionNo": 97,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "加油站禁止打电话。",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41116_q97.png"
+  },
+  {
+    "id": "H41116-98",
+    "examId": "H41116",
+    "questionNo": 98,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "听到这个好消息，她非常兴奋。",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41116_q98.png"
+  },
+  {
+    "id": "H41116-99",
+    "examId": "H41116",
+    "questionNo": 99,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "我想我们俩之间有一些误会。",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41116_q99.png"
+  },
+  {
+    "id": "H41116-100",
+    "examId": "H41116",
+    "questionNo": 100,
+    "section": "Reading",
+    "prompt": "看图，用词造句",
+    "keywords": [
+      "用词",
+      "造句"
+    ],
+    "options": [],
+    "answer": "她感冒了，所以需要打一针。",
+    "hasImageHint": true,
+    "confidence": 0.75,
+    "parseMethod": "hsk4_96_100_ocr_answer_only",
+    "isTrusted": true,
+    "imagePath": "/data/sentence_images/H41116_q100.png"
+  }
+]

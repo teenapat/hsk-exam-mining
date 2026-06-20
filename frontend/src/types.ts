@@ -80,3 +80,19 @@ export interface VocabGraph {
   edges: Array<{ source: string; target: string; weight: number }>;
 }
 
+export interface SentenceBuilderItem {
+  id: string;
+  examId: string;
+  questionNo: number;
+  section: string;
+  prompt: string;
+  keywords: string[];
+  options: string[];
+  answer?: string;
+  hasImageHint: boolean;
+  confidence: number;
+  parseMethod: string;
+  isTrusted: boolean;
+  imagePath?: string | null;
+}
+

@@ -26,6 +26,7 @@ import type {
   GrammarPattern,
   Overview,
   PredictiveRow,
+  SentenceBuilderItem,
   SimilarityRow,
   TierRecommendation,
   TopicItem,
@@ -50,7 +51,8 @@ type Page =
   | "word"
   | "strategy"
   | "highValue"
-  | "csvAll";
+  | "csvAll"
+  | "sentenceBuilder";
 
 const PAGE_LABELS: Record<Page, string> = {
   home: "หน้าหลัก",
@@ -62,7 +64,8 @@ const PAGE_LABELS: Record<Page, string> = {
   word: "รายละเอียดคำศัพท์",
   strategy: "กลยุทธ์การอ่าน",
   highValue: "ไฟล์คำมูลค่าสูง (CSV)",
-  csvAll: "ตาราง CSV ทั้งหมด"
+  csvAll: "ตาราง CSV ทั้งหมด",
+  sentenceBuilder: "หมวดแต่งประโยค"
 };
 
 type ScatterPoint = {
@@ -87,6 +90,7 @@ const TOPIC_LABEL_TH: Record<string, string> = {
   Transportation: "การเดินทาง",
   Family: "ครอบครัว"
 };
+const SENTENCE_STORAGE_KEY = "hsk4_sentence_builder_saved_v1";
 
 async function fetchJson<T>(name: string): Promise<T> {
   const res = await fetch(`/data/${name}.json`);
@@ -113,6 +117,14 @@ export default function App() {
   const [selectedWord, setSelectedWord] = useState("应该");
   const [searchWord, setSearchWord] = useState("");
   const [highValueSearch, setHighValueSearch] = useState("");
+  const [sentenceItems, setSentenceItems] = useState<SentenceBuilderItem[]>([]);
+  const [sentenceSearch, setSentenceSearch] = useState("");
+  const [sentenceDraft, setSentenceDraft] = useState("");
+  const [sentenceIndex, setSentenceIndex] = useState(0);
+  const [showUntrustedSentenceItems, setShowUntrustedSentenceItems] = useState(false);
+  const [savedSentenceMap, setSavedSentenceMap] = useState<Record<string, string>>({});
+  const [showExampleMode, setShowExampleMode] = useState(false);
+  const [saveMessage, setSaveMessage] = useState("");
   const [sectionFilter, setSectionFilter] = useState<"all" | "Listening" | "Reading" | "Grammar" | "Vocabulary">("all");
   const [coverageRange, setCoverageRange] = useState<[number, number]>([0, 100]);
   const [frequencyRange, setFrequencyRange] = useState<[number, number]>([0, 100]);
@@ -131,9 +143,25 @@ export default function App() {
       fetchJson<VocabularyCard[]>("vocabulary_cards"),
       fetchJson<WordOccurrence[]>("phase3_word_occurrences"),
       fetchJson<VocabGraph>("vocab_graph"),
-      fetchJson<ExamQuestion[]>("phase1_questions")
+      fetchJson<ExamQuestion[]>("phase1_questions"),
+      fetchJson<SentenceBuilderItem[]>("sentence_builder_items")
     ])
-      .then(([ov, statsRows, highValueRows, grammarRows, topicRows, similarityData, predictiveData, tierRows, vocabCards, occurrenceRows, graphRows, questionRows]) => {
+      .then(
+        ([
+          ov,
+          statsRows,
+          highValueRows,
+          grammarRows,
+          topicRows,
+          similarityData,
+          predictiveData,
+          tierRows,
+          vocabCards,
+          occurrenceRows,
+          graphRows,
+          questionRows,
+          sentenceRows
+        ]) => {
         setOverview(ov);
         setStats(statsRows);
         setHighValueWords(highValueRows);
@@ -146,10 +174,31 @@ export default function App() {
         setOccurrences(occurrenceRows);
         setVocabGraph(graphRows);
         setQuestions(questionRows);
+        setSentenceItems(sentenceRows);
         setFrequencyRange([0, Math.max(40, ...statsRows.map((row) => row.totalOccurrences))]);
-      })
+        }
+      )
       .catch((err: Error) => setError(err.message));
   }, []);
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    try {
+      const raw = window.localStorage.getItem(SENTENCE_STORAGE_KEY);
+      if (!raw) return;
+      const parsed = JSON.parse(raw) as Record<string, string>;
+      if (parsed && typeof parsed === "object") {
+        setSavedSentenceMap(parsed);
+      }
+    } catch {
+      // ignore corrupted local storage payload
+    }
+  }, []);
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    window.localStorage.setItem(SENTENCE_STORAGE_KEY, JSON.stringify(savedSentenceMap));
+  }, [savedSentenceMap]);
 
   const tierByWord = useMemo(() => {
     const map = new Map<string, "S" | "A" | "B">();
@@ -369,6 +418,57 @@ export default function App() {
       (row) => row.word.includes(q) || row.pinyin?.toLowerCase().includes(q.toLowerCase()) || row.meaning?.toLowerCase().includes(q.toLowerCase())
     );
   }, [highValueSearch, highValueWords]);
+
+  const filteredSentenceItems = useMemo(() => {
+    const q = sentenceSearch.trim();
+    const base = showUntrustedSentenceItems ? sentenceItems : sentenceItems.filter((item) => item.isTrusted);
+    if (!q) return base;
+    return base.filter(
+      (item) =>
+        item.prompt.includes(q) ||
+        item.keywords.some((k) => k.includes(q)) ||
+        item.options.some((opt) => opt.includes(q))
+    );
+  }, [sentenceItems, sentenceSearch, showUntrustedSentenceItems]);
+
+  useEffect(() => {
+    if (!filteredSentenceItems.length) {
+      setSentenceIndex(0);
+      return;
+    }
+    if (sentenceIndex > filteredSentenceItems.length - 1) {
+      setSentenceIndex(0);
+    }
+  }, [filteredSentenceItems.length, sentenceIndex]);
+
+  const currentSentenceItem = filteredSentenceItems[sentenceIndex] ?? null;
+
+  const sentenceHintMatched = useMemo(() => {
+    if (!currentSentenceItem || !sentenceDraft.trim()) return 0;
+    if (!currentSentenceItem.keywords.length) return 0;
+    const matched = currentSentenceItem.keywords.filter((k) => sentenceDraft.includes(k)).length;
+    return Math.round((matched / currentSentenceItem.keywords.length) * 100);
+  }, [currentSentenceItem, sentenceDraft]);
+
+  const sentenceGrammarCheck = useMemo(
+    () => evaluateSentenceDraft(sentenceDraft, currentSentenceItem?.keywords ?? []),
+    [currentSentenceItem?.keywords, sentenceDraft]
+  );
+
+  const exampleModeSentences = useMemo(() => {
+    if (!currentSentenceItem) return [];
+    const keywords = currentSentenceItem.keywords;
+    const pool = cards.flatMap((card) => card.exampleSentences);
+    const filtered = pool.filter((sentence) => keywords.some((k) => sentence.includes(k)));
+    return Array.from(new Set(filtered)).slice(0, 3);
+  }, [cards, currentSentenceItem]);
+
+  useEffect(() => {
+    if (!currentSentenceItem) return;
+    setSentenceDraft(savedSentenceMap[currentSentenceItem.id] ?? "");
+    setSaveMessage("");
+    setShowExampleMode(false);
+  }, [currentSentenceItem?.id, savedSentenceMap]);
 
   if (error) {
     return <div className="mx-auto max-w-7xl p-8 text-red-300">โหลดข้อมูลไม่สำเร็จ: {error}</div>;
@@ -871,23 +971,37 @@ export default function App() {
           <Card>
             <CardTitle>รายการคำศัพท์มูลค่าสูง</CardTitle>
             <div className="mt-3 max-h-[560px] overflow-auto rounded-xl border border-border">
-              <table className="min-w-full text-sm">
-                <thead className="sticky top-0 bg-panelMuted">
+              <table className="min-w-full border-separate border-spacing-0 text-sm">
+                <thead>
                   <tr className="text-left text-textMuted">
-                    <th className="px-3 py-2">อันดับ</th>
-                    <th className="px-3 py-2">คำศัพท์</th>
-                    <th className="px-3 py-2">พินอิน</th>
-                    <th className="px-3 py-2">ความหมาย</th>
-                    <th className="px-3 py-2">คะแนน</th>
-                    <th className="px-3 py-2">ความถี่</th>
-                    <th className="px-3 py-2">ครอบคลุมข้อสอบ</th>
+                    <th className="sticky top-0 z-40 bg-[#0b1220] px-3 py-2 shadow-[0_1px_0_0_rgba(36,50,74,1)]">อันดับ</th>
+                    <th className="sticky top-0 z-40 bg-[#0b1220] px-3 py-2 shadow-[0_1px_0_0_rgba(36,50,74,1)]">คำศัพท์</th>
+                    <th className="sticky top-0 z-40 bg-[#0b1220] px-3 py-2 shadow-[0_1px_0_0_rgba(36,50,74,1)]">พินอิน</th>
+                    <th className="sticky top-0 z-40 bg-[#0b1220] px-3 py-2 shadow-[0_1px_0_0_rgba(36,50,74,1)]">ความหมาย</th>
+                    <th className="sticky top-0 z-40 bg-[#0b1220] px-3 py-2 shadow-[0_1px_0_0_rgba(36,50,74,1)]">คะแนน</th>
+                    <th className="sticky top-0 z-40 bg-[#0b1220] px-3 py-2 shadow-[0_1px_0_0_rgba(36,50,74,1)]">ความถี่</th>
+                    <th className="sticky top-0 z-40 bg-[#0b1220] px-3 py-2 shadow-[0_1px_0_0_rgba(36,50,74,1)]">ครอบคลุมข้อสอบ</th>
                   </tr>
                 </thead>
                 <tbody>
                   {filteredHighValueWords.slice(0, 1000).map((row) => (
-                    <tr key={`${row.rank}-${row.word}`} className="border-t border-border/80 hover:bg-panelMuted/70">
+                    <tr
+                      key={`${row.rank}-${row.word}`}
+                      className="border-t border-white/20 odd:bg-[#0a1424] even:bg-[#0b1728] hover:bg-[#13233a]"
+                    >
                       <td className="px-3 py-2">{row.rank}</td>
-                      <td className="px-3 py-2 font-medium">{row.word}</td>
+                      <td className="px-3 py-2 font-medium">
+                        <button
+                          type="button"
+                          className="rounded px-1 text-cyan-300 hover:bg-panelMuted hover:underline"
+                          onClick={() => {
+                            setSelectedWord(row.word);
+                            setPage("word");
+                          }}
+                        >
+                          {row.word}
+                        </button>
+                      </td>
                       <td className="px-3 py-2">{row.pinyin || "-"}</td>
                       <td className="px-3 py-2">{row.meaning || "-"}</td>
                       <td className="px-3 py-2">{row.score}</td>
@@ -918,6 +1032,10 @@ export default function App() {
           <CsvPreviewTable
             title="exam_similarity.csv"
             rows={similarityRows}
+            onWordClick={(word) => {
+              setSelectedWord(word);
+              setPage("word");
+            }}
             columns={[
               ["examA", "ข้อสอบ A"],
               ["examB", "ข้อสอบ B"],
@@ -929,6 +1047,10 @@ export default function App() {
           <CsvPreviewTable
             title="grammar_patterns.csv"
             rows={grammar}
+            onWordClick={(word) => {
+              setSelectedWord(word);
+              setPage("word");
+            }}
             columns={[
               ["pattern", "แพทเทิร์น"],
               ["occurrenceCount", "จำนวนครั้ง"],
@@ -940,6 +1062,10 @@ export default function App() {
           <CsvPreviewTable
             title="listening_top_words.csv"
             rows={listeningTopCsv}
+            onWordClick={(word) => {
+              setSelectedWord(word);
+              setPage("word");
+            }}
             columns={[
               ["word", "คำศัพท์"],
               ["count", "จำนวนครั้ง"]
@@ -949,6 +1075,10 @@ export default function App() {
           <CsvPreviewTable
             title="predictive_analysis.csv"
             rows={predictiveRows}
+            onWordClick={(word) => {
+              setSelectedWord(word);
+              setPage("word");
+            }}
             columns={[
               ["word", "คำศัพท์"],
               ["frequency", "ความถี่"],
@@ -960,6 +1090,10 @@ export default function App() {
           <CsvPreviewTable
             title="reading_top_words.csv"
             rows={readingTopCsv}
+            onWordClick={(word) => {
+              setSelectedWord(word);
+              setPage("word");
+            }}
             columns={[
               ["word", "คำศัพท์"],
               ["count", "จำนวนครั้ง"]
@@ -969,6 +1103,10 @@ export default function App() {
           <CsvPreviewTable
             title="study_recommendations.csv"
             rows={recommendations}
+            onWordClick={(word) => {
+              setSelectedWord(word);
+              setPage("word");
+            }}
             columns={[
               ["tier", "ระดับ"],
               ["word", "คำศัพท์"],
@@ -980,6 +1118,10 @@ export default function App() {
           <CsvPreviewTable
             title="topics.csv"
             rows={topics}
+            onWordClick={(word) => {
+              setSelectedWord(word);
+              setPage("word");
+            }}
             columns={[
               ["topicId", "รหัสหัวข้อ"],
               ["topicLabel", "หัวข้อ"],
@@ -992,6 +1134,10 @@ export default function App() {
           <CsvPreviewTable
             title="vocabulary_frequency.csv"
             rows={stats}
+            onWordClick={(word) => {
+              setSelectedWord(word);
+              setPage("word");
+            }}
             columns={[
               ["word", "คำศัพท์"],
               ["totalOccurrences", "ความถี่รวม"],
@@ -1002,6 +1148,210 @@ export default function App() {
               ["vocabularyCount", "พาร์ตคำศัพท์"]
             ]}
           />
+        </motion.section>
+      )}
+
+      {page === "sentenceBuilder" && (
+        <motion.section initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} className="space-y-4">
+          <Card>
+            <CardTitle>หมวดคำศัพท์แต่งประโยค (แนวข้อสอบรูปภาพ/คำศัพท์)</CardTitle>
+            <p className="mt-2 text-sm text-textMuted">
+              ฝึกจากโจทย์ที่มีลักษณะ "ดูภาพ/เติมประโยค/แต่งประโยค" ซึ่งคัดจากข้อสอบจริงอัตโนมัติ
+            </p>
+            <div className="mt-3 flex flex-wrap gap-2">
+              <Input
+                placeholder="ค้นหาโจทย์/คีย์เวิร์ด"
+                value={sentenceSearch}
+                onChange={(e) => {
+                  setSentenceSearch(e.target.value);
+                  setSentenceIndex(0);
+                }}
+                className="max-w-md"
+              />
+              <Button
+                variant="outline"
+                onClick={() => {
+                  if (!filteredSentenceItems.length) return;
+                  setSentenceIndex(Math.floor(Math.random() * filteredSentenceItems.length));
+                }}
+              >
+                สุ่มโจทย์
+              </Button>
+              <Button
+                variant={showUntrustedSentenceItems ? "default" : "outline"}
+                onClick={() => {
+                  setShowUntrustedSentenceItems((prev) => !prev);
+                  setSentenceIndex(0);
+                }}
+              >
+                {showUntrustedSentenceItems ? "กำลังแสดงทุกข้อ" : "แสดงเฉพาะข้อเชื่อถือสูง"}
+              </Button>
+              <Button
+                variant={showExampleMode ? "default" : "outline"}
+                onClick={() => setShowExampleMode((prev) => !prev)}
+              >
+                {showExampleMode ? "ซ่อนเฉลยตัวอย่าง" : "เปิดโหมดเฉลยตัวอย่าง"}
+              </Button>
+            </div>
+          </Card>
+
+          {currentSentenceItem ? (
+            <Card className="space-y-3">
+              <div className="flex flex-wrap items-center gap-2 text-sm text-textMuted">
+                <span>ข้อสอบ: {currentSentenceItem.examId}</span>
+                <span>ข้อที่: {currentSentenceItem.questionNo}</span>
+                <span>พาร์ต: {currentSentenceItem.section}</span>
+                <span>confidence: {(currentSentenceItem.confidence * 100).toFixed(0)}%</span>
+                <span>วิธี parse: {currentSentenceItem.parseMethod}</span>
+                {currentSentenceItem.hasImageHint && <Badge variant="warning">มีคำใบ้รูปภาพ</Badge>}
+                {currentSentenceItem.isTrusted ? <Badge variant="success">เชื่อถือได้สูง</Badge> : <Badge variant="danger">ความเชื่อถือต่ำ</Badge>}
+              </div>
+              <div className="rounded-xl border border-border bg-panelMuted p-3">
+                <p className="text-sm text-textMuted">โจทย์</p>
+                <p className="mt-1 text-base">{currentSentenceItem.prompt}</p>
+              </div>
+              {currentSentenceItem.imagePath && (
+                <div className="rounded-xl border border-border bg-panelMuted p-3">
+                  <p className="mb-2 text-sm text-textMuted">ภาพจากข้อสอบ</p>
+                  <img
+                    src={currentSentenceItem.imagePath}
+                    alt={`exam-${currentSentenceItem.examId}-q${currentSentenceItem.questionNo}`}
+                    className="max-h-[520px] w-full rounded-lg object-contain"
+                    loading="lazy"
+                  />
+                </div>
+              )}
+
+              <div>
+                <p className="mb-2 text-sm text-textMuted">คีย์เวิร์ดที่ควรพยายามใช้</p>
+                <div className="flex flex-wrap gap-2">
+                  {currentSentenceItem.keywords.map((k) => (
+                    <button
+                      type="button"
+                      key={k}
+                      className="rounded-full border border-border px-2 py-1 text-xs hover:bg-panelMuted"
+                      onClick={() => {
+                        setSentenceDraft((prev) => `${prev}${prev ? " " : ""}${k}`);
+                      }}
+                    >
+                      {k}
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              {currentSentenceItem.options.length > 0 && (
+                <div>
+                  <p className="mb-2 text-sm text-textMuted">ตัวเลือกจากข้อสอบ (ใช้เป็นคำใบ้ได้)</p>
+                  <div className="flex flex-wrap gap-2">
+                    {currentSentenceItem.options.map((opt) => (
+                      <button
+                        type="button"
+                        key={opt}
+                        className="rounded border border-border px-2 py-1 text-xs hover:bg-panelMuted"
+                        onClick={() => setSentenceDraft((prev) => `${prev}${prev ? " " : ""}${opt}`)}
+                      >
+                        {opt}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              <div>
+                <p className="mb-2 text-sm text-textMuted">แต่งประโยคของคุณ</p>
+                <textarea
+                  value={sentenceDraft}
+                  onChange={(e) => setSentenceDraft(e.target.value)}
+                  className="min-h-[120px] w-full rounded-xl border border-border bg-panelMuted p-3 text-sm text-text"
+                  placeholder="พิมพ์ประโยคภาษาจีนที่แต่งเอง..."
+                />
+                <div className="mt-2 flex flex-wrap gap-2">
+                  <Button
+                    variant="default"
+                    onClick={() => {
+                      if (!currentSentenceItem) return;
+                      setSavedSentenceMap((prev) => ({ ...prev, [currentSentenceItem.id]: sentenceDraft.trim() }));
+                      setSaveMessage("บันทึกประโยคเรียบร้อยแล้ว");
+                    }}
+                  >
+                    บันทึกประโยคที่แต่งไว้
+                  </Button>
+                  <Button
+                    variant="ghost"
+                    onClick={() => {
+                      if (!currentSentenceItem) return;
+                      setSentenceDraft(savedSentenceMap[currentSentenceItem.id] ?? "");
+                      setSaveMessage("โหลดประโยคที่บันทึกไว้แล้ว");
+                    }}
+                  >
+                    โหลดประโยคที่บันทึกไว้
+                  </Button>
+                </div>
+                {saveMessage && <p className="mt-2 text-xs text-cyan-300">{saveMessage}</p>}
+              </div>
+
+              <div className="rounded-xl border border-border bg-panelMuted p-3 text-sm">
+                <p>การใช้คีย์เวิร์ดตรงโจทย์: {sentenceHintMatched}%</p>
+                <p>คะแนน grammar เบื้องต้น: {sentenceGrammarCheck.score}/100</p>
+                {sentenceGrammarCheck.issues.length > 0 ? (
+                  <ul className="mt-1 list-disc space-y-0.5 pl-5 text-textMuted">
+                    {sentenceGrammarCheck.issues.map((issue) => (
+                      <li key={issue}>{issue}</li>
+                    ))}
+                  </ul>
+                ) : (
+                  <p className="text-textMuted">โครงสร้างพื้นฐานผ่านเงื่อนไขเบื้องต้น</p>
+                )}
+                <p className="mt-1 text-textMuted">*เป็นการประเมิน grammar แบบเบื้องต้น ไม่ใช่ตัวตรวจไวยากรณ์ระดับ NLP เต็มรูปแบบ</p>
+              </div>
+
+              {showExampleMode && (
+                <div className="rounded-xl border border-border bg-panelMuted p-3 text-sm">
+                  <p className="font-medium">เฉลยตัวอย่างต่อข้อ</p>
+                  {currentSentenceItem.answer &&
+                    !["A", "B", "C", "D"].includes(currentSentenceItem.answer) && (
+                      <div className="mt-2 rounded-lg border border-green-500/35 bg-green-500/10 p-2">
+                        <p className="text-xs text-green-300">เฉลยอ้างอิงจากข้อสอบ</p>
+                        <p className="mt-1 text-sm">{currentSentenceItem.answer}</p>
+                      </div>
+                    )}
+                  {exampleModeSentences.length > 0 ? (
+                    <ul className="mt-2 list-disc space-y-1 pl-5">
+                      {exampleModeSentences.map((sentence) => (
+                        <li key={sentence}>{sentence}</li>
+                      ))}
+                    </ul>
+                  ) : (
+                    <p className="mt-2 text-textMuted">ยังไม่มีตัวอย่างที่จับคู่คีย์เวิร์ดได้ในคลังข้อมูล</p>
+                  )}
+                </div>
+              )}
+
+              <div className="flex gap-2">
+                <Button
+                  variant="ghost"
+                  onClick={() => {
+                    setSentenceIndex((prev) => Math.max(0, prev - 1));
+                  }}
+                >
+                  ข้อก่อนหน้า
+                </Button>
+                <Button
+                  variant="default"
+                  onClick={() => {
+                    setSentenceIndex((prev) => Math.min(filteredSentenceItems.length - 1, prev + 1));
+                  }}
+                >
+                  ข้อถัดไป
+                </Button>
+              </div>
+            </Card>
+          ) : (
+            <Card>
+              <p className="text-sm text-textMuted">ไม่พบโจทย์ที่ตรงเงื่อนไขการค้นหา</p>
+            </Card>
+          )}
         </motion.section>
       )}
     </div>
@@ -1082,30 +1432,37 @@ function CompareTooltip({ active, payload }: TooltipProps<number, string>) {
 function CsvPreviewTable({
   title,
   rows,
-  columns
+  columns,
+  onWordClick
 }: {
   title: string;
   rows: object[];
   columns: Array<[string, string]>;
+  onWordClick?: (word: string) => void;
 }) {
   return (
     <Card>
       <CardTitle>{title}</CardTitle>
       <div className="mt-3 max-h-[360px] overflow-auto rounded-xl border border-border">
-        <table className="min-w-full text-sm">
-          <thead className="sticky top-0 bg-panelMuted">
+        <table className="min-w-full border-separate border-spacing-0 text-sm">
+          <thead>
             <tr className="text-left text-textMuted">
               {columns.map(([, label]) => (
-                <th key={label} className="px-3 py-2">{label}</th>
+                <th key={label} className="sticky top-0 z-40 bg-[#0b1220] px-3 py-2 shadow-[0_1px_0_0_rgba(36,50,74,1)]">
+                  {label}
+                </th>
               ))}
             </tr>
           </thead>
           <tbody>
             {rows.slice(0, 300).map((row, idx) => (
-              <tr key={`${title}-${idx}`} className="border-t border-border/80 hover:bg-panelMuted/70">
+              <tr
+                key={`${title}-${idx}`}
+                className="border-t border-white/20 odd:bg-[#0a1424] even:bg-[#0b1728] hover:bg-[#13233a]"
+              >
                 {columns.map(([key]) => (
                   <td key={`${title}-${idx}-${key}`} className="max-w-[360px] truncate px-3 py-2">
-                    {formatCell((row as Record<string, unknown>)[key])}
+                    {renderCsvCell((row as Record<string, unknown>)[key], key, onWordClick)}
                   </td>
                 ))}
               </tr>
@@ -1123,5 +1480,93 @@ function formatCell(value: unknown): string {
   if (Array.isArray(value)) return value.join(", ");
   if (typeof value === "object") return JSON.stringify(value);
   return String(value);
+}
+
+function renderCsvCell(value: unknown, key: string, onWordClick?: (word: string) => void) {
+  if (!onWordClick) return formatCell(value);
+
+  if (key === "word" && typeof value === "string" && hasChinese(value)) {
+    return (
+      <button
+        type="button"
+        className="rounded px-1 text-cyan-300 hover:bg-panelMuted hover:underline"
+        onClick={() => onWordClick(value)}
+      >
+        {value}
+      </button>
+    );
+  }
+
+  if (key === "topWords" && Array.isArray(value)) {
+    return (
+      <div className="flex flex-wrap gap-1">
+        {value.map((item) => {
+          const text = String(item);
+          const clickable = hasChinese(text);
+          return clickable ? (
+            <button
+              key={text}
+              type="button"
+              className="rounded-full border border-border px-2 py-0.5 text-xs text-cyan-300 hover:bg-panelMuted hover:underline"
+              onClick={() => onWordClick(text)}
+            >
+              {text}
+            </button>
+          ) : (
+            <span key={text} className="rounded-full border border-border px-2 py-0.5 text-xs">
+              {text}
+            </span>
+          );
+        })}
+      </div>
+    );
+  }
+
+  return formatCell(value);
+}
+
+function hasChinese(text: string): boolean {
+  return /[\u4e00-\u9fff]/.test(text);
+}
+
+function evaluateSentenceDraft(draft: string, keywords: string[]): { score: number; issues: string[] } {
+  const text = draft.trim();
+  const issues: string[] = [];
+
+  if (!text) {
+    return { score: 0, issues: ["ยังไม่ได้พิมพ์ประโยค"] };
+  }
+
+  const chineseChars = (text.match(/[\u4e00-\u9fff]/g) || []).length;
+  if (chineseChars < 8) {
+    issues.push("ประโยคสั้นเกินไป (แนะนำอย่างน้อย 8 ตัวอักษรจีน)");
+  }
+
+  const hasEndingPunctuation = /[。！？!?]$/.test(text);
+  if (!hasEndingPunctuation) {
+    issues.push("ควรลงท้ายด้วยเครื่องหมายวรรคตอน เช่น 。");
+  }
+
+  const matchedKeywords = keywords.filter((k) => text.includes(k)).length;
+  if (keywords.length > 0 && matchedKeywords === 0) {
+    issues.push("ยังไม่มีคีย์เวิร์ดจากโจทย์ในประโยค");
+  }
+
+  let score = 100;
+  if (chineseChars < 8) score -= 30;
+  if (!hasEndingPunctuation) score -= 20;
+  if (keywords.length > 0) {
+    const ratio = matchedKeywords / keywords.length;
+    if (ratio < 0.2) score -= 25;
+    else if (ratio < 0.4) score -= 15;
+    else if (ratio < 0.6) score -= 8;
+  }
+  if (/(。。|，，|！！|\?\?)/.test(text)) {
+    score -= 10;
+    issues.push("พบเครื่องหมายซ้ำหลายตัวติดกัน");
+  }
+
+  score = Math.max(0, Math.min(100, Math.round(score)));
+  return { score, issues };
 }
 

@@ -6,8 +6,10 @@ lxml
 networkx
 numpy
 pandas
+pymupdf
 pypdf
 pypinyin
+rapidocr-onnxruntime
 reportlab
 scikit-learn
 wordcloud

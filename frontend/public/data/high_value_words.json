@@ -1,1662 +1,2778 @@
 [
   {
     "rank": 1,
-    "word": "什么",
-    "score": 5104.0,
-    "frequency": 319,
-    "examCoverage": 16,
-    "pinyin": "shén me",
-    "meaning": "อะไร (whatsoever)"
-  },
-  {
-    "rank": 2,
     "word": "我们",
-    "score": 4400.0,
-    "frequency": 275,
-    "examCoverage": 16,
+    "score": 5984.0,
+    "frequency": 352,
+    "examCoverage": 17,
     "pinyin": "wǒ men",
     "meaning": "เรา (we)"
   },
   {
+    "rank": 2,
+    "word": "什么",
+    "score": 5967.0,
+    "frequency": 351,
+    "examCoverage": 17,
+    "pinyin": "shén me",
+    "meaning": "อะไร (whatsoever)"
+  },
+  {
     "rank": 3,
     "word": "可以",
-    "score": 2880.0,
-    "frequency": 180,
-    "examCoverage": 16,
+    "score": 3638.0,
+    "frequency": 214,
+    "examCoverage": 17,
     "pinyin": "kě yǐ",
     "meaning": "สามารถ (tolerableness)"
   },
   {
     "rank": 4,
+    "word": "例如",
+    "score": 3400.0,
+    "frequency": 200,
+    "examCoverage": 17,
+    "pinyin": "lì rú",
+    "meaning": "ตัวอย่างเช่น (exempligratia)"
+  },
+  {
+    "rank": 5,
     "word": "一个",
-    "score": 2465.0,
-    "frequency": 145,
+    "score": 3094.0,
+    "frequency": 182,
     "examCoverage": 17,
     "pinyin": "yí gè",
     "meaning": "หนึ่ง (singleton)"
   },
   {
-    "rank": 5,
-    "word": "例如",
-    "score": 2352.0,
-    "frequency": 147,
-    "examCoverage": 16,
-    "pinyin": "lì rú",
-    "meaning": "ตัวอย่างเช่น (exempligratia)"
-  },
-  {
     "rank": 6,
     "word": "现在",
-    "score": 2205.0,
-    "frequency": 147,
-    "examCoverage": 15,
+    "score": 2924.0,
+    "frequency": 172,
+    "examCoverage": 17,
     "pinyin": "xiàn zài",
     "meaning": "ตอนนี้ (nowadays)"
   },
   {
     "rank": 7,
-    "word": "这个",
-    "score": 1920.0,
-    "frequency": 120,
+    "word": "自己",
+    "score": 2912.0,
+    "frequency": 182,
     "examCoverage": 16,
-    "pinyin": "zhè ge",
-    "meaning": "นี้ (this)"
+    "pinyin": "zì jǐ",
+    "meaning": "เป็นเจ้าของ (self)"
   },
   {
     "rank": 8,
     "word": "时间",
-    "score": 1890.0,
-    "frequency": 126,
-    "examCoverage": 15,
+    "score": 2703.0,
+    "frequency": 159,
+    "examCoverage": 17,
     "pinyin": "shí jiān",
     "meaning": "เวลา (time)"
   },
   {
     "rank": 9,
-    "word": "自己",
-    "score": 1876.0,
-    "frequency": 134,
-    "examCoverage": 14,
-    "pinyin": "zì jǐ",
-    "meaning": "เป็นเจ้าของ (self)"
+    "word": "用词",
+    "score": 2400.0,
+    "frequency": 120,
+    "examCoverage": 20,
+    "pinyin": "yòng cí",
+    "meaning": "คำศัพท์ (malaprop)"
   },
   {
     "rank": 10,
+    "word": "造句",
+    "score": 2400.0,
+    "frequency": 120,
+    "examCoverage": 20,
+    "pinyin": "zào jù",
+    "meaning": "สร้างประโยค (construction)"
+  },
+  {
+    "rank": 11,
+    "word": "这个",
+    "score": 2380.0,
+    "frequency": 140,
+    "examCoverage": 17,
+    "pinyin": "zhè ge",
+    "meaning": "นี้ (this)"
+  },
+  {
+    "rank": 12,
     "word": "他们",
-    "score": 1815.0,
-    "frequency": 121,
-    "examCoverage": 15,
+    "score": 2352.0,
+    "frequency": 147,
+    "examCoverage": 16,
     "pinyin": "tā men",
     "meaning": "พวกเขา (they)"
   },
   {
-    "rank": 11,
-    "word": "部分",
-    "score": 1695.0,
-    "frequency": 113,
-    "examCoverage": 15,
-    "pinyin": "bù fèn",
-    "meaning": "ส่วนหนึ่ง (installment)"
-  },
-  {
-    "rank": 12,
-    "word": "根据",
-    "score": 1664.0,
-    "frequency": 104,
-    "examCoverage": 16,
-    "pinyin": "gēn jù",
-    "meaning": "ตาม (evidence)"
-  },
-  {
     "rank": 13,
     "word": "这段话",
-    "score": 1664.0,
-    "frequency": 104,
-    "examCoverage": 16,
+    "score": 2329.0,
+    "frequency": 137,
+    "examCoverage": 17,
     "pinyin": "zhè duàn huà",
     "meaning": "ข้อความนี้ (no dictionary entry)"
   },
   {
     "rank": 14,
-    "word": "大家",
-    "score": 1632.0,
-    "frequency": 102,
-    "examCoverage": 16,
-    "pinyin": "dà jiā",
-    "meaning": "ทุกคน (blowhard)"
-  },
-  {
-    "rank": 15,
-    "word": "喜欢",
-    "score": 1552.0,
-    "frequency": 97,
-    "examCoverage": 16,
-    "pinyin": "xǐ huān",
-    "meaning": "ชอบ (favor)"
-  },
-  {
-    "rank": 16,
     "word": "别人",
-    "score": 1545.0,
-    "frequency": 103,
-    "examCoverage": 15,
+    "score": 2312.0,
+    "frequency": 136,
+    "examCoverage": 17,
     "pinyin": "bié rén",
     "meaning": "คนอื่น ๆ (purger)"
   },
   {
-    "rank": 17,
-    "word": "考试",
-    "score": 1498.0,
-    "frequency": 107,
-    "examCoverage": 14,
-    "pinyin": "kǎo shì",
-    "meaning": "ทำข้อสอบ (exam)"
-  },
-  {
-    "rank": 18,
+    "rank": 15,
     "word": "很多",
-    "score": 1455.0,
-    "frequency": 97,
-    "examCoverage": 15,
+    "score": 2261.0,
+    "frequency": 133,
+    "examCoverage": 17,
     "pinyin": "hěn duō",
     "meaning": "มาก (hatful)"
   },
   {
+    "rank": 16,
+    "word": "部分",
+    "score": 2176.0,
+    "frequency": 128,
+    "examCoverage": 17,
+    "pinyin": "bù fèn",
+    "meaning": "ส่วนหนึ่ง (installment)"
+  },
+  {
+    "rank": 17,
+    "word": "喜欢",
+    "score": 2176.0,
+    "frequency": 128,
+    "examCoverage": 17,
+    "pinyin": "xǐ huān",
+    "meaning": "ชอบ (favor)"
+  },
+  {
+    "rank": 18,
+    "word": "根据",
+    "score": 2125.0,
+    "frequency": 125,
+    "examCoverage": 17,
+    "pinyin": "gēn jù",
+    "meaning": "ตาม (evidence)"
+  },
+  {
     "rank": 19,
-    "word": "知道",
-    "score": 1305.0,
-    "frequency": 87,
-    "examCoverage": 15,
-    "pinyin": "zhī dào",
-    "meaning": "รู้ (to know)"
+    "word": "考试",
+    "score": 2108.0,
+    "frequency": 124,
+    "examCoverage": 17,
+    "pinyin": "kǎo shì",
+    "meaning": "ทำข้อสอบ (exam)"
   },
   {
     "rank": 20,
-    "word": "主要",
-    "score": 1216.0,
-    "frequency": 76,
-    "examCoverage": 16,
-    "pinyin": "zhǔ yào",
-    "meaning": "หลัก (principally)"
+    "word": "大家",
+    "score": 1938.0,
+    "frequency": 114,
+    "examCoverage": 17,
+    "pinyin": "dà jiā",
+    "meaning": "ทุกคน (blowhard)"
   },
   {
     "rank": 21,
     "word": "今天",
-    "score": 1215.0,
-    "frequency": 81,
-    "examCoverage": 15,
+    "score": 1904.0,
+    "frequency": 112,
+    "examCoverage": 17,
     "pinyin": "jīn tiān",
     "meaning": "วันนี้ (today)"
   },
   {
     "rank": 22,
-    "word": "开始",
-    "score": 1162.0,
-    "frequency": 83,
-    "examCoverage": 14,
-    "pinyin": "kāi shǐ",
-    "meaning": "เริ่ม (beginning)"
+    "word": "主要",
+    "score": 1649.0,
+    "frequency": 97,
+    "examCoverage": 17,
+    "pinyin": "zhǔ yào",
+    "meaning": "หลัก (principally)"
   },
   {
     "rank": 23,
     "word": "没有",
-    "score": 1140.0,
-    "frequency": 76,
-    "examCoverage": 15,
+    "score": 1649.0,
+    "frequency": 97,
+    "examCoverage": 17,
     "pinyin": "méi yǒu",
     "meaning": "เลขที่ (doesnot)"
   },
   {
     "rank": 24,
-    "word": "应该",
-    "score": 1136.0,
-    "frequency": 71,
+    "word": "分钟",
+    "score": 1648.0,
+    "frequency": 103,
     "examCoverage": 16,
-    "pinyin": "yīng gāi",
-    "meaning": "ควร (should; ought to)"
+    "pinyin": "fēn zhōng",
+    "meaning": "นาที (minute)"
   },
   {
     "rank": 25,
     "word": "所以",
-    "score": 1080.0,
-    "frequency": 72,
-    "examCoverage": 15,
+    "score": 1598.0,
+    "frequency": 94,
+    "examCoverage": 17,
     "pinyin": "suǒ yǐ",
     "meaning": "ดังนั้น (therefore)"
   },
   {
     "rank": 26,
-    "word": "觉得",
-    "score": 1035.0,
-    "frequency": 69,
-    "examCoverage": 15,
-    "pinyin": "jué de",
-    "meaning": "รู้สึก; คิดว่า (to feel; to think)"
+    "word": "知道",
+    "score": 1584.0,
+    "frequency": 99,
+    "examCoverage": 16,
+    "pinyin": "zhī dào",
+    "meaning": "รู้ (to know)"
   },
   {
     "rank": 27,
+    "word": "应该",
+    "score": 1564.0,
+    "frequency": 92,
+    "examCoverage": 17,
+    "pinyin": "yīng gāi",
+    "meaning": "ควร (should; ought to)"
+  },
+  {
+    "rank": 28,
     "word": "工作",
-    "score": 1020.0,
-    "frequency": 68,
-    "examCoverage": 15,
+    "score": 1488.0,
+    "frequency": 93,
+    "examCoverage": 16,
     "pinyin": "gōng zuò",
     "meaning": "ทำงาน; งาน (to work; job)"
   },
   {
-    "rank": 28,
+    "rank": 29,
+    "word": "觉得",
+    "score": 1479.0,
+    "frequency": 87,
+    "examCoverage": 17,
+    "pinyin": "jué de",
+    "meaning": "รู้สึก; คิดว่า (to feel; to think)"
+  },
+  {
+    "rank": 30,
     "word": "正确",
-    "score": 1005.0,
-    "frequency": 67,
-    "examCoverage": 15,
+    "score": 1462.0,
+    "frequency": 86,
+    "examCoverage": 17,
     "pinyin": "zhèng què",
     "meaning": "ถูกต้อง (exactness)"
   },
   {
-    "rank": 29,
-    "word": "一下",
-    "score": 928.0,
-    "frequency": 58,
-    "examCoverage": 16,
-    "pinyin": "yī xià",
-    "meaning": "ครั้งหนึ่ง (clout)"
+    "rank": 31,
+    "word": "生活",
+    "score": 1360.0,
+    "frequency": 80,
+    "examCoverage": 17,
+    "pinyin": "shēng huó",
+    "meaning": "ชีวิต (lifeway)"
   },
   {
-    "rank": 30,
+    "rank": 32,
+    "word": "开始",
+    "score": 1335.0,
+    "frequency": 89,
+    "examCoverage": 15,
+    "pinyin": "kāi shǐ",
+    "meaning": "เริ่ม (beginning)"
+  },
+  {
+    "rank": 33,
     "word": "四级",
-    "score": 924.0,
-    "frequency": 66,
-    "examCoverage": 14,
+    "score": 1326.0,
+    "frequency": 78,
+    "examCoverage": 17,
     "pinyin": "sì jí",
     "meaning": "ระดับ 4 (no dictionary entry)"
   },
   {
-    "rank": 31,
+    "rank": 34,
     "word": "人们",
-    "score": 924.0,
-    "frequency": 66,
-    "examCoverage": 14,
+    "score": 1312.0,
+    "frequency": 82,
+    "examCoverage": 16,
     "pinyin": "rén men",
     "meaning": "ประชากร (folk)"
   },
   {
-    "rank": 32,
+    "rank": 35,
     "word": "时候",
-    "score": 924.0,
-    "frequency": 66,
-    "examCoverage": 14,
+    "score": 1296.0,
+    "frequency": 81,
+    "examCoverage": 16,
     "pinyin": "shí hòu",
     "meaning": "เมื่อไร (occasionally)"
   },
   {
-    "rank": 33,
-    "word": "明天",
-    "score": 915.0,
-    "frequency": 61,
-    "examCoverage": 15,
-    "pinyin": "míng tiān",
-    "meaning": "พรุ่งนี้ (manana)"
+    "rank": 36,
+    "word": "广告",
+    "score": 1292.0,
+    "frequency": 76,
+    "examCoverage": 17,
+    "pinyin": "guǎng gào",
+    "meaning": "โฆษณา (drumbeating)"
   },
   {
-    "rank": 34,
+    "rank": 37,
     "word": "不管",
-    "score": 900.0,
-    "frequency": 60,
-    "examCoverage": 15,
+    "score": 1275.0,
+    "frequency": 75,
+    "examCoverage": 17,
     "pinyin": "bù guǎn",
     "meaning": "ทั้งๆที่ (faineancy)"
   },
   {
-    "rank": 35,
+    "rank": 38,
+    "word": "明天",
+    "score": 1275.0,
+    "frequency": 75,
+    "examCoverage": 17,
+    "pinyin": "míng tiān",
+    "meaning": "พรุ่งนี้ (manana)"
+  },
+  {
+    "rank": 39,
+    "word": "孩子",
+    "score": 1264.0,
+    "frequency": 79,
+    "examCoverage": 16,
+    "pinyin": "hái zi",
+    "meaning": "เด็ก (child)"
+  },
+  {
+    "rank": 40,
+    "word": "听力",
+    "score": 1241.0,
+    "frequency": 73,
+    "examCoverage": 17,
+    "pinyin": "tīng lì",
+    "meaning": "การได้ยิน (audition)"
+  },
+  {
+    "rank": 41,
+    "word": "不要",
+    "score": 1134.0,
+    "frequency": 81,
+    "examCoverage": 14,
+    "pinyin": "bú yào",
+    "meaning": "ไม่ต้องการ (nonrepetatur)"
+  },
+  {
+    "rank": 42,
+    "word": "需要",
+    "score": 1122.0,
+    "frequency": 66,
+    "examCoverage": 17,
+    "pinyin": "xū yào",
+    "meaning": "ความต้องการ (require)"
+  },
+  {
+    "rank": 43,
+    "word": "一下",
+    "score": 1122.0,
+    "frequency": 66,
+    "examCoverage": 17,
+    "pinyin": "yī xià",
+    "meaning": "ครั้งหนึ่ง (clout)"
+  },
+  {
+    "rank": 44,
+    "word": "非常",
+    "score": 1120.0,
+    "frequency": 70,
+    "examCoverage": 16,
+    "pinyin": "fēi cháng",
+    "meaning": "มาก (greatly)"
+  },
+  {
+    "rank": 45,
+    "word": "重要",
+    "score": 1105.0,
+    "frequency": 65,
+    "examCoverage": 17,
+    "pinyin": "zhòng yào",
+    "meaning": "สำคัญ (signality)"
+  },
+  {
+    "rank": 46,
+    "word": "参加",
+    "score": 1088.0,
+    "frequency": 68,
+    "examCoverage": 16,
+    "pinyin": "cān jiā",
+    "meaning": "เข้าร่วม (participate)"
+  },
+  {
+    "rank": 47,
+    "word": "答案",
+    "score": 1072.0,
+    "frequency": 67,
+    "examCoverage": 16,
+    "pinyin": "dá àn",
+    "meaning": "คำตอบ (answer)"
+  },
+  {
+    "rank": 48,
+    "word": "可能",
+    "score": 1071.0,
+    "frequency": 63,
+    "examCoverage": 17,
+    "pinyin": "kě néng",
+    "meaning": "เป็นไปได้ (likelihood)"
+  },
+  {
+    "rank": 49,
+    "word": "中国",
+    "score": 1056.0,
+    "frequency": 66,
+    "examCoverage": 16,
+    "pinyin": "zhōng guó",
+    "meaning": "จีน (china)"
+  },
+  {
+    "rank": 50,
     "word": "事情",
-    "score": 900.0,
-    "frequency": 60,
+    "score": 1035.0,
+    "frequency": 69,
     "examCoverage": 15,
     "pinyin": "shì qíng",
     "meaning": "วัตถุ (business)"
   },
   {
-    "rank": 36,
-    "word": "不要",
-    "score": 871.0,
-    "frequency": 67,
-    "examCoverage": 13,
-    "pinyin": "bú yào",
-    "meaning": "ไม่ต้องการ (nonrepetatur)"
-  },
-  {
-    "rank": 37,
-    "word": "听力",
-    "score": 868.0,
-    "frequency": 62,
-    "examCoverage": 14,
-    "pinyin": "tīng lì",
-    "meaning": "การได้ยิน (audition)"
-  },
-  {
-    "rank": 38,
-    "word": "孩子",
-    "score": 868.0,
-    "frequency": 62,
-    "examCoverage": 14,
-    "pinyin": "hái zi",
-    "meaning": "เด็ก (child)"
-  },
-  {
-    "rank": 39,
-    "word": "关于",
-    "score": 855.0,
-    "frequency": 57,
-    "examCoverage": 15,
-    "pinyin": "guān yú",
-    "meaning": "เกี่ยวกับ (of)"
-  },
-  {
-    "rank": 40,
-    "word": "生活",
-    "score": 854.0,
-    "frequency": 61,
-    "examCoverage": 14,
-    "pinyin": "shēng huó",
-    "meaning": "ชีวิต (lifeway)"
-  },
-  {
-    "rank": 41,
-    "word": "广告",
-    "score": 826.0,
-    "frequency": 59,
-    "examCoverage": 14,
-    "pinyin": "guǎng gào",
-    "meaning": "โฆษณา (drumbeating)"
-  },
-  {
-    "rank": 42,
-    "word": "分钟",
-    "score": 814.0,
-    "frequency": 74,
-    "examCoverage": 11,
-    "pinyin": "fēn zhōng",
-    "meaning": "นาที (minute)"
-  },
-  {
-    "rank": 43,
-    "word": "参加",
-    "score": 812.0,
-    "frequency": 58,
-    "examCoverage": 14,
-    "pinyin": "cān jiā",
-    "meaning": "เข้าร่วม (participate)"
-  },
-  {
-    "rank": 44,
-    "word": "需要",
-    "score": 800.0,
-    "frequency": 50,
-    "examCoverage": 16,
-    "pinyin": "xū yào",
-    "meaning": "ความต้องการ (require)"
-  },
-  {
-    "rank": 45,
-    "word": "非常",
-    "score": 780.0,
-    "frequency": 52,
-    "examCoverage": 15,
-    "pinyin": "fēi cháng",
-    "meaning": "มาก (greatly)"
-  },
-  {
-    "rank": 46,
-    "word": "不是",
-    "score": 752.0,
-    "frequency": 47,
-    "examCoverage": 16,
-    "pinyin": "bú shì",
-    "meaning": "เลขที่ (nope)"
-  },
-  {
-    "rank": 47,
-    "word": "可能",
-    "score": 750.0,
-    "frequency": 50,
-    "examCoverage": 15,
-    "pinyin": "kě néng",
-    "meaning": "เป็นไปได้ (likelihood)"
-  },
-  {
-    "rank": 48,
-    "word": "重要",
-    "score": 750.0,
-    "frequency": 50,
-    "examCoverage": 15,
-    "pinyin": "zhòng yào",
-    "meaning": "สำคัญ (signality)"
-  },
-  {
-    "rank": 49,
+    "rank": 51,
     "word": "问题",
-    "score": 742.0,
-    "frequency": 53,
-    "examCoverage": 14,
+    "score": 1024.0,
+    "frequency": 64,
+    "examCoverage": 16,
     "pinyin": "wèn tí",
     "meaning": "คำถาม; ปัญหา (question; problem)"
   },
   {
-    "rank": 50,
-    "word": "中国",
-    "score": 728.0,
-    "frequency": 52,
-    "examCoverage": 14,
-    "pinyin": "zhōng guó",
-    "meaning": "จีน (china)"
-  },
-  {
-    "rank": 51,
-    "word": "意思",
-    "score": 705.0,
-    "frequency": 47,
-    "examCoverage": 15,
-    "pinyin": "yì si",
-    "meaning": "หมายถึง (import)"
-  },
-  {
     "rank": 52,
-    "word": "注意",
-    "score": 690.0,
-    "frequency": 46,
-    "examCoverage": 15,
-    "pinyin": "zhù yì",
-    "meaning": "สังเกต (advertence)"
-  },
-  {
-    "rank": 53,
-    "word": "为什么",
-    "score": 689.0,
-    "frequency": 53,
-    "examCoverage": 13,
-    "pinyin": "wèi shén me",
-    "meaning": "ทำไม (whereto)"
-  },
-  {
-    "rank": 54,
-    "word": "怎么样",
-    "score": 682.0,
-    "frequency": 62,
-    "examCoverage": 11,
-    "pinyin": "zěn me yàng",
-    "meaning": "แล้วไงล่ะ (no dictionary entry)"
-  },
-  {
-    "rank": 55,
-    "word": "如果",
-    "score": 672.0,
-    "frequency": 48,
-    "examCoverage": 14,
-    "pinyin": "rú guǒ",
-    "meaning": "ถ้า (unless)"
-  },
-  {
-    "rank": 56,
     "word": "不能",
-    "score": 663.0,
-    "frequency": 51,
-    "examCoverage": 13,
+    "score": 1020.0,
+    "frequency": 68,
+    "examCoverage": 15,
     "pinyin": "bù néng",
     "meaning": "ไม่สามารถ (impassability)"
   },
   {
-    "rank": 57,
+    "rank": 53,
     "word": "看到",
-    "score": 660.0,
-    "frequency": 44,
-    "examCoverage": 15,
+    "score": 986.0,
+    "frequency": 58,
+    "examCoverage": 17,
     "pinyin": "kàn dào",
     "meaning": "ดู (espy)"
   },
   {
-    "rank": 58,
+    "rank": 54,
     "word": "那么",
-    "score": 660.0,
-    "frequency": 44,
-    "examCoverage": 15,
+    "score": 986.0,
+    "frequency": 58,
+    "examCoverage": 17,
     "pinyin": "nà me",
     "meaning": "ดังนั้น (then)"
   },
   {
-    "rank": 59,
-    "word": "因为",
-    "score": 658.0,
-    "frequency": 47,
-    "examCoverage": 14,
-    "pinyin": "yīn wèi",
-    "meaning": "เพราะ (inasmuch)"
+    "rank": 55,
+    "word": "机场",
+    "score": 986.0,
+    "frequency": 58,
+    "examCoverage": 17,
+    "pinyin": "jī chǎng",
+    "meaning": "สนามบิน (aerodrome)"
   },
   {
-    "rank": 60,
-    "word": "历史",
-    "score": 645.0,
-    "frequency": 43,
-    "examCoverage": 15,
-    "pinyin": "lì shǐ",
-    "meaning": "ประวัติศาสตร์ (history)"
-  },
-  {
-    "rank": 61,
+    "rank": 56,
     "word": "小时",
-    "score": 644.0,
-    "frequency": 46,
-    "examCoverage": 14,
+    "score": 969.0,
+    "frequency": 57,
+    "examCoverage": 17,
     "pinyin": "xiǎo shí",
     "meaning": "ชั่วโมง (hour)"
   },
   {
-    "rank": 62,
-    "word": "怎么",
-    "score": 637.0,
-    "frequency": 49,
-    "examCoverage": 13,
-    "pinyin": "zěn me",
-    "meaning": "ยังไง (what)"
-  },
-  {
-    "rank": 63,
-    "word": "下午",
-    "score": 630.0,
-    "frequency": 45,
-    "examCoverage": 14,
-    "pinyin": "xià wǔ",
-    "meaning": "ตอนบ่าย (arvo)"
-  },
-  {
-    "rank": 64,
+    "rank": 57,
     "word": "会议室",
-    "score": 616.0,
-    "frequency": 44,
-    "examCoverage": 14,
+    "score": 952.0,
+    "frequency": 56,
+    "examCoverage": 17,
     "pinyin": "huì yì shì",
     "meaning": "ห้องประชุม (boardroom)"
   },
   {
+    "rank": 58,
+    "word": "很少",
+    "score": 935.0,
+    "frequency": 55,
+    "examCoverage": 17,
+    "pinyin": "hěn shǎo",
+    "meaning": "หายาก (seldom)"
+  },
+  {
+    "rank": 59,
+    "word": "如果",
+    "score": 928.0,
+    "frequency": 58,
+    "examCoverage": 16,
+    "pinyin": "rú guǒ",
+    "meaning": "ถ้า (unless)"
+  },
+  {
+    "rank": 60,
+    "word": "意思",
+    "score": 918.0,
+    "frequency": 54,
+    "examCoverage": 17,
+    "pinyin": "yì si",
+    "meaning": "หมายถึง (import)"
+  },
+  {
+    "rank": 61,
+    "word": "银行",
+    "score": 901.0,
+    "frequency": 53,
+    "examCoverage": 17,
+    "pinyin": "yín háng",
+    "meaning": "ธนาคาร (bank)"
+  },
+  {
+    "rank": 62,
+    "word": "只要",
+    "score": 884.0,
+    "frequency": 52,
+    "examCoverage": 17,
+    "pinyin": "zhǐ yào",
+    "meaning": "ถ้าเท่านั้น (whenever)"
+  },
+  {
+    "rank": 63,
+    "word": "历史",
+    "score": 880.0,
+    "frequency": 55,
+    "examCoverage": 16,
+    "pinyin": "lì shǐ",
+    "meaning": "ประวัติศาสตร์ (history)"
+  },
+  {
+    "rank": 64,
+    "word": "注意",
+    "score": 880.0,
+    "frequency": 55,
+    "examCoverage": 16,
+    "pinyin": "zhù yì",
+    "meaning": "สังเกต (advertence)"
+  },
+  {
     "rank": 65,
-    "word": "告诉",
-    "score": 616.0,
-    "frequency": 44,
-    "examCoverage": 14,
-    "pinyin": "gào sù",
-    "meaning": "บอก (inform)"
+    "word": "因为",
+    "score": 870.0,
+    "frequency": 58,
+    "examCoverage": 15,
+    "pinyin": "yīn wèi",
+    "meaning": "เพราะ (inasmuch)"
   },
   {
     "rank": 66,
-    "word": "说话",
-    "score": 615.0,
-    "frequency": 41,
-    "examCoverage": 15,
-    "pinyin": "shuō huà",
-    "meaning": "พูด (utterance)"
+    "word": "下午",
+    "score": 867.0,
+    "frequency": 51,
+    "examCoverage": 17,
+    "pinyin": "xià wǔ",
+    "meaning": "ตอนบ่าย (arvo)"
   },
   {
     "rank": 67,
     "word": "这样",
-    "score": 608.0,
-    "frequency": 38,
-    "examCoverage": 16,
+    "score": 867.0,
+    "frequency": 51,
+    "examCoverage": 17,
     "pinyin": "zhè yàng",
     "meaning": "ดังนั้น (thuswise)"
   },
   {
     "rank": 68,
-    "word": "机场",
-    "score": 602.0,
-    "frequency": 43,
-    "examCoverage": 14,
-    "pinyin": "jī chǎng",
-    "meaning": "สนามบิน (aerodrome)"
+    "word": "说话",
+    "score": 867.0,
+    "frequency": 51,
+    "examCoverage": 17,
+    "pinyin": "shuō huà",
+    "meaning": "พูด (utterance)"
   },
   {
     "rank": 69,
-    "word": "很少",
-    "score": 588.0,
-    "frequency": 42,
-    "examCoverage": 14,
-    "pinyin": "hěn shǎo",
-    "meaning": "หายาก (seldom)"
+    "word": "不是",
+    "score": 864.0,
+    "frequency": 54,
+    "examCoverage": 16,
+    "pinyin": "bú shì",
+    "meaning": "เลขที่ (nope)"
   },
   {
     "rank": 70,
-    "word": "答案",
-    "score": 585.0,
-    "frequency": 45,
-    "examCoverage": 13,
-    "pinyin": "dá àn",
-    "meaning": "คำตอบ (answer)"
-  },
-  {
-    "rank": 71,
-    "word": "一共",
-    "score": 585.0,
-    "frequency": 39,
-    "examCoverage": 15,
-    "pinyin": "yī gòng",
-    "meaning": "ทั้งหมด (aggregately)"
-  },
-  {
-    "rank": 72,
-    "word": "只要",
-    "score": 570.0,
-    "frequency": 38,
-    "examCoverage": 15,
-    "pinyin": "zhǐ yào",
-    "meaning": "ถ้าเท่านั้น (whenever)"
-  },
-  {
-    "rank": 73,
-    "word": "银行",
-    "score": 560.0,
-    "frequency": 40,
-    "examCoverage": 14,
-    "pinyin": "yín háng",
-    "meaning": "ธนาคาร (bank)"
-  },
-  {
-    "rank": 74,
-    "word": "还是",
-    "score": 560.0,
-    "frequency": 40,
-    "examCoverage": 14,
-    "pinyin": "hái shì",
-    "meaning": "นิ่ง (notwithstanding)"
-  },
-  {
-    "rank": 75,
-    "word": "已经",
-    "score": 546.0,
-    "frequency": 42,
-    "examCoverage": 13,
-    "pinyin": "yǐ jīng",
-    "meaning": "เรียบร้อยแล้ว (already)"
-  },
-  {
-    "rank": 76,
-    "word": "一会儿",
-    "score": 546.0,
-    "frequency": 39,
-    "examCoverage": 14,
-    "pinyin": "yī huì er",
-    "meaning": "สักพัก (jiffy)"
-  },
-  {
-    "rank": 77,
-    "word": "三点",
-    "score": 546.0,
-    "frequency": 39,
-    "examCoverage": 14,
-    "pinyin": "sān diǎn",
-    "meaning": "สามโมง (trey)"
-  },
-  {
-    "rank": 78,
-    "word": "公司",
-    "score": 540.0,
-    "frequency": 36,
-    "examCoverage": 15,
-    "pinyin": "gōng sī",
-    "meaning": "บริษัท (company)"
-  },
-  {
-    "rank": 79,
-    "word": "欢迎",
-    "score": 533.0,
-    "frequency": 41,
-    "examCoverage": 13,
-    "pinyin": "huān yíng",
-    "meaning": "ยินดีต้อนรับ (gratulate)"
-  },
-  {
-    "rank": 80,
-    "word": "一次",
-    "score": 533.0,
-    "frequency": 41,
-    "examCoverage": 13,
-    "pinyin": "yī cì",
-    "meaning": "ครั้งหนึ่ง (once)"
-  },
-  {
-    "rank": 81,
     "word": "东西",
-    "score": 533.0,
-    "frequency": 41,
-    "examCoverage": 13,
+    "score": 848.0,
+    "frequency": 53,
+    "examCoverage": 16,
     "pinyin": "dōng xī",
     "meaning": "สิ่ง (thing)"
   },
   {
-    "rank": 82,
-    "word": "会议",
-    "score": 525.0,
-    "frequency": 35,
-    "examCoverage": 15,
-    "pinyin": "huì yì",
-    "meaning": "การประชุม (session)"
+    "rank": 71,
+    "word": "三点",
+    "score": 833.0,
+    "frequency": 49,
+    "examCoverage": 17,
+    "pinyin": "sān diǎn",
+    "meaning": "สามโมง (trey)"
   },
   {
-    "rank": 83,
-    "word": "总能",
-    "score": 525.0,
-    "frequency": 35,
+    "rank": 72,
+    "word": "怎么",
+    "score": 825.0,
+    "frequency": 55,
     "examCoverage": 15,
-    "pinyin": "zǒng néng",
-    "meaning": "สามารถเสมอ (no dictionary entry)"
+    "pinyin": "zěn me",
+    "meaning": "ยังไง (what)"
   },
   {
-    "rank": 84,
+    "rank": 73,
     "word": "电视",
-    "score": 518.0,
-    "frequency": 37,
-    "examCoverage": 14,
+    "score": 816.0,
+    "frequency": 48,
+    "examCoverage": 17,
     "pinyin": "diàn shì",
     "meaning": "โทรทัศน์ (teevee)"
   },
   {
-    "rank": 85,
-    "word": "原因",
-    "score": 510.0,
-    "frequency": 34,
-    "examCoverage": 15,
-    "pinyin": "yuán yīn",
-    "meaning": "เหตุผล (whys)"
-  },
-  {
-    "rank": 86,
-    "word": "完成",
-    "score": 496.0,
-    "frequency": 31,
-    "examCoverage": 16,
-    "pinyin": "wán chéng",
-    "meaning": "เสร็จ (completion)"
-  },
-  {
-    "rank": 87,
-    "word": "不错",
-    "score": 490.0,
-    "frequency": 35,
+    "rank": 74,
+    "word": "关于",
+    "score": 812.0,
+    "frequency": 58,
     "examCoverage": 14,
-    "pinyin": "bù cuò",
-    "meaning": "ดี (no dictionary entry)"
+    "pinyin": "guān yú",
+    "meaning": "เกี่ยวกับ (of)"
   },
   {
-    "rank": 88,
-    "word": "加油站",
-    "score": 476.0,
-    "frequency": 34,
-    "examCoverage": 14,
-    "pinyin": "jiā yóu zhàn",
-    "meaning": "ปั๊มน้ำมัน (lubritorium)"
-  },
-  {
-    "rank": 89,
-    "word": "地方",
-    "score": 468.0,
-    "frequency": 39,
-    "examCoverage": 12,
-    "pinyin": "dì fāng",
-    "meaning": "สถานที่ (clime)"
-  },
-  {
-    "rank": 90,
-    "word": "那座",
-    "score": 465.0,
-    "frequency": 31,
+    "rank": 75,
+    "word": "告诉",
+    "score": 810.0,
+    "frequency": 54,
     "examCoverage": 15,
-    "pinyin": "nà zuò",
-    "meaning": "อันนั้น (no dictionary entry)"
+    "pinyin": "gào sù",
+    "meaning": "บอก (inform)"
   },
   {
-    "rank": 91,
-    "word": "浪费",
-    "score": 464.0,
-    "frequency": 29,
-    "examCoverage": 16,
-    "pinyin": "làng fèi",
-    "meaning": "ของเสีย (squander)"
-  },
-  {
-    "rank": 92,
-    "word": "坚持",
-    "score": 450.0,
-    "frequency": 30,
-    "examCoverage": 15,
-    "pinyin": "jiān chí",
-    "meaning": "ยังคงอยู่ใน (holdout)"
-  },
-  {
-    "rank": 93,
-    "word": "北京",
-    "score": 450.0,
-    "frequency": 30,
-    "examCoverage": 15,
-    "pinyin": "běi jīng",
-    "meaning": "ปักกิ่ง (pekin)"
-  },
-  {
-    "rank": 94,
-    "word": "每天",
-    "score": 448.0,
-    "frequency": 32,
-    "examCoverage": 14,
-    "pinyin": "měi tiān",
-    "meaning": "ทุกวัน (afternoons)"
-  },
-  {
-    "rank": 95,
-    "word": "推迟",
-    "score": 448.0,
-    "frequency": 32,
-    "examCoverage": 14,
-    "pinyin": "tuī chí",
-    "meaning": "เลื่อนออกไป (postpone)"
-  },
-  {
-    "rank": 96,
-    "word": "一直",
-    "score": 442.0,
-    "frequency": 34,
-    "examCoverage": 13,
-    "pinyin": "yì zhí",
-    "meaning": "เสมอ (sempre)"
-  },
-  {
-    "rank": 97,
+    "rank": 76,
     "word": "朋友",
-    "score": 442.0,
-    "frequency": 34,
-    "examCoverage": 13,
+    "score": 800.0,
+    "frequency": 50,
+    "examCoverage": 16,
     "pinyin": "péng yǒu",
     "meaning": "เพื่อน (friend)"
   },
   {
-    "rank": 98,
-    "word": "结束",
-    "score": 435.0,
-    "frequency": 29,
-    "examCoverage": 15,
-    "pinyin": "jié shù",
-    "meaning": "เสร็จ (napooed)"
+    "rank": 77,
+    "word": "一会儿",
+    "score": 799.0,
+    "frequency": 47,
+    "examCoverage": 17,
+    "pinyin": "yī huì er",
+    "meaning": "สักพัก (jiffy)"
   },
   {
-    "rank": 99,
-    "word": "第一",
-    "score": 429.0,
-    "frequency": 33,
-    "examCoverage": 13,
-    "pinyin": "dì yī",
-    "meaning": "อันดับแรก (primo)"
-  },
-  {
-    "rank": 100,
-    "word": "这儿",
-    "score": 420.0,
-    "frequency": 35,
-    "examCoverage": 12,
-    "pinyin": "zhè ér",
-    "meaning": "ที่นี่ (no dictionary entry)"
-  },
-  {
-    "rank": 101,
-    "word": "成功",
-    "score": 420.0,
-    "frequency": 35,
-    "examCoverage": 12,
-    "pinyin": "chéng gōng",
-    "meaning": "ความสำเร็จ (fadge)"
-  },
-  {
-    "rank": 102,
-    "word": "信用卡",
-    "score": 420.0,
-    "frequency": 30,
+    "rank": 78,
+    "word": "为什么",
+    "score": 798.0,
+    "frequency": 57,
     "examCoverage": 14,
-    "pinyin": "xìn yòng kǎ",
-    "meaning": "บัตรเครดิต (mastercard)"
+    "pinyin": "wèi shén me",
+    "meaning": "ทำไม (whereto)"
   },
   {
-    "rank": 103,
-    "word": "一定",
-    "score": 420.0,
-    "frequency": 30,
-    "examCoverage": 14,
-    "pinyin": "yí dìng",
-    "meaning": "ต้อง (bedad)"
-  },
-  {
-    "rank": 104,
-    "word": "比较",
-    "score": 420.0,
-    "frequency": 30,
-    "examCoverage": 14,
-    "pinyin": "bǐ jiào",
-    "meaning": "เปรียบเทียบ (collate)"
-  },
-  {
-    "rank": 105,
-    "word": "材料",
-    "score": 420.0,
-    "frequency": 30,
-    "examCoverage": 14,
-    "pinyin": "cái liào",
-    "meaning": "วัสดุ (stuff)"
-  },
-  {
-    "rank": 106,
-    "word": "第二",
-    "score": 420.0,
-    "frequency": 28,
-    "examCoverage": 15,
-    "pinyin": "dì èr",
-    "meaning": "ที่สอง (secondly)"
-  },
-  {
-    "rank": 107,
+    "rank": 79,
     "word": "选出",
-    "score": 408.0,
-    "frequency": 34,
-    "examCoverage": 12,
+    "score": 784.0,
+    "frequency": 49,
+    "examCoverage": 16,
     "pinyin": "xuǎn chū",
     "meaning": "เลือก (quorum)"
   },
   {
-    "rank": 108,
-    "word": "幽默",
-    "score": 406.0,
-    "frequency": 29,
-    "examCoverage": 14,
-    "pinyin": "yōu mò",
-    "meaning": "อารมณ์ขัน (drollness)"
+    "rank": 80,
+    "word": "总能",
+    "score": 782.0,
+    "frequency": 46,
+    "examCoverage": 17,
+    "pinyin": "zǒng néng",
+    "meaning": "สามารถเสมอ (no dictionary entry)"
   },
   {
-    "rank": 109,
-    "word": "有些",
-    "score": 403.0,
-    "frequency": 31,
-    "examCoverage": 13,
-    "pinyin": "yǒu xiē",
-    "meaning": "บาง (somewhat)"
+    "rank": 81,
+    "word": "公司",
+    "score": 782.0,
+    "frequency": 46,
+    "examCoverage": 17,
+    "pinyin": "gōng sī",
+    "meaning": "บริษัท (company)"
   },
   {
-    "rank": 110,
-    "word": "发现",
-    "score": 403.0,
-    "frequency": 31,
-    "examCoverage": 13,
-    "pinyin": "fā xiàn",
-    "meaning": "ค้นพบ (ascertainment)"
+    "rank": 82,
+    "word": "已经",
+    "score": 780.0,
+    "frequency": 52,
+    "examCoverage": 15,
+    "pinyin": "yǐ jīng",
+    "meaning": "เรียบร้อยแล้ว (already)"
   },
   {
-    "rank": 111,
-    "word": "希望",
-    "score": 403.0,
-    "frequency": 31,
-    "examCoverage": 13,
-    "pinyin": "xī wàng",
-    "meaning": "หวัง (esperance)"
+    "rank": 83,
+    "word": "不错",
+    "score": 768.0,
+    "frequency": 48,
+    "examCoverage": 16,
+    "pinyin": "bù cuò",
+    "meaning": "ดี (no dictionary entry)"
   },
   {
-    "rank": 112,
-    "word": "那个",
-    "score": 396.0,
-    "frequency": 36,
+    "rank": 84,
+    "word": "加油站",
+    "score": 765.0,
+    "frequency": 45,
+    "examCoverage": 17,
+    "pinyin": "jiā yóu zhàn",
+    "meaning": "ปั๊มน้ำมัน (lubritorium)"
+  },
+  {
+    "rank": 85,
+    "word": "一直",
+    "score": 752.0,
+    "frequency": 47,
+    "examCoverage": 16,
+    "pinyin": "yì zhí",
+    "meaning": "เสมอ (sempre)"
+  },
+  {
+    "rank": 86,
+    "word": "原因",
+    "score": 731.0,
+    "frequency": 43,
+    "examCoverage": 17,
+    "pinyin": "yuán yīn",
+    "meaning": "เหตุผล (whys)"
+  },
+  {
+    "rank": 87,
+    "word": "怎么样",
+    "score": 726.0,
+    "frequency": 66,
     "examCoverage": 11,
-    "pinyin": "nà ge",
-    "meaning": "ที่ (thataway)"
+    "pinyin": "zěn me yàng",
+    "meaning": "แล้วไงล่ะ (no dictionary entry)"
   },
   {
-    "rank": 113,
-    "word": "幸福",
-    "score": 396.0,
-    "frequency": 33,
-    "examCoverage": 12,
-    "pinyin": "xìng fú",
-    "meaning": "ความสุข (blessedness)"
+    "rank": 88,
+    "word": "会议",
+    "score": 714.0,
+    "frequency": 42,
+    "examCoverage": 17,
+    "pinyin": "huì yì",
+    "meaning": "การประชุม (session)"
   },
   {
-    "rank": 114,
-    "word": "其中",
-    "score": 392.0,
-    "frequency": 28,
+    "rank": 89,
+    "word": "成功",
+    "score": 700.0,
+    "frequency": 50,
     "examCoverage": 14,
-    "pinyin": "qí zhōng",
-    "meaning": "ใน (thereamong)"
+    "pinyin": "chéng gōng",
+    "meaning": "ความสำเร็จ (fadge)"
   },
   {
-    "rank": 115,
-    "word": "有趣",
-    "score": 392.0,
-    "frequency": 28,
+    "rank": 90,
+    "word": "完成",
+    "score": 697.0,
+    "frequency": 41,
+    "examCoverage": 17,
+    "pinyin": "wán chéng",
+    "meaning": "เสร็จ (completion)"
+  },
+  {
+    "rank": 91,
+    "word": "每天",
+    "score": 688.0,
+    "frequency": 43,
+    "examCoverage": 16,
+    "pinyin": "měi tiān",
+    "meaning": "ทุกวัน (afternoons)"
+  },
+  {
+    "rank": 92,
+    "word": "北京",
+    "score": 680.0,
+    "frequency": 40,
+    "examCoverage": 17,
+    "pinyin": "běi jīng",
+    "meaning": "ปักกิ่ง (pekin)"
+  },
+  {
+    "rank": 93,
+    "word": "浪费",
+    "score": 680.0,
+    "frequency": 40,
+    "examCoverage": 17,
+    "pinyin": "làng fèi",
+    "meaning": "ของเสีย (squander)"
+  },
+  {
+    "rank": 94,
+    "word": "推迟",
+    "score": 680.0,
+    "frequency": 40,
+    "examCoverage": 17,
+    "pinyin": "tuī chí",
+    "meaning": "เลื่อนออกไป (postpone)"
+  },
+  {
+    "rank": 95,
+    "word": "欢迎",
+    "score": 672.0,
+    "frequency": 48,
     "examCoverage": 14,
-    "pinyin": "yǒu qù",
-    "meaning": "น่าสนใจ (divertingness)"
+    "pinyin": "huān yíng",
+    "meaning": "ยินดีต้อนรับ (gratulate)"
   },
   {
-    "rank": 116,
-    "word": "还有",
-    "score": 392.0,
-    "frequency": 28,
-    "examCoverage": 14,
-    "pinyin": "hái yǒu",
-    "meaning": "นอกจาก (ettu)"
+    "rank": 96,
+    "word": "坚持",
+    "score": 672.0,
+    "frequency": 42,
+    "examCoverage": 16,
+    "pinyin": "jiān chí",
+    "meaning": "ยังคงอยู่ใน (holdout)"
   },
   {
-    "rank": 117,
-    "word": "帮助",
-    "score": 392.0,
-    "frequency": 28,
-    "examCoverage": 14,
-    "pinyin": "bāng zhù",
-    "meaning": "ช่วย (aidance)"
+    "rank": 97,
+    "word": "一共",
+    "score": 672.0,
+    "frequency": 42,
+    "examCoverage": 16,
+    "pinyin": "yī gòng",
+    "meaning": "ทั้งหมด (aggregately)"
   },
   {
-    "rank": 118,
-    "word": "带来",
-    "score": 390.0,
-    "frequency": 30,
-    "examCoverage": 13,
-    "pinyin": "dài lái",
-    "meaning": "นำมา (bring)"
+    "rank": 98,
+    "word": "还是",
+    "score": 660.0,
+    "frequency": 44,
+    "examCoverage": 15,
+    "pinyin": "hái shì",
+    "meaning": "นิ่ง (notwithstanding)"
   },
   {
-    "rank": 119,
+    "rank": 99,
     "word": "快乐",
-    "score": 390.0,
-    "frequency": 30,
-    "examCoverage": 13,
+    "score": 656.0,
+    "frequency": 41,
+    "examCoverage": 16,
     "pinyin": "kuài lè",
     "meaning": "ความสุข (pleasance)"
   },
   {
-    "rank": 120,
+    "rank": 100,
+    "word": "那座",
+    "score": 656.0,
+    "frequency": 41,
+    "examCoverage": 16,
+    "pinyin": "nà zuò",
+    "meaning": "อันนั้น (no dictionary entry)"
+  },
+  {
+    "rank": 101,
+    "word": "信用卡",
+    "score": 646.0,
+    "frequency": 38,
+    "examCoverage": 17,
+    "pinyin": "xìn yòng kǎ",
+    "meaning": "บัตรเครดิต (mastercard)"
+  },
+  {
+    "rank": 102,
     "word": "经验",
-    "score": 390.0,
-    "frequency": 26,
-    "examCoverage": 15,
+    "score": 646.0,
+    "frequency": 38,
+    "examCoverage": 17,
     "pinyin": "jīng yàn",
     "meaning": "ประสบการณ์ (experience)"
   },
   {
-    "rank": 121,
+    "rank": 103,
+    "word": "一次",
+    "score": 644.0,
+    "frequency": 46,
+    "examCoverage": 14,
+    "pinyin": "yī cì",
+    "meaning": "ครั้งหนึ่ง (once)"
+  },
+  {
+    "rank": 104,
+    "word": "材料",
+    "score": 640.0,
+    "frequency": 40,
+    "examCoverage": 16,
+    "pinyin": "cái liào",
+    "meaning": "วัสดุ (stuff)"
+  },
+  {
+    "rank": 105,
+    "word": "带来",
+    "score": 640.0,
+    "frequency": 40,
+    "examCoverage": 16,
+    "pinyin": "dài lái",
+    "meaning": "นำมา (bring)"
+  },
+  {
+    "rank": 106,
+    "word": "最好",
+    "score": 629.0,
+    "frequency": 37,
+    "examCoverage": 17,
+    "pinyin": "zuì hǎo",
+    "meaning": "ที่สุด (silverside)"
+  },
+  {
+    "rank": 107,
+    "word": "幽默",
+    "score": 629.0,
+    "frequency": 37,
+    "examCoverage": 17,
+    "pinyin": "yōu mò",
+    "meaning": "อารมณ์ขัน (drollness)"
+  },
+  {
+    "rank": 108,
+    "word": "有趣",
+    "score": 624.0,
+    "frequency": 39,
+    "examCoverage": 16,
+    "pinyin": "yǒu qù",
+    "meaning": "น่าสนใจ (divertingness)"
+  },
+  {
+    "rank": 109,
+    "word": "就是",
+    "score": 624.0,
+    "frequency": 39,
+    "examCoverage": 16,
+    "pinyin": "jiù shì",
+    "meaning": "นั่นคือ (namely)"
+  },
+  {
+    "rank": 110,
+    "word": "其中",
+    "score": 612.0,
+    "frequency": 36,
+    "examCoverage": 17,
+    "pinyin": "qí zhōng",
+    "meaning": "ใน (thereamong)"
+  },
+  {
+    "rank": 111,
+    "word": "国家",
+    "score": 608.0,
+    "frequency": 38,
+    "examCoverage": 16,
+    "pinyin": "guó jiā",
+    "meaning": "ชาติ (nation)"
+  },
+  {
+    "rank": 112,
     "word": "减少",
-    "score": 390.0,
-    "frequency": 26,
-    "examCoverage": 15,
+    "score": 608.0,
+    "frequency": 38,
+    "examCoverage": 16,
     "pinyin": "jiǎn shǎo",
     "meaning": "ลด (subtraction)"
   },
   {
+    "rank": 113,
+    "word": "特别",
+    "score": 608.0,
+    "frequency": 38,
+    "examCoverage": 16,
+    "pinyin": "tè bié",
+    "meaning": "พิเศษ (especially)"
+  },
+  {
+    "rank": 114,
+    "word": "节目",
+    "score": 595.0,
+    "frequency": 35,
+    "examCoverage": 17,
+    "pinyin": "jié mù",
+    "meaning": "โปรแกรม (program)"
+  },
+  {
+    "rank": 115,
+    "word": "路上",
+    "score": 595.0,
+    "frequency": 35,
+    "examCoverage": 17,
+    "pinyin": "lù shàng",
+    "meaning": "บนท้องถนน (cahot)"
+  },
+  {
+    "rank": 116,
+    "word": "阅读",
+    "score": 592.0,
+    "frequency": 37,
+    "examCoverage": 16,
+    "pinyin": "yuè dú",
+    "meaning": "อ่าน (reading)"
+  },
+  {
+    "rank": 117,
+    "word": "还有",
+    "score": 592.0,
+    "frequency": 37,
+    "examCoverage": 16,
+    "pinyin": "hái yǒu",
+    "meaning": "นอกจาก (ettu)"
+  },
+  {
+    "rank": 118,
+    "word": "帮助",
+    "score": 592.0,
+    "frequency": 37,
+    "examCoverage": 16,
+    "pinyin": "bāng zhù",
+    "meaning": "ช่วย (aidance)"
+  },
+  {
+    "rank": 119,
+    "word": "结束",
+    "score": 578.0,
+    "frequency": 34,
+    "examCoverage": 17,
+    "pinyin": "jié shù",
+    "meaning": "เสร็จ (napooed)"
+  },
+  {
+    "rank": 120,
+    "word": "一定",
+    "score": 576.0,
+    "frequency": 36,
+    "examCoverage": 16,
+    "pinyin": "yí dìng",
+    "meaning": "ต้อง (bedad)"
+  },
+  {
+    "rank": 121,
+    "word": "身体",
+    "score": 576.0,
+    "frequency": 36,
+    "examCoverage": 16,
+    "pinyin": "shēn tǐ",
+    "meaning": "ร่างกาย (soma)"
+  },
+  {
     "rank": 122,
-    "word": "看电视",
-    "score": 378.0,
-    "frequency": 27,
-    "examCoverage": 14,
-    "pinyin": "kàn diàn shì",
-    "meaning": "ดูทีวี (televisionless)"
+    "word": "填写",
+    "score": 561.0,
+    "frequency": 33,
+    "examCoverage": 17,
+    "pinyin": "tián xiě",
+    "meaning": "กรอก (spatchcock)"
   },
   {
     "rank": 123,
     "word": "太多",
-    "score": 378.0,
-    "frequency": 27,
-    "examCoverage": 14,
+    "score": 561.0,
+    "frequency": 33,
+    "examCoverage": 17,
     "pinyin": "tài duō",
     "meaning": "มากเกินไป (tanto)"
   },
   {
     "rank": 124,
-    "word": "路上",
-    "score": 378.0,
-    "frequency": 27,
-    "examCoverage": 14,
-    "pinyin": "lù shàng",
-    "meaning": "บนท้องถนน (cahot)"
-  },
-  {
-    "rank": 125,
-    "word": "就是",
-    "score": 377.0,
-    "frequency": 29,
-    "examCoverage": 13,
-    "pinyin": "jiù shì",
-    "meaning": "นั่นคือ (namely)"
-  },
-  {
-    "rank": 126,
-    "word": "打开",
-    "score": 375.0,
-    "frequency": 25,
-    "examCoverage": 15,
-    "pinyin": "dǎ kāi",
-    "meaning": "เปิด (uncap)"
-  },
-  {
-    "rank": 127,
-    "word": "最好",
-    "score": 375.0,
-    "frequency": 25,
-    "examCoverage": 15,
-    "pinyin": "zuì hǎo",
-    "meaning": "ที่สุด (silverside)"
-  },
-  {
-    "rank": 128,
-    "word": "节目",
-    "score": 364.0,
-    "frequency": 26,
-    "examCoverage": 14,
-    "pinyin": "jié mù",
-    "meaning": "โปรแกรม (program)"
-  },
-  {
-    "rank": 129,
-    "word": "半个",
-    "score": 364.0,
-    "frequency": 26,
-    "examCoverage": 14,
-    "pinyin": "bàn gè",
-    "meaning": "ครึ่ง (semicentury)"
-  },
-  {
-    "rank": 130,
-    "word": "没变",
-    "score": 364.0,
-    "frequency": 26,
-    "examCoverage": 14,
-    "pinyin": "méi biàn",
-    "meaning": "ไม่มีการเปลี่ยนแปลง (no dictionary entry)"
-  },
-  {
-    "rank": 131,
-    "word": "特别",
-    "score": 364.0,
-    "frequency": 26,
-    "examCoverage": 14,
-    "pinyin": "tè bié",
-    "meaning": "พิเศษ (especially)"
-  },
-  {
-    "rank": 132,
-    "word": "一些",
-    "score": 363.0,
-    "frequency": 33,
-    "examCoverage": 11,
-    "pinyin": "yī xiē",
-    "meaning": "บาง (fig)"
-  },
-  {
-    "rank": 133,
-    "word": "国家",
-    "score": 360.0,
-    "frequency": 30,
-    "examCoverage": 12,
-    "pinyin": "guó jiā",
-    "meaning": "ชาติ (nation)"
-  },
-  {
-    "rank": 134,
     "word": "交流",
-    "score": 360.0,
-    "frequency": 30,
-    "examCoverage": 12,
+    "score": 560.0,
+    "frequency": 40,
+    "examCoverage": 14,
     "pinyin": "jiāo liú",
     "meaning": "สื่อสาร (intercourse)"
   },
   {
-    "rank": 135,
-    "word": "影响",
-    "score": 360.0,
-    "frequency": 30,
-    "examCoverage": 12,
-    "pinyin": "yǐng xiǎng",
-    "meaning": "อิทธิพล (affect)"
-  },
-  {
-    "rank": 136,
-    "word": "比赛",
-    "score": 351.0,
-    "frequency": 27,
-    "examCoverage": 13,
-    "pinyin": "bǐ sài",
-    "meaning": "การประกวด (tounament)"
-  },
-  {
-    "rank": 137,
-    "word": "往往",
-    "score": 351.0,
-    "frequency": 27,
-    "examCoverage": 13,
-    "pinyin": "wǎng wǎng",
-    "meaning": "บ่อยครั้ง (tend)"
-  },
-  {
-    "rank": 138,
-    "word": "提前",
-    "score": 350.0,
-    "frequency": 25,
+    "rank": 125,
+    "word": "有些",
+    "score": 560.0,
+    "frequency": 40,
     "examCoverage": 14,
-    "pinyin": "tí qián",
-    "meaning": "ล่วงหน้า (ahead)"
+    "pinyin": "yǒu xiē",
+    "meaning": "บาง (somewhat)"
   },
   {
-    "rank": 139,
-    "word": "这些",
-    "score": 348.0,
-    "frequency": 29,
-    "examCoverage": 12,
-    "pinyin": "zhè xiē",
-    "meaning": "เหล่านี้ (these)"
+    "rank": 126,
+    "word": "发现",
+    "score": 560.0,
+    "frequency": 40,
+    "examCoverage": 14,
+    "pinyin": "fā xiàn",
+    "meaning": "ค้นพบ (ascertainment)"
   },
   {
-    "rank": 140,
-    "word": "阅读",
-    "score": 338.0,
-    "frequency": 26,
+    "rank": 127,
+    "word": "地方",
+    "score": 559.0,
+    "frequency": 43,
     "examCoverage": 13,
-    "pinyin": "yuè dú",
-    "meaning": "อ่าน (reading)"
+    "pinyin": "dì fāng",
+    "meaning": "สถานที่ (clime)"
   },
   {
-    "rank": 141,
-    "word": "身体",
-    "score": 338.0,
-    "frequency": 26,
+    "rank": 128,
+    "word": "比较",
+    "score": 555.0,
+    "frequency": 37,
+    "examCoverage": 15,
+    "pinyin": "bǐ jiào",
+    "meaning": "เปรียบเทียบ (collate)"
+  },
+  {
+    "rank": 129,
+    "word": "希望",
+    "score": 555.0,
+    "frequency": 37,
+    "examCoverage": 15,
+    "pinyin": "xī wàng",
+    "meaning": "หวัง (esperance)"
+  },
+  {
+    "rank": 130,
+    "word": "那个",
+    "score": 546.0,
+    "frequency": 42,
     "examCoverage": 13,
-    "pinyin": "shēn tǐ",
-    "meaning": "ร่างกาย (soma)"
+    "pinyin": "nà ge",
+    "meaning": "ที่ (thataway)"
   },
   {
-    "rank": 142,
+    "rank": 131,
     "word": "放弃",
-    "score": 338.0,
-    "frequency": 26,
-    "examCoverage": 13,
+    "score": 544.0,
+    "frequency": 34,
+    "examCoverage": 16,
     "pinyin": "fàng qì",
     "meaning": "ยอมแพ้ (abandonment)"
   },
   {
-    "rank": 143,
+    "rank": 132,
+    "word": "看电视",
+    "score": 544.0,
+    "frequency": 32,
+    "examCoverage": 17,
+    "pinyin": "kàn diàn shì",
+    "meaning": "ดูทีวี (televisionless)"
+  },
+  {
+    "rank": 133,
+    "word": "比赛",
+    "score": 540.0,
+    "frequency": 36,
+    "examCoverage": 15,
+    "pinyin": "bǐ sài",
+    "meaning": "การประกวด (tounament)"
+  },
+  {
+    "rank": 134,
+    "word": "经常",
+    "score": 540.0,
+    "frequency": 36,
+    "examCoverage": 15,
+    "pinyin": "jīng cháng",
+    "meaning": "บ่อยครั้ง (often)"
+  },
+  {
+    "rank": 135,
+    "word": "只有",
+    "score": 540.0,
+    "frequency": 36,
+    "examCoverage": 15,
+    "pinyin": "zhǐ yǒu",
+    "meaning": "เท่านั้น (homochromatic)"
+  },
+  {
+    "rank": 136,
     "word": "获得",
-    "score": 338.0,
-    "frequency": 26,
+    "score": 533.0,
+    "frequency": 41,
     "examCoverage": 13,
     "pinyin": "huò dé",
     "meaning": "รับ (procuration)"
   },
   {
-    "rank": 144,
-    "word": "表扬",
-    "score": 336.0,
-    "frequency": 28,
-    "examCoverage": 12,
-    "pinyin": "biǎo yáng",
-    "meaning": "ชื่นชม (celebrate)"
-  },
-  {
-    "rank": 145,
-    "word": "变得",
-    "score": 330.0,
-    "frequency": 30,
-    "examCoverage": 11,
-    "pinyin": "biàn dé",
-    "meaning": "กลายเป็น (became)"
-  },
-  {
-    "rank": 146,
-    "word": "容易",
-    "score": 325.0,
-    "frequency": 25,
-    "examCoverage": 13,
-    "pinyin": "róng yì",
-    "meaning": "ง่าย (easiness)"
-  },
-  {
-    "rank": 147,
-    "word": "活动",
-    "score": 325.0,
-    "frequency": 25,
-    "examCoverage": 13,
-    "pinyin": "huó dòng",
-    "meaning": "กิจกรรม (doings)"
-  },
-  {
-    "rank": 148,
-    "word": "尊重",
-    "score": 325.0,
-    "frequency": 25,
-    "examCoverage": 13,
-    "pinyin": "zūn zhòng",
-    "meaning": "เคารพ (deference)"
-  },
-  {
-    "rank": 149,
-    "word": "一点儿",
-    "score": 324.0,
-    "frequency": 27,
-    "examCoverage": 12,
-    "pinyin": "yì diǎn ér",
-    "meaning": "เล็กน้อย (bittock)"
-  },
-  {
-    "rank": 150,
-    "word": "那儿",
-    "score": 324.0,
-    "frequency": 27,
-    "examCoverage": 12,
-    "pinyin": "nà ér",
-    "meaning": "ที่นั่น (no dictionary entry)"
-  },
-  {
-    "rank": 151,
-    "word": "但是",
-    "score": 324.0,
-    "frequency": 27,
-    "examCoverage": 12,
-    "pinyin": "dàn shì",
-    "meaning": "แต่ (nonetheless)"
-  },
-  {
-    "rank": 152,
-    "word": "今天下午",
-    "score": 322.0,
-    "frequency": 23,
+    "rank": 137,
+    "word": "第一",
+    "score": 532.0,
+    "frequency": 38,
     "examCoverage": 14,
-    "pinyin": "jīn tiān xià wǔ",
-    "meaning": "บ่ายนี้ (no dictionary entry)"
+    "pinyin": "dì yī",
+    "meaning": "อันดับแรก (primo)"
   },
   {
-    "rank": 153,
-    "word": "了解",
-    "score": 322.0,
-    "frequency": 23,
-    "examCoverage": 14,
-    "pinyin": "liǎo jiě",
-    "meaning": "เรียนรู้ (sensed)"
-  },
-  {
-    "rank": 154,
-    "word": "发展",
-    "score": 322.0,
-    "frequency": 23,
-    "examCoverage": 14,
-    "pinyin": "fā zhǎn",
-    "meaning": "พัฒนา (development)"
-  },
-  {
-    "rank": 155,
-    "word": "个题",
-    "score": 319.0,
-    "frequency": 29,
-    "examCoverage": 11,
-    "pinyin": "gè tí",
-    "meaning": "คำถาม (bibliography)"
-  },
-  {
-    "rank": 156,
-    "word": "每题",
-    "score": 319.0,
-    "frequency": 29,
-    "examCoverage": 11,
-    "pinyin": "měi tí",
-    "meaning": "ทุกคำถาม (no dictionary entry)"
-  },
-  {
-    "rank": 157,
-    "word": "一起",
-    "score": 319.0,
-    "frequency": 29,
-    "examCoverage": 11,
-    "pinyin": "yì qǐ",
-    "meaning": "ด้วยกัน (together)"
-  },
-  {
-    "rank": 158,
+    "rank": 138,
     "word": "失败",
-    "score": 312.0,
-    "frequency": 26,
-    "examCoverage": 12,
+    "score": 532.0,
+    "frequency": 38,
+    "examCoverage": 14,
     "pinyin": "shī bài",
     "meaning": "ล้มเหลว (wipeout)"
   },
   {
-    "rank": 159,
+    "rank": 139,
+    "word": "上下班",
+    "score": 528.0,
+    "frequency": 33,
+    "examCoverage": 16,
+    "pinyin": "shàng xià bān",
+    "meaning": "การเดินทางไปและกลับจากเลิกงาน (vanpool)"
+  },
+  {
+    "rank": 140,
+    "word": "打开",
+    "score": 527.0,
+    "frequency": 31,
+    "examCoverage": 17,
+    "pinyin": "dǎ kāi",
+    "meaning": "เปิด (uncap)"
+  },
+  {
+    "rank": 141,
+    "word": "半个",
+    "score": 527.0,
+    "frequency": 31,
+    "examCoverage": 17,
+    "pinyin": "bàn gè",
+    "meaning": "ครึ่ง (semicentury)"
+  },
+  {
+    "rank": 142,
+    "word": "没变",
+    "score": 527.0,
+    "frequency": 31,
+    "examCoverage": 17,
+    "pinyin": "méi biàn",
+    "meaning": "ไม่มีการเปลี่ยนแปลง (no dictionary entry)"
+  },
+  {
+    "rank": 143,
     "word": "刚才",
-    "score": 312.0,
-    "frequency": 24,
-    "examCoverage": 13,
+    "score": 527.0,
+    "frequency": 31,
+    "examCoverage": 17,
     "pinyin": "gāng cái",
     "meaning": "แค่ตอนนี้ (freshly)"
   },
   {
-    "rank": 160,
-    "word": "其实",
-    "score": 312.0,
-    "frequency": 24,
-    "examCoverage": 13,
-    "pinyin": "qí shí",
-    "meaning": "จริงๆ แล้ว (exaggeratory)"
-  },
-  {
-    "rank": 161,
-    "word": "经常",
-    "score": 312.0,
-    "frequency": 24,
-    "examCoverage": 13,
-    "pinyin": "jīng cháng",
-    "meaning": "บ่อยครั้ง (often)"
-  },
-  {
-    "rank": 162,
-    "word": "只有",
-    "score": 312.0,
-    "frequency": 24,
-    "examCoverage": 13,
-    "pinyin": "zhǐ yǒu",
-    "meaning": "เท่านั้น (homochromatic)"
-  },
-  {
-    "rank": 163,
-    "word": "不同",
-    "score": 308.0,
-    "frequency": 28,
-    "examCoverage": 11,
-    "pinyin": "bù tóng",
-    "meaning": "แตกต่าง (distinctness)"
-  },
-  {
-    "rank": 164,
-    "word": "分三",
-    "score": 308.0,
-    "frequency": 22,
+    "rank": 144,
+    "word": "幸福",
+    "score": 518.0,
+    "frequency": 37,
     "examCoverage": 14,
-    "pinyin": "fēn sān",
-    "meaning": "แบ่งออกเป็นสาม (no dictionary entry)"
+    "pinyin": "xìng fú",
+    "meaning": "ความสุข (blessedness)"
   },
   {
-    "rank": 165,
-    "word": "办个",
-    "score": 308.0,
-    "frequency": 22,
-    "examCoverage": 14,
-    "pinyin": "bàn gè",
-    "meaning": "ทำอย่างใดอย่างหนึ่ง (no dictionary entry)"
+    "rank": 145,
+    "word": "这儿",
+    "score": 516.0,
+    "frequency": 43,
+    "examCoverage": 12,
+    "pinyin": "zhè ér",
+    "meaning": "ที่นี่ (no dictionary entry)"
   },
   {
-    "rank": 166,
-    "word": "去一趟",
-    "score": 308.0,
-    "frequency": 22,
-    "examCoverage": 14,
-    "pinyin": "qù yī tàng",
-    "meaning": "ไปเที่ยว (no dictionary entry)"
+    "rank": 146,
+    "word": "选词",
+    "score": 512.0,
+    "frequency": 32,
+    "examCoverage": 16,
+    "pinyin": "xuǎn cí",
+    "meaning": "การเลือกคำ (no dictionary entry)"
   },
   {
-    "rank": 167,
-    "word": "复印",
-    "score": 308.0,
-    "frequency": 22,
-    "examCoverage": 14,
-    "pinyin": "fù yìn",
-    "meaning": "สำเนา (reprography)"
+    "rank": 147,
+    "word": "填空",
+    "score": 512.0,
+    "frequency": 32,
+    "examCoverage": 16,
+    "pinyin": "tián kòng",
+    "meaning": "กรอกข้อมูลในช่องว่าง (calking)"
   },
   {
-    "rank": 168,
-    "word": "拿到",
-    "score": 308.0,
-    "frequency": 22,
-    "examCoverage": 14,
-    "pinyin": "ná dào",
-    "meaning": "รับ (no dictionary entry)"
+    "rank": 148,
+    "word": "容易",
+    "score": 512.0,
+    "frequency": 32,
+    "examCoverage": 16,
+    "pinyin": "róng yì",
+    "meaning": "ง่าย (easiness)"
   },
   {
-    "rank": 169,
+    "rank": 149,
+    "word": "许多",
+    "score": 510.0,
+    "frequency": 34,
+    "examCoverage": 15,
+    "pinyin": "xǔ duō",
+    "meaning": "มากมาย (lashing)"
+  },
+  {
+    "rank": 150,
     "word": "可是",
-    "score": 308.0,
-    "frequency": 22,
-    "examCoverage": 14,
+    "score": 496.0,
+    "frequency": 31,
+    "examCoverage": 16,
     "pinyin": "kě shì",
     "meaning": "แต่ (however)"
   },
   {
-    "rank": 170,
-    "word": "准备",
-    "score": 300.0,
-    "frequency": 25,
-    "examCoverage": 12,
-    "pinyin": "zhǔn bèi",
-    "meaning": "เตรียม (to prepare)"
+    "rank": 151,
+    "word": "计划",
+    "score": 496.0,
+    "frequency": 31,
+    "examCoverage": 16,
+    "pinyin": "jì huà",
+    "meaning": "วางแผน (schema)"
   },
   {
-    "rank": 171,
-    "word": "习惯",
-    "score": 300.0,
-    "frequency": 25,
-    "examCoverage": 12,
-    "pinyin": "xí guàn",
-    "meaning": "นิสัย (assuetude)"
-  },
-  {
-    "rank": 172,
-    "word": "乒乓球",
-    "score": 300.0,
-    "frequency": 20,
-    "examCoverage": 15,
-    "pinyin": "pīng pāng qiú",
-    "meaning": "เทเบิลเทนนิส (pingpong)"
-  },
-  {
-    "rank": 173,
-    "word": "骄傲",
-    "score": 299.0,
-    "frequency": 23,
-    "examCoverage": 13,
-    "pinyin": "jiāo ào",
-    "meaning": "ความภาคภูมิใจ (pretension)"
-  },
-  {
-    "rank": 174,
+    "rank": 152,
     "word": "努力",
-    "score": 299.0,
-    "frequency": 23,
-    "examCoverage": 13,
+    "score": 495.0,
+    "frequency": 33,
+    "examCoverage": 15,
     "pinyin": "nǔ lì",
     "meaning": "ความพยายาม (effort)"
   },
   {
+    "rank": 153,
+    "word": "今天下午",
+    "score": 493.0,
+    "frequency": 29,
+    "examCoverage": 17,
+    "pinyin": "jīn tiān xià wǔ",
+    "meaning": "บ่ายนี้ (no dictionary entry)"
+  },
+  {
+    "rank": 154,
+    "word": "但是",
+    "score": 490.0,
+    "frequency": 35,
+    "examCoverage": 14,
+    "pinyin": "dàn shì",
+    "meaning": "แต่ (nonetheless)"
+  },
+  {
+    "rank": 155,
+    "word": "改变",
+    "score": 490.0,
+    "frequency": 35,
+    "examCoverage": 14,
+    "pinyin": "gǎi biàn",
+    "meaning": "เปลี่ยน (alter)"
+  },
+  {
+    "rank": 156,
+    "word": "选择",
+    "score": 481.0,
+    "frequency": 37,
+    "examCoverage": 13,
+    "pinyin": "xuǎn zé",
+    "meaning": "เลือก (choose)"
+  },
+  {
+    "rank": 157,
+    "word": "一些",
+    "score": 480.0,
+    "frequency": 40,
+    "examCoverage": 12,
+    "pinyin": "yī xiē",
+    "meaning": "บาง (fig)"
+  },
+  {
+    "rank": 158,
+    "word": "学会",
+    "score": 480.0,
+    "frequency": 32,
+    "examCoverage": 15,
+    "pinyin": "xué huì",
+    "meaning": "เรียนรู้ (akademi)"
+  },
+  {
+    "rank": 159,
+    "word": "发展",
+    "score": 480.0,
+    "frequency": 32,
+    "examCoverage": 15,
+    "pinyin": "fā zhǎn",
+    "meaning": "พัฒนา (development)"
+  },
+  {
+    "rank": 160,
+    "word": "骄傲",
+    "score": 480.0,
+    "frequency": 30,
+    "examCoverage": 16,
+    "pinyin": "jiāo ào",
+    "meaning": "ความภาคภูมิใจ (pretension)"
+  },
+  {
+    "rank": 161,
+    "word": "了解",
+    "score": 480.0,
+    "frequency": 30,
+    "examCoverage": 16,
+    "pinyin": "liǎo jiě",
+    "meaning": "เรียนรู้ (sensed)"
+  },
+  {
+    "rank": 162,
+    "word": "好处",
+    "score": 480.0,
+    "frequency": 30,
+    "examCoverage": 16,
+    "pinyin": "hǎo chù",
+    "meaning": "ผลประโยชน์ (behoof)"
+  },
+  {
+    "rank": 163,
+    "word": "往往",
+    "score": 476.0,
+    "frequency": 34,
+    "examCoverage": 14,
+    "pinyin": "wǎng wǎng",
+    "meaning": "บ่อยครั้ง (tend)"
+  },
+  {
+    "rank": 164,
+    "word": "办个",
+    "score": 476.0,
+    "frequency": 28,
+    "examCoverage": 17,
+    "pinyin": "bàn gè",
+    "meaning": "ทำอย่างใดอย่างหนึ่ง (no dictionary entry)"
+  },
+  {
+    "rank": 165,
+    "word": "去一趟",
+    "score": 476.0,
+    "frequency": 28,
+    "examCoverage": 17,
+    "pinyin": "qù yī tàng",
+    "meaning": "ไปเที่ยว (no dictionary entry)"
+  },
+  {
+    "rank": 166,
+    "word": "加油",
+    "score": 476.0,
+    "frequency": 28,
+    "examCoverage": 17,
+    "pinyin": "jiā yóu",
+    "meaning": "มาเร็ว (cheerio)"
+  },
+  {
+    "rank": 167,
+    "word": "拿到",
+    "score": 476.0,
+    "frequency": 28,
+    "examCoverage": 17,
+    "pinyin": "ná dào",
+    "meaning": "รับ (no dictionary entry)"
+  },
+  {
+    "rank": 168,
+    "word": "活动",
+    "score": 465.0,
+    "frequency": 31,
+    "examCoverage": 15,
+    "pinyin": "huó dòng",
+    "meaning": "กิจกรรม (doings)"
+  },
+  {
+    "rank": 169,
+    "word": "习惯",
+    "score": 465.0,
+    "frequency": 31,
+    "examCoverage": 15,
+    "pinyin": "xí guàn",
+    "meaning": "นิสัย (assuetude)"
+  },
+  {
+    "rank": 170,
+    "word": "全部",
+    "score": 464.0,
+    "frequency": 29,
+    "examCoverage": 16,
+    "pinyin": "quán bù",
+    "meaning": "ทั้งหมด (allness)"
+  },
+  {
+    "rank": 171,
+    "word": "分三",
+    "score": 459.0,
+    "frequency": 27,
+    "examCoverage": 17,
+    "pinyin": "fēn sān",
+    "meaning": "แบ่งออกเป็นสาม (no dictionary entry)"
+  },
+  {
+    "rank": 172,
+    "word": "复印",
+    "score": 459.0,
+    "frequency": 27,
+    "examCoverage": 17,
+    "pinyin": "fù yìn",
+    "meaning": "สำเนา (reprography)"
+  },
+  {
+    "rank": 173,
+    "word": "批评",
+    "score": 456.0,
+    "frequency": 38,
+    "examCoverage": 12,
+    "pinyin": "pī píng",
+    "meaning": "วิพากษ์วิจารณ์ (critique)"
+  },
+  {
+    "rank": 174,
+    "word": "这些",
+    "score": 456.0,
+    "frequency": 38,
+    "examCoverage": 12,
+    "pinyin": "zhè xiē",
+    "meaning": "เหล่านี้ (these)"
+  },
+  {
     "rank": 175,
-    "word": "父亲",
-    "score": 299.0,
+    "word": "减肥",
+    "score": 450.0,
+    "frequency": 30,
+    "examCoverage": 15,
+    "pinyin": "jiǎn féi",
+    "meaning": "ลดน้ำหนัก (slim)"
+  },
+  {
+    "rank": 176,
+    "word": "其实",
+    "score": 448.0,
+    "frequency": 32,
+    "examCoverage": 14,
+    "pinyin": "qí shí",
+    "meaning": "จริงๆ แล้ว (exaggeratory)"
+  },
+  {
+    "rank": 177,
+    "word": "表扬",
+    "score": 448.0,
+    "frequency": 32,
+    "examCoverage": 14,
+    "pinyin": "biǎo yáng",
+    "meaning": "ชื่นชม (celebrate)"
+  },
+  {
+    "rank": 178,
+    "word": "方法",
+    "score": 448.0,
+    "frequency": 28,
+    "examCoverage": 16,
+    "pinyin": "fāng fǎ",
+    "meaning": "วิธี (method)"
+  },
+  {
+    "rank": 179,
+    "word": "虽然",
+    "score": 448.0,
+    "frequency": 28,
+    "examCoverage": 16,
+    "pinyin": "suī rán",
+    "meaning": "แม้ว่า (though)"
+  },
+  {
+    "rank": 180,
+    "word": "发给",
+    "score": 442.0,
+    "frequency": 26,
+    "examCoverage": 17,
+    "pinyin": "fā gěi",
+    "meaning": "ออกให้กับ (licensure)"
+  },
+  {
+    "rank": 181,
+    "word": "汉语",
+    "score": 435.0,
+    "frequency": 29,
+    "examCoverage": 15,
+    "pinyin": "hàn yǔ",
+    "meaning": "ชาวจีน (chinese)"
+  },
+  {
+    "rank": 182,
+    "word": "性格",
+    "score": 435.0,
+    "frequency": 29,
+    "examCoverage": 15,
+    "pinyin": "xìng gé",
+    "meaning": "อักขระ (semitism)"
+  },
+  {
+    "rank": 183,
+    "word": "第二",
+    "score": 435.0,
+    "frequency": 29,
+    "examCoverage": 15,
+    "pinyin": "dì èr",
+    "meaning": "ที่สอง (secondly)"
+  },
+  {
+    "rank": 184,
+    "word": "尊重",
+    "score": 435.0,
+    "frequency": 29,
+    "examCoverage": 15,
+    "pinyin": "zūn zhòng",
+    "meaning": "เคารพ (deference)"
+  },
+  {
+    "rank": 185,
+    "word": "缺点",
+    "score": 434.0,
+    "frequency": 31,
+    "examCoverage": 14,
+    "pinyin": "quē diǎn",
+    "meaning": "ข้อบกพร่อง (demerit)"
+  },
+  {
+    "rank": 186,
+    "word": "女儿",
+    "score": 432.0,
+    "frequency": 27,
+    "examCoverage": 16,
+    "pinyin": "nǚ ér",
+    "meaning": "ลูกสาว (stepdaughter)"
+  },
+  {
+    "rank": 187,
+    "word": "活泼",
+    "score": 432.0,
+    "frequency": 27,
+    "examCoverage": 16,
+    "pinyin": "huó pō",
+    "meaning": "มีชีวิตชีวา (liveliness)"
+  },
+  {
+    "rank": 188,
+    "word": "害羞",
+    "score": 432.0,
+    "frequency": 27,
+    "examCoverage": 16,
+    "pinyin": "hài xiū",
+    "meaning": "อาย (pudency)"
+  },
+  {
+    "rank": 189,
+    "word": "烦恼",
+    "score": 432.0,
+    "frequency": 27,
+    "examCoverage": 16,
+    "pinyin": "fán nǎo",
+    "meaning": "ปัญหา (harass)"
+  },
+  {
+    "rank": 190,
+    "word": "理想",
+    "score": 432.0,
+    "frequency": 27,
+    "examCoverage": 16,
+    "pinyin": "lǐ xiǎng",
+    "meaning": "ในอุดมคติ (ideality)"
+  },
+  {
+    "rank": 191,
+    "word": "影响",
+    "score": 429.0,
+    "frequency": 33,
+    "examCoverage": 13,
+    "pinyin": "yǐng xiǎng",
+    "meaning": "อิทธิพล (affect)"
+  },
+  {
+    "rank": 192,
+    "word": "一起",
+    "score": 429.0,
+    "frequency": 33,
+    "examCoverage": 13,
+    "pinyin": "yì qǐ",
+    "meaning": "ด้วยกัน (together)"
+  },
+  {
+    "rank": 193,
+    "word": "变得",
+    "score": 420.0,
+    "frequency": 35,
+    "examCoverage": 12,
+    "pinyin": "biàn dé",
+    "meaning": "กลายเป็น (became)"
+  },
+  {
+    "rank": 194,
+    "word": "不同",
+    "score": 420.0,
+    "frequency": 35,
+    "examCoverage": 12,
+    "pinyin": "bù tóng",
+    "meaning": "แตกต่าง (distinctness)"
+  },
+  {
+    "rank": 195,
+    "word": "准备",
+    "score": 420.0,
+    "frequency": 30,
+    "examCoverage": 14,
+    "pinyin": "zhǔn bèi",
+    "meaning": "เตรียม (to prepare)"
+  },
+  {
+    "rank": 196,
+    "word": "顺序",
+    "score": 416.0,
+    "frequency": 26,
+    "examCoverage": 16,
+    "pinyin": "shùn xù",
+    "meaning": "คำสั่ง (sequence)"
+  },
+  {
+    "rank": 197,
+    "word": "改了",
+    "score": 408.0,
+    "frequency": 24,
+    "examCoverage": 17,
+    "pinyin": "gǎi le",
+    "meaning": "เปลี่ยน (no dictionary entry)"
+  },
+  {
+    "rank": 198,
+    "word": "一点儿",
+    "score": 403.0,
+    "frequency": 31,
+    "examCoverage": 13,
+    "pinyin": "yì diǎn ér",
+    "meaning": "เล็กน้อย (bittock)"
+  },
+  {
+    "rank": 199,
+    "word": "语言",
+    "score": 403.0,
+    "frequency": 31,
+    "examCoverage": 13,
+    "pinyin": "yǔ yán",
+    "meaning": "ภาษา (borderism)"
+  },
+  {
+    "rank": 200,
+    "word": "儿子",
+    "score": 403.0,
+    "frequency": 31,
+    "examCoverage": 13,
+    "pinyin": "ér zi",
+    "meaning": "ลูกชาย (boy)"
+  },
+  {
+    "rank": 201,
+    "word": "父母",
+    "score": 403.0,
+    "frequency": 31,
+    "examCoverage": 13,
+    "pinyin": "fù mǔ",
+    "meaning": "ผู้ปกครอง (adopter)"
+  },
+  {
+    "rank": 202,
+    "word": "耐心",
+    "score": 400.0,
+    "frequency": 25,
+    "examCoverage": 16,
+    "pinyin": "nài xīn",
+    "meaning": "ความอดทน (coax)"
+  },
+  {
+    "rank": 203,
+    "word": "好像",
+    "score": 400.0,
+    "frequency": 25,
+    "examCoverage": 16,
+    "pinyin": "hǎo xiàng",
+    "meaning": "ชอบ (carnivalesque)"
+  },
+  {
+    "rank": 204,
+    "word": "平时",
+    "score": 400.0,
+    "frequency": 25,
+    "examCoverage": 16,
+    "pinyin": "píng shí",
+    "meaning": "โดยปกติ (peacetime)"
+  },
+  {
+    "rank": 205,
+    "word": "乒乓球",
+    "score": 400.0,
+    "frequency": 25,
+    "examCoverage": 16,
+    "pinyin": "pīng pāng qiú",
+    "meaning": "เทเบิลเทนนิส (pingpong)"
+  },
+  {
+    "rank": 206,
+    "word": "不会",
+    "score": 392.0,
+    "frequency": 28,
+    "examCoverage": 14,
+    "pinyin": "bú huì",
+    "meaning": "จะไม่ (noncommunicable)"
+  },
+  {
+    "rank": 207,
+    "word": "学习",
+    "score": 392.0,
+    "frequency": 28,
+    "examCoverage": 14,
+    "pinyin": "xué xí",
+    "meaning": "เรียน; การเรียนรู้ (to study; learning)"
+  },
+  {
+    "rank": 208,
+    "word": "拒绝",
+    "score": 392.0,
+    "frequency": 28,
+    "examCoverage": 14,
+    "pinyin": "jù jué",
+    "meaning": "ปฏิเสธ (knockback)"
+  },
+  {
+    "rank": 209,
+    "word": "每个",
+    "score": 390.0,
+    "frequency": 30,
+    "examCoverage": 13,
+    "pinyin": "měi gè",
+    "meaning": "แต่ละ (apiece)"
+  },
+  {
+    "rank": 210,
+    "word": "才能",
+    "score": 390.0,
+    "frequency": 30,
+    "examCoverage": 13,
+    "pinyin": "cái néng",
+    "meaning": "ความสามารถพิเศษ (flair)"
+  },
+  {
+    "rank": 211,
+    "word": "这次",
+    "score": 390.0,
+    "frequency": 26,
+    "examCoverage": 15,
+    "pinyin": "zhè cì",
+    "meaning": "คราวนี้ (no dictionary entry)"
+  },
+  {
+    "rank": 212,
+    "word": "自行车",
+    "score": 384.0,
+    "frequency": 24,
+    "examCoverage": 16,
+    "pinyin": "zì xíng chē",
+    "meaning": "จักรยาน (bicycle)"
+  },
+  {
+    "rank": 213,
+    "word": "马虎",
+    "score": 384.0,
+    "frequency": 24,
+    "examCoverage": 16,
+    "pinyin": "mǎ hǔ",
+    "meaning": "สะเพร่า (catlick)"
+  },
+  {
+    "rank": 214,
+    "word": "句子",
+    "score": 384.0,
+    "frequency": 24,
+    "examCoverage": 16,
+    "pinyin": "jù zi",
+    "meaning": "ประโยค (sentence)"
+  },
+  {
+    "rank": 215,
+    "word": "音乐",
+    "score": 384.0,
+    "frequency": 24,
+    "examCoverage": 16,
+    "pinyin": "yīn yuè",
+    "meaning": "ดนตรี (music)"
+  },
+  {
+    "rank": 216,
+    "word": "你们",
+    "score": 384.0,
+    "frequency": 24,
+    "examCoverage": 16,
+    "pinyin": "nǐ men",
+    "meaning": "คุณ (you)"
+  },
+  {
+    "rank": 217,
+    "word": "提前",
+    "score": 378.0,
+    "frequency": 27,
+    "examCoverage": 14,
+    "pinyin": "tí qián",
+    "meaning": "ล่วงหน้า (ahead)"
+  },
+  {
+    "rank": 218,
+    "word": "玩儿",
+    "score": 378.0,
+    "frequency": 27,
+    "examCoverage": 14,
+    "pinyin": "wán ér",
+    "meaning": "เล่น (no dictionary entry)"
+  },
+  {
+    "rank": 219,
+    "word": "那儿",
+    "score": 377.0,
+    "frequency": 29,
+    "examCoverage": 13,
+    "pinyin": "nà ér",
+    "meaning": "ที่นั่น (no dictionary entry)"
+  },
+  {
+    "rank": 220,
+    "word": "能力",
+    "score": 375.0,
+    "frequency": 25,
+    "examCoverage": 15,
+    "pinyin": "néng lì",
+    "meaning": "ความสามารถ (competence)"
+  },
+  {
+    "rank": 221,
+    "word": "适应",
+    "score": 375.0,
+    "frequency": 25,
+    "examCoverage": 15,
+    "pinyin": "shì yìng",
+    "meaning": "ปรับ (habituation)"
+  },
+  {
+    "rank": 222,
+    "word": "京剧",
+    "score": 375.0,
+    "frequency": 25,
+    "examCoverage": 15,
+    "pinyin": "jīng jù",
+    "meaning": "ปักกิ่งโอเปร่า (no dictionary entry)"
+  },
+  {
+    "rank": 223,
+    "word": "礼貌",
+    "score": 374.0,
+    "frequency": 22,
+    "examCoverage": 17,
+    "pinyin": "lǐ mào",
+    "meaning": "สุภาพ (decorum)"
+  },
+  {
+    "rank": 224,
+    "word": "鼓励",
+    "score": 368.0,
     "frequency": 23,
+    "examCoverage": 16,
+    "pinyin": "gǔ lì",
+    "meaning": "ให้กำลังใจ (encouragement)"
+  },
+  {
+    "rank": 225,
+    "word": "两点",
+    "score": 368.0,
+    "frequency": 23,
+    "examCoverage": 16,
+    "pinyin": "liǎng diǎn",
+    "meaning": "สองโมง (deuce)"
+  },
+  {
+    "rank": 226,
+    "word": "精彩",
+    "score": 368.0,
+    "frequency": 23,
+    "examCoverage": 16,
+    "pinyin": "jīng cǎi",
+    "meaning": "มหัศจรรย์ (showstopper)"
+  },
+  {
+    "rank": 227,
+    "word": "标准",
+    "score": 368.0,
+    "frequency": 23,
+    "examCoverage": 16,
+    "pinyin": "biāo zhǔn",
+    "meaning": "มาตรฐาน (norm)"
+  },
+  {
+    "rank": 228,
+    "word": "简单",
+    "score": 364.0,
+    "frequency": 28,
+    "examCoverage": 13,
+    "pinyin": "jiǎn dān",
+    "meaning": "เรียบง่าย (briefness)"
+  },
+  {
+    "rank": 229,
+    "word": "为了",
+    "score": 364.0,
+    "frequency": 26,
+    "examCoverage": 14,
+    "pinyin": "wèi le",
+    "meaning": "สำหรับ (whippersnapper)"
+  },
+  {
+    "rank": 230,
+    "word": "个题",
+    "score": 360.0,
+    "frequency": 30,
+    "examCoverage": 12,
+    "pinyin": "gè tí",
+    "meaning": "คำถาม (bibliography)"
+  },
+  {
+    "rank": 231,
+    "word": "每题",
+    "score": 360.0,
+    "frequency": 30,
+    "examCoverage": 12,
+    "pinyin": "měi tí",
+    "meaning": "ทุกคำถาม (no dictionary entry)"
+  },
+  {
+    "rank": 232,
+    "word": "吸引",
+    "score": 360.0,
+    "frequency": 24,
+    "examCoverage": 15,
+    "pinyin": "xī yǐn",
+    "meaning": "ดึงดูด (allure)"
+  },
+  {
+    "rank": 233,
+    "word": "顾客",
+    "score": 360.0,
+    "frequency": 24,
+    "examCoverage": 15,
+    "pinyin": "gù kè",
+    "meaning": "ลูกค้า (buyer)"
+  },
+  {
+    "rank": 234,
+    "word": "水平",
+    "score": 352.0,
+    "frequency": 22,
+    "examCoverage": 16,
+    "pinyin": "shuǐ píng",
+    "meaning": "ระดับ (plane)"
+  },
+  {
+    "rank": 235,
+    "word": "判断",
+    "score": 352.0,
+    "frequency": 22,
+    "examCoverage": 16,
+    "pinyin": "pàn duàn",
+    "meaning": "ผู้พิพากษา (judgment)"
+  },
+  {
+    "rank": 236,
+    "word": "失望",
+    "score": 352.0,
+    "frequency": 22,
+    "examCoverage": 16,
+    "pinyin": "shī wàng",
+    "meaning": "ความผิดหวัง (despond)"
+  },
+  {
+    "rank": 237,
+    "word": "温度",
+    "score": 352.0,
+    "frequency": 22,
+    "examCoverage": 16,
+    "pinyin": "wēn dù",
+    "meaning": "อุณหภูมิ (temperature)"
+  },
+  {
+    "rank": 238,
+    "word": "打乒乓球",
+    "score": 352.0,
+    "frequency": 22,
+    "examCoverage": 16,
+    "pinyin": "dǎ pīng pāng qiú",
+    "meaning": "เล่นปิงปอง (no dictionary entry)"
+  },
+  {
+    "rank": 239,
+    "word": "机会",
+    "score": 351.0,
+    "frequency": 27,
+    "examCoverage": 13,
+    "pinyin": "jī huì",
+    "meaning": "โอกาส (opportunity)"
+  },
+  {
+    "rank": 240,
+    "word": "以后",
+    "score": 351.0,
+    "frequency": 27,
+    "examCoverage": 13,
+    "pinyin": "yǐ hòu",
+    "meaning": "หลังจาก (since)"
+  },
+  {
+    "rank": 241,
+    "word": "年龄",
+    "score": 350.0,
+    "frequency": 25,
+    "examCoverage": 14,
+    "pinyin": "nián líng",
+    "meaning": "อายุ (year)"
+  },
+  {
+    "rank": 242,
+    "word": "通过",
+    "score": 350.0,
+    "frequency": 25,
+    "examCoverage": 14,
+    "pinyin": "tōng guò",
+    "meaning": "ผ่าน (passthrough)"
+  },
+  {
+    "rank": 243,
+    "word": "不好",
+    "score": 348.0,
+    "frequency": 29,
+    "examCoverage": 12,
+    "pinyin": "bù hǎo",
+    "meaning": "ไม่ดี (termagancy)"
+  },
+  {
+    "rank": 244,
+    "word": "支持",
+    "score": 345.0,
+    "frequency": 23,
+    "examCoverage": 15,
+    "pinyin": "zhī chí",
+    "meaning": "สนับสนุน (adhesion)"
+  },
+  {
+    "rank": 245,
+    "word": "运动",
+    "score": 338.0,
+    "frequency": 26,
+    "examCoverage": 13,
+    "pinyin": "yùn dòng",
+    "meaning": "กีฬา (athletics)"
+  },
+  {
+    "rank": 246,
+    "word": "紧张",
+    "score": 336.0,
+    "frequency": 24,
+    "examCoverage": 14,
+    "pinyin": "jǐn zhāng",
+    "meaning": "ประหม่า (intension)"
+  },
+  {
+    "rank": 247,
+    "word": "遇到",
+    "score": 336.0,
+    "frequency": 24,
+    "examCoverage": 14,
+    "pinyin": "yù dào",
+    "meaning": "พบปะ (encounter)"
+  },
+  {
+    "rank": 248,
+    "word": "压力",
+    "score": 336.0,
+    "frequency": 24,
+    "examCoverage": 14,
+    "pinyin": "yā lì",
+    "meaning": "ความดัน (pressure)"
+  },
+  {
+    "rank": 249,
+    "word": "导游",
+    "score": 336.0,
+    "frequency": 21,
+    "examCoverage": 16,
+    "pinyin": "dǎo yóu",
+    "meaning": "ไกด์นำเที่ยว (dragoman)"
+  },
+  {
+    "rank": 250,
+    "word": "一般",
+    "score": 336.0,
+    "frequency": 21,
+    "examCoverage": 16,
+    "pinyin": "yì bān",
+    "meaning": "โดยทั่วไป (generally)"
+  },
+  {
+    "rank": 251,
+    "word": "总结",
+    "score": 336.0,
+    "frequency": 21,
+    "examCoverage": 16,
+    "pinyin": "zǒng jié",
+    "meaning": "สรุป (summarize)"
+  },
+  {
+    "rank": 252,
+    "word": "聪明",
+    "score": 330.0,
+    "frequency": 22,
+    "examCoverage": 15,
+    "pinyin": "cōng míng",
+    "meaning": "ฉลาด (becility)"
+  },
+  {
+    "rank": 253,
+    "word": "十分",
+    "score": 330.0,
+    "frequency": 22,
+    "examCoverage": 15,
+    "pinyin": "shí fēn",
+    "meaning": "มาก (thoroughness)"
+  },
+  {
+    "rank": 254,
+    "word": "友谊",
+    "score": 330.0,
+    "frequency": 22,
+    "examCoverage": 15,
+    "pinyin": "yǒu yì",
+    "meaning": "มิตรภาพ (companionship)"
+  },
+  {
+    "rank": 255,
+    "word": "提供",
+    "score": 330.0,
+    "frequency": 22,
+    "examCoverage": 15,
+    "pinyin": "tí gōng",
+    "meaning": "จัดหา (afford)"
+  },
+  {
+    "rank": 256,
+    "word": "方便",
+    "score": 325.0,
+    "frequency": 25,
+    "examCoverage": 13,
+    "pinyin": "fāng biàn",
+    "meaning": "สะดวก (conveniency)"
+  },
+  {
+    "rank": 257,
+    "word": "只是",
+    "score": 325.0,
+    "frequency": 25,
+    "examCoverage": 13,
+    "pinyin": "zhǐ shì",
+    "meaning": "เท่านั้น (nobbut)"
+  },
+  {
+    "rank": 258,
+    "word": "感情",
+    "score": 325.0,
+    "frequency": 25,
+    "examCoverage": 13,
+    "pinyin": "gǎn qíng",
+    "meaning": "อารมณ์ (reins)"
+  },
+  {
+    "rank": 259,
+    "word": "社会",
+    "score": 325.0,
+    "frequency": 25,
+    "examCoverage": 13,
+    "pinyin": "shè huì",
+    "meaning": "สังคม (society)"
+  },
+  {
+    "rank": 260,
+    "word": "打算",
+    "score": 324.0,
+    "frequency": 27,
+    "examCoverage": 12,
+    "pinyin": "dǎ suàn",
+    "meaning": "ตั้งใจ (intend)"
+  },
+  {
+    "rank": 261,
+    "word": "看法",
+    "score": 322.0,
+    "frequency": 23,
+    "examCoverage": 14,
+    "pinyin": "kàn fǎ",
+    "meaning": "ดู (attitude)"
+  },
+  {
+    "rank": 262,
+    "word": "重视",
+    "score": 322.0,
+    "frequency": 23,
+    "examCoverage": 14,
+    "pinyin": "zhòng shì",
+    "meaning": "ให้ความสนใจกับ (recognition)"
+  },
+  {
+    "rank": 263,
+    "word": "原谅",
+    "score": 322.0,
+    "frequency": 23,
+    "examCoverage": 14,
+    "pinyin": "yuán liàng",
+    "meaning": "ให้อภัย (pardon)"
+  },
+  {
+    "rank": 264,
+    "word": "考生",
+    "score": 320.0,
+    "frequency": 20,
+    "examCoverage": 16,
+    "pinyin": "kǎo shēng",
+    "meaning": "ผู้สมัคร (script)"
+  },
+  {
+    "rank": 265,
+    "word": "走路",
+    "score": 320.0,
+    "frequency": 20,
+    "examCoverage": 16,
+    "pinyin": "zǒu lù",
+    "meaning": "เดิน (toddler)"
+  },
+  {
+    "rank": 266,
+    "word": "白天",
+    "score": 320.0,
+    "frequency": 20,
+    "examCoverage": 16,
+    "pinyin": "bái tiān",
+    "meaning": "ตอนกลางวัน (daytime)"
+  },
+  {
+    "rank": 267,
+    "word": "浪漫",
+    "score": 320.0,
+    "frequency": 20,
+    "examCoverage": 16,
+    "pinyin": "làng màn",
+    "meaning": "โรแมนติก (romantically)"
+  },
+  {
+    "rank": 268,
+    "word": "认为",
+    "score": 319.0,
+    "frequency": 29,
+    "examCoverage": 11,
+    "pinyin": "rèn wéi",
+    "meaning": "คิด (deem)"
+  },
+  {
+    "rank": 269,
+    "word": "学生",
+    "score": 319.0,
+    "frequency": 29,
+    "examCoverage": 11,
+    "pinyin": "xué shēng",
+    "meaning": "นักเรียน (pupil)"
+  },
+  {
+    "rank": 270,
+    "word": "流行",
+    "score": 315.0,
+    "frequency": 21,
+    "examCoverage": 15,
+    "pinyin": "liú xíng",
+    "meaning": "ความนิยม (prevalence)"
+  },
+  {
+    "rank": 271,
+    "word": "过去",
+    "score": 312.0,
+    "frequency": 26,
+    "examCoverage": 12,
+    "pinyin": "guò qù",
+    "meaning": "อดีต (foretime)"
+  },
+  {
+    "rank": 272,
+    "word": "成熟",
+    "score": 312.0,
+    "frequency": 24,
+    "examCoverage": 13,
+    "pinyin": "chéng shú",
+    "meaning": "เป็นผู้ใหญ่ (maturate)"
+  },
+  {
+    "rank": 273,
+    "word": "而且",
+    "score": 312.0,
+    "frequency": 24,
+    "examCoverage": 13,
+    "pinyin": "ér qiě",
+    "meaning": "และ (furthermore)"
+  },
+  {
+    "rank": 274,
+    "word": "决定",
+    "score": 312.0,
+    "frequency": 24,
+    "examCoverage": 13,
+    "pinyin": "jué dìng",
+    "meaning": "ตัดสินใจ (decide)"
+  },
+  {
+    "rank": 275,
+    "word": "一样",
+    "score": 312.0,
+    "frequency": 24,
+    "examCoverage": 13,
+    "pinyin": "yī yàng",
+    "meaning": "เดียวกัน (whippy)"
+  },
+  {
+    "rank": 276,
+    "word": "父亲",
+    "score": 312.0,
+    "frequency": 24,
     "examCoverage": 13,
     "pinyin": "fù qīn",
     "meaning": "พ่อ (procreator)"
   },
   {
-    "rank": 176,
-    "word": "儿子",
+    "rank": 277,
+    "word": "质量",
+    "score": 308.0,
+    "frequency": 22,
+    "examCoverage": 14,
+    "pinyin": "zhì liàng",
+    "meaning": "คุณภาพ (quality)"
+  },
+  {
+    "rank": 278,
+    "word": "提醒",
+    "score": 304.0,
+    "frequency": 19,
+    "examCoverage": 16,
+    "pinyin": "tí xǐng",
+    "meaning": "เตือน (remind)"
+  },
+  {
+    "rank": 279,
+    "word": "文化",
+    "score": 300.0,
+    "frequency": 25,
+    "examCoverage": 12,
+    "pinyin": "wén huà",
+    "meaning": "วัฒนธรรม (culture)"
+  },
+  {
+    "rank": 280,
+    "word": "提高",
+    "score": 300.0,
+    "frequency": 25,
+    "examCoverage": 12,
+    "pinyin": "tí gāo",
+    "meaning": "ทำให้ดีขึ้น (heighten)"
+  },
+  {
+    "rank": 281,
+    "word": "收拾",
+    "score": 300.0,
+    "frequency": 20,
+    "examCoverage": 15,
+    "pinyin": "shōu shí",
+    "meaning": "เรียบร้อย (tidy)"
+  },
+  {
+    "rank": 282,
+    "word": "经历",
+    "score": 300.0,
+    "frequency": 20,
+    "examCoverage": 15,
+    "pinyin": "jīng lì",
+    "meaning": "ประสบการณ์ (undergo)"
+  },
+  {
+    "rank": 283,
+    "word": "误会",
+    "score": 300.0,
+    "frequency": 20,
+    "examCoverage": 15,
+    "pinyin": "wù huì",
+    "meaning": "เข้าใจผิด (misapprehension)"
+  },
+  {
+    "rank": 284,
+    "word": "使用",
+    "score": 299.0,
+    "frequency": 23,
+    "examCoverage": 13,
+    "pinyin": "shǐ yòng",
+    "meaning": "ใช้ (usage)"
+  },
+  {
+    "rank": 285,
+    "word": "情况",
+    "score": 299.0,
+    "frequency": 23,
+    "examCoverage": 13,
+    "pinyin": "qíng kuàng",
+    "meaning": "เงื่อนไข (complexion)"
+  },
+  {
+    "rank": 286,
+    "word": "相信",
+    "score": 299.0,
+    "frequency": 23,
+    "examCoverage": 13,
+    "pinyin": "xiāng xìn",
+    "meaning": "เชื่อ (deem)"
+  },
+  {
+    "rank": 287,
+    "word": "休息",
+    "score": 299.0,
+    "frequency": 23,
+    "examCoverage": 13,
+    "pinyin": "xiū xī",
+    "meaning": "พักผ่อน (recumbency)"
+  },
+  {
+    "rank": 288,
+    "word": "这种",
     "score": 297.0,
     "frequency": 27,
     "examCoverage": 11,
-    "pinyin": "ér zi",
-    "meaning": "ลูกชาย (boy)"
+    "pinyin": "zhè zhǒng",
+    "meaning": "แบบนี้ (such)"
   },
   {
-    "rank": 177,
-    "word": "加油",
+    "rank": 289,
+    "word": "年轻人",
+    "score": 297.0,
+    "frequency": 27,
+    "examCoverage": 11,
+    "pinyin": "nián qīng rén",
+    "meaning": "คนหนุ่มสาว (stripling)"
+  },
+  {
+    "rank": 290,
+    "word": "总是",
+    "score": 297.0,
+    "frequency": 27,
+    "examCoverage": 11,
+    "pinyin": "zǒng shì",
+    "meaning": "เสมอ (always)"
+  },
+  {
+    "rank": 291,
+    "word": "后悔",
     "score": 294.0,
     "frequency": 21,
     "examCoverage": 14,
-    "pinyin": "jiā yóu",
-    "meaning": "มาเร็ว (cheerio)"
+    "pinyin": "hòu huǐ",
+    "meaning": "เสียใจ (contrition)"
   },
   {
-    "rank": 178,
-    "word": "虽然",
+    "rank": 292,
+    "word": "便宜",
     "score": 294.0,
     "frequency": 21,
     "examCoverage": 14,
-    "pinyin": "suī rán",
-    "meaning": "แม้ว่า (though)"
+    "pinyin": "pián yi",
+    "meaning": "ราคาถูก (conveniency)"
   },
   {
-    "rank": 179,
-    "word": "填写",
+    "rank": 293,
+    "word": "勇敢",
+    "score": 294.0,
+    "frequency": 21,
+    "examCoverage": 14,
+    "pinyin": "yǒng gǎn",
+    "meaning": "กล้าหาญ (bravery)"
+  },
+  {
+    "rank": 294,
+    "word": "困难",
+    "score": 294.0,
+    "frequency": 21,
+    "examCoverage": 14,
+    "pinyin": "kùn nán",
+    "meaning": "ความยากลำบาก (difficulty)"
+  },
+  {
+    "rank": 295,
+    "word": "经济",
+    "score": 294.0,
+    "frequency": 21,
+    "examCoverage": 14,
+    "pinyin": "jīng jì",
+    "meaning": "เศรษฐกิจ (economy)"
+  },
+  {
+    "rank": 296,
+    "word": "免费",
+    "score": 294.0,
+    "frequency": 21,
+    "examCoverage": 14,
+    "pinyin": "miǎn fèi",
+    "meaning": "ฟรี (gratis)"
+  },
+  {
+    "rank": 297,
+    "word": "信心",
+    "score": 294.0,
+    "frequency": 21,
+    "examCoverage": 14,
+    "pinyin": "xìn xīn",
+    "meaning": "ความมั่นใจ (confidence)"
+  },
+  {
+    "rank": 298,
+    "word": "地球",
     "score": 288.0,
     "frequency": 24,
     "examCoverage": 12,
-    "pinyin": "tián xiě",
-    "meaning": "กรอก (spatchcock)"
+    "pinyin": "dì qiú",
+    "meaning": "โลก (globosity)"
   },
   {
-    "rank": 180,
-    "word": "学会",
+    "rank": 299,
+    "word": "越来越",
     "score": 288.0,
     "frequency": 24,
     "examCoverage": 12,
-    "pinyin": "xué huì",
-    "meaning": "เรียนรู้ (akademi)"
+    "pinyin": "yuè lái yuè",
+    "meaning": "มากขึ้นเรื่อยๆ (ingravescent)"
   },
   {
-    "rank": 181,
-    "word": "父母",
+    "rank": 300,
+    "word": "快到",
     "score": 288.0,
-    "frequency": 24,
-    "examCoverage": 12,
-    "pinyin": "fù mǔ",
-    "meaning": "ผู้ปกครอง (adopter)"
+    "frequency": 18,
+    "examCoverage": 16,
+    "pinyin": "kuài dào",
+    "meaning": "เร็วๆ นี้ (no dictionary entry)"
   },
   {
-    "rank": 182,
-    "word": "选择",
+    "rank": 301,
+    "word": "友好",
+    "score": 288.0,
+    "frequency": 18,
+    "examCoverage": 16,
+    "pinyin": "yǒu hǎo",
+    "meaning": "เป็นกันเอง (friendship)"
+  },
+  {
+    "rank": 302,
+    "word": "排列",
+    "score": 288.0,
+    "frequency": 18,
+    "examCoverage": 16,
+    "pinyin": "pái liè",
+    "meaning": "การจัดเตรียม (arrayal)"
+  },
+  {
+    "rank": 303,
+    "word": "起来",
     "score": 286.0,
     "frequency": 26,
     "examCoverage": 11,
-    "pinyin": "xuǎn zé",
-    "meaning": "เลือก (choose)"
+    "pinyin": "qǐ lái",
+    "meaning": "ยืนขึ้น (up)"
   },
   {
-    "rank": 183,
-    "word": "改变",
-    "score": 286.0,
-    "frequency": 26,
-    "examCoverage": 11,
-    "pinyin": "gǎi biàn",
-    "meaning": "เปลี่ยน (alter)"
-  },
-  {
-    "rank": 184,
-    "word": "计划",
+    "rank": 304,
+    "word": "旅游",
     "score": 286.0,
     "frequency": 22,
     "examCoverage": 13,
-    "pinyin": "jì huà",
-    "meaning": "วางแผน (schema)"
+    "pinyin": "lǚ yóu",
+    "meaning": "การท่องเที่ยว (junketing)"
   },
   {
-    "rank": 185,
+    "rank": 305,
+    "word": "不仅",
+    "score": 286.0,
+    "frequency": 22,
+    "examCoverage": 13,
+    "pinyin": "bù jǐn",
+    "meaning": "ไม่เพียงเท่านั้น (nay)"
+  },
+  {
+    "rank": 306,
+    "word": "熟悉",
+    "score": 286.0,
+    "frequency": 22,
+    "examCoverage": 13,
+    "pinyin": "shú xī",
+    "meaning": "คุ้นเคย (familiarize)"
+  },
+  {
+    "rank": 307,
+    "word": "轻松",
+    "score": 285.0,
+    "frequency": 19,
+    "examCoverage": 15,
+    "pinyin": "qīng sōng",
+    "meaning": "ง่าย (detension)"
+  },
+  {
+    "rank": 308,
+    "word": "完全",
+    "score": 285.0,
+    "frequency": 19,
+    "examCoverage": 15,
+    "pinyin": "wán quán",
+    "meaning": "อย่างสมบูรณ์ (completeness)"
+  },
+  {
+    "rank": 309,
     "word": "回来",
     "score": 280.0,
     "frequency": 28,
@@ -1665,187 +2781,268 @@
     "meaning": "กลับ (return)"
   },
   {
-    "rank": 186,
-    "word": "汉语",
+    "rank": 310,
+    "word": "迟到",
     "score": 280.0,
     "frequency": 20,
     "examCoverage": 14,
-    "pinyin": "hàn yǔ",
-    "meaning": "ชาวจีน (chinese)"
+    "pinyin": "chí dào",
+    "meaning": "มาสาย (latecomer)"
   },
   {
-    "rank": 187,
-    "word": "全部",
+    "rank": 311,
+    "word": "效果",
     "score": 280.0,
     "frequency": 20,
     "examCoverage": 14,
-    "pinyin": "quán bù",
-    "meaning": "ทั้งหมด (allness)"
+    "pinyin": "xiào guǒ",
+    "meaning": "ผล (purpose)"
   },
   {
-    "rank": 188,
-    "word": "发给",
-    "score": 280.0,
-    "frequency": 20,
-    "examCoverage": 14,
-    "pinyin": "fā gěi",
-    "meaning": "ออกให้กับ (licensure)"
-  },
-  {
-    "rank": 189,
-    "word": "这次",
-    "score": 280.0,
-    "frequency": 20,
-    "examCoverage": 14,
-    "pinyin": "zhè cì",
-    "meaning": "คราวนี้ (no dictionary entry)"
-  },
-  {
-    "rank": 190,
-    "word": "方法",
-    "score": 280.0,
-    "frequency": 20,
-    "examCoverage": 14,
-    "pinyin": "fāng fǎ",
-    "meaning": "วิธี (method)"
-  },
-  {
-    "rank": 191,
-    "word": "才能",
+    "rank": 312,
+    "word": "两个",
     "score": 276.0,
     "frequency": 23,
     "examCoverage": 12,
-    "pinyin": "cái néng",
-    "meaning": "ความสามารถพิเศษ (flair)"
+    "pinyin": "liǎng gè",
+    "meaning": "สอง (two)"
   },
   {
-    "rank": 192,
-    "word": "批评",
+    "rank": 313,
+    "word": "联系",
+    "score": 276.0,
+    "frequency": 23,
+    "examCoverage": 12,
+    "pinyin": "lián xì",
+    "meaning": "เชื่อมต่อ (connexion)"
+  },
+  {
+    "rank": 314,
+    "word": "房间",
     "score": 275.0,
     "frequency": 25,
     "examCoverage": 11,
-    "pinyin": "pī píng",
-    "meaning": "วิพากษ์วิจารณ์ (critique)"
+    "pinyin": "fáng jiān",
+    "meaning": "ห้อง (apartment)"
   },
   {
-    "rank": 193,
-    "word": "打算",
+    "rank": 315,
+    "word": "世界",
     "score": 275.0,
     "frequency": 25,
     "examCoverage": 11,
-    "pinyin": "dǎ suàn",
-    "meaning": "ตั้งใจ (intend)"
+    "pinyin": "shì jiè",
+    "meaning": "โลก (universe)"
   },
   {
-    "rank": 194,
-    "word": "害羞",
+    "rank": 316,
+    "word": "点儿",
+    "score": 275.0,
+    "frequency": 25,
+    "examCoverage": 11,
+    "pinyin": "diǎn ér",
+    "meaning": "นิดหน่อย (dite)"
+  },
+  {
+    "rank": 317,
+    "word": "结果",
+    "score": 275.0,
+    "frequency": 25,
+    "examCoverage": 11,
+    "pinyin": "jié guǒ",
+    "meaning": "ผลลัพธ์ (upshot)"
+  },
+  {
+    "rank": 318,
+    "word": "过程",
     "score": 273.0,
     "frequency": 21,
     "examCoverage": 13,
-    "pinyin": "hài xiū",
-    "meaning": "อาย (pudency)"
+    "pinyin": "guò chéng",
+    "meaning": "กระบวนการ (process)"
   },
   {
-    "rank": 195,
-    "word": "烦恼",
+    "rank": 319,
+    "word": "打折",
     "score": 273.0,
     "frequency": 21,
     "examCoverage": 13,
-    "pinyin": "fán nǎo",
-    "meaning": "ปัญหา (harass)"
+    "pinyin": "dǎ zhé",
+    "meaning": "การลดราคา (rebate)"
   },
   {
-    "rank": 196,
-    "word": "玩儿",
+    "rank": 320,
+    "word": "意见",
     "score": 273.0,
     "frequency": 21,
     "examCoverage": 13,
-    "pinyin": "wán ér",
-    "meaning": "เล่น (no dictionary entry)"
+    "pinyin": "yì jiàn",
+    "meaning": "ความคิดเห็น (deliverance)"
   },
   {
-    "rank": 197,
-    "word": "句子",
+    "rank": 321,
+    "word": "学校",
+    "score": 273.0,
+    "frequency": 21,
+    "examCoverage": 13,
+    "pinyin": "xué xiào",
+    "meaning": "โรงเรียน (seminary)"
+  },
+  {
+    "rank": 322,
+    "word": "最高",
+    "score": 272.0,
+    "frequency": 17,
+    "examCoverage": 16,
+    "pinyin": "zuì gāo",
+    "meaning": "สูงสุด (paramountcy)"
+  },
+  {
+    "rank": 323,
+    "word": "起晚",
+    "score": 272.0,
+    "frequency": 17,
+    "examCoverage": 16,
+    "pinyin": "qǐ wǎn",
+    "meaning": "ตื่นสาย (no dictionary entry)"
+  },
+  {
+    "rank": 324,
+    "word": "打车",
+    "score": 272.0,
+    "frequency": 17,
+    "examCoverage": 16,
+    "pinyin": "dǎ chē",
+    "meaning": "นั่งแท็กซี่ (no dictionary entry)"
+  },
+  {
+    "rank": 325,
+    "word": "或者",
+    "score": 270.0,
+    "frequency": 27,
+    "examCoverage": 10,
+    "pinyin": "huò zhě",
+    "meaning": "หรือ (possibly)"
+  },
+  {
+    "rank": 326,
+    "word": "热闹",
     "score": 270.0,
     "frequency": 18,
     "examCoverage": 15,
-    "pinyin": "jù zi",
-    "meaning": "ประโยค (sentence)"
+    "pinyin": "rè nào",
+    "meaning": "มีชีวิตชีวา (jollification)"
   },
   {
-    "rank": 198,
-    "word": "改了",
+    "rank": 327,
+    "word": "差不多",
     "score": 266.0,
     "frequency": 19,
     "examCoverage": 14,
-    "pinyin": "gǎi le",
-    "meaning": "เปลี่ยน (no dictionary entry)"
+    "pinyin": "chà bu duō",
+    "meaning": "เกือบ (almost)"
   },
   {
-    "rank": 199,
-    "word": "耐心",
+    "rank": 328,
+    "word": "飞机",
     "score": 266.0,
     "frequency": 19,
     "examCoverage": 14,
-    "pinyin": "nài xīn",
-    "meaning": "ความอดทน (coax)"
+    "pinyin": "fēi jī",
+    "meaning": "เครื่องบิน (aeronef)"
   },
   {
-    "rank": 200,
-    "word": "不会",
+    "rank": 329,
+    "word": "沙发",
+    "score": 266.0,
+    "frequency": 19,
+    "examCoverage": 14,
+    "pinyin": "shā fā",
+    "meaning": "โซฟา (sofa)"
+  },
+  {
+    "rank": 330,
+    "word": "怀疑",
+    "score": 266.0,
+    "frequency": 19,
+    "examCoverage": 14,
+    "pinyin": "huái yí",
+    "meaning": "สงสัย (disbelief)"
+  },
+  {
+    "rank": 331,
+    "word": "舒服",
+    "score": 266.0,
+    "frequency": 19,
+    "examCoverage": 14,
+    "pinyin": "shū fú",
+    "meaning": "สะดวกสบาย (kelter)"
+  },
+  {
+    "rank": 332,
+    "word": "密码",
     "score": 264.0,
-    "frequency": 24,
-    "examCoverage": 11,
-    "pinyin": "bú huì",
-    "meaning": "จะไม่ (noncommunicable)"
+    "frequency": 22,
+    "examCoverage": 12,
+    "pinyin": "mì mǎ",
+    "meaning": "รหัสผ่าน (cipher)"
   },
   {
-    "rank": 201,
-    "word": "缺点",
+    "rank": 333,
+    "word": "环境",
     "score": 264.0,
-    "frequency": 24,
-    "examCoverage": 11,
-    "pinyin": "quē diǎn",
-    "meaning": "ข้อบกพร่อง (demerit)"
+    "frequency": 22,
+    "examCoverage": 12,
+    "pinyin": "huán jìng",
+    "meaning": "สิ่งแวดล้อม (surroundings)"
   },
   {
-    "rank": 202,
-    "word": "好像",
+    "rank": 334,
+    "word": "讨论",
     "score": 260.0,
     "frequency": 20,
     "examCoverage": 13,
-    "pinyin": "hǎo xiàng",
-    "meaning": "ชอบ (carnivalesque)"
+    "pinyin": "tǎo lùn",
+    "meaning": "หารือ (discussion)"
   },
   {
-    "rank": 203,
-    "word": "理想",
+    "rank": 335,
+    "word": "感觉",
     "score": 260.0,
     "frequency": 20,
     "examCoverage": 13,
-    "pinyin": "lǐ xiǎng",
-    "meaning": "ในอุดมคติ (ideality)"
+    "pinyin": "gǎn jué",
+    "meaning": "รู้สึก (aesthesia)"
   },
   {
-    "rank": 204,
-    "word": "好处",
+    "rank": 336,
+    "word": "调查",
     "score": 260.0,
     "frequency": 20,
     "examCoverage": 13,
-    "pinyin": "hǎo chù",
-    "meaning": "ผลประโยชน์ (behoof)"
+    "pinyin": "diào chá",
+    "meaning": "การสืบสวน (indagate)"
   },
   {
-    "rank": 205,
-    "word": "女儿",
+    "rank": 337,
+    "word": "超市",
     "score": 260.0,
     "frequency": 20,
     "examCoverage": 13,
-    "pinyin": "nǚ ér",
-    "meaning": "ลูกสาว (stepdaughter)"
+    "pinyin": "chāo shì",
+    "meaning": "ซูเปอร์มาร์เก็ต (no dictionary entry)"
   },
   {
-    "rank": 206,
+    "rank": 338,
+    "word": "引起",
+    "score": 260.0,
+    "frequency": 20,
+    "examCoverage": 13,
+    "pinyin": "yǐn qǐ",
+    "meaning": "สาเหตุ (evoke)"
+  },
+  {
+    "rank": 339,
     "word": "下面",
     "score": 259.0,
     "frequency": 37,
@@ -1854,133 +3051,187 @@
     "meaning": "ภายใต้ (underside)"
   },
   {
-    "rank": 207,
-    "word": "上下班",
-    "score": 253.0,
-    "frequency": 23,
-    "examCoverage": 11,
-    "pinyin": "shàng xià bān",
-    "meaning": "การเดินทางไปและกลับจากเลิกงาน (vanpool)"
+    "rank": 340,
+    "word": "个人信息",
+    "score": 256.0,
+    "frequency": 16,
+    "examCoverage": 16,
+    "pinyin": "gè rén xìn xī",
+    "meaning": "ข้อมูลส่วนบุคคล (pim)"
   },
   {
-    "rank": 208,
-    "word": "学习",
-    "score": 253.0,
-    "frequency": 23,
-    "examCoverage": 11,
-    "pinyin": "xué xí",
-    "meaning": "เรียน; การเรียนรู้ (to study; learning)"
+    "rank": 341,
+    "word": "汉办",
+    "score": 256.0,
+    "frequency": 16,
+    "examCoverage": 16,
+    "pinyin": "hàn bàn",
+    "meaning": "ฮันบัน (no dictionary entry)"
   },
   {
-    "rank": 209,
-    "word": "以后",
-    "score": 253.0,
-    "frequency": 23,
-    "examCoverage": 11,
-    "pinyin": "yǐ hòu",
-    "meaning": "หลังจาก (since)"
+    "rank": 342,
+    "word": "孔子",
+    "score": 256.0,
+    "frequency": 16,
+    "examCoverage": 16,
+    "pinyin": "kǒng zi",
+    "meaning": "ขงจื๊อ (confucian)"
   },
   {
-    "rank": 210,
-    "word": "每个",
-    "score": 253.0,
-    "frequency": 23,
-    "examCoverage": 11,
-    "pinyin": "měi gè",
-    "meaning": "แต่ละ (apiece)"
+    "rank": 343,
+    "word": "学院",
+    "score": 256.0,
+    "frequency": 16,
+    "examCoverage": 16,
+    "pinyin": "xué yuàn",
+    "meaning": "วิทยาลัย (seminary)"
   },
   {
-    "rank": 211,
-    "word": "许多",
+    "rank": 344,
+    "word": "总部",
+    "score": 256.0,
+    "frequency": 16,
+    "examCoverage": 16,
+    "pinyin": "zǒng bù",
+    "meaning": "สำนักงานใหญ่ (headquarters)"
+  },
+  {
+    "rank": 345,
+    "word": "编制",
+    "score": 256.0,
+    "frequency": 16,
+    "examCoverage": 16,
+    "pinyin": "biān zhì",
+    "meaning": "จัดทำโดย (planning)"
+  },
+  {
+    "rank": 346,
+    "word": "对错",
+    "score": 256.0,
+    "frequency": 16,
+    "examCoverage": 16,
+    "pinyin": "duì cuò",
+    "meaning": "ถูกหรือผิด (no dictionary entry)"
+  },
+  {
+    "rank": 347,
+    "word": "油是",
+    "score": 256.0,
+    "frequency": 16,
+    "examCoverage": 16,
+    "pinyin": "yóu shì",
+    "meaning": "น้ำมันคือ (no dictionary entry)"
+  },
+  {
+    "rank": 348,
+    "word": "真冷",
+    "score": 256.0,
+    "frequency": 16,
+    "examCoverage": 16,
+    "pinyin": "zhēn lěng",
+    "meaning": "หนาวมาก (no dictionary entry)"
+  },
+  {
+    "rank": 349,
+    "word": "同事",
+    "score": 255.0,
+    "frequency": 17,
+    "examCoverage": 15,
+    "pinyin": "tóng shì",
+    "meaning": "เพื่อนร่วมงาน (colleague)"
+  },
+  {
+    "rank": 350,
+    "word": "积累",
+    "score": 255.0,
+    "frequency": 17,
+    "examCoverage": 15,
+    "pinyin": "jī lěi",
+    "meaning": "การสะสม (pile)"
+  },
+  {
+    "rank": 351,
+    "word": "诚实",
+    "score": 255.0,
+    "frequency": 17,
+    "examCoverage": 15,
+    "pinyin": "chéng shí",
+    "meaning": "ซื่อสัตย์ (heartiness)"
+  },
+  {
+    "rank": 352,
+    "word": "考虑",
     "score": 252.0,
     "frequency": 21,
     "examCoverage": 12,
-    "pinyin": "xǔ duō",
-    "meaning": "มากมาย (lashing)"
+    "pinyin": "kǎo lǜ",
+    "meaning": "พิจารณา (calculation)"
   },
   {
-    "rank": 212,
-    "word": "年轻人",
-    "score": 250.0,
-    "frequency": 25,
-    "examCoverage": 10,
-    "pinyin": "nián qīng rén",
-    "meaning": "คนหนุ่มสาว (stripling)"
+    "rank": 353,
+    "word": "真正",
+    "score": 252.0,
+    "frequency": 21,
+    "examCoverage": 12,
+    "pinyin": "zhēn zhèng",
+    "meaning": "จริง (honesttogod)"
   },
   {
-    "rank": 213,
-    "word": "总是",
-    "score": 250.0,
-    "frequency": 25,
-    "examCoverage": 10,
-    "pinyin": "zǒng shì",
-    "meaning": "เสมอ (always)"
+    "rank": 354,
+    "word": "邻居",
+    "score": 252.0,
+    "frequency": 21,
+    "examCoverage": 12,
+    "pinyin": "lín jū",
+    "meaning": "เพื่อนบ้าน (kith)"
   },
   {
-    "rank": 214,
-    "word": "顺序",
+    "rank": 355,
+    "word": "热情",
+    "score": 252.0,
+    "frequency": 18,
+    "examCoverage": 14,
+    "pinyin": "rè qíng",
+    "meaning": "ความกระตือรือร้น (pash)"
+  },
+  {
+    "rank": 356,
+    "word": "开玩笑",
+    "score": 252.0,
+    "frequency": 18,
+    "examCoverage": 14,
+    "pinyin": "kāi wán xiào",
+    "meaning": "เรื่องตลก (gaggery)"
+  },
+  {
+    "rank": 357,
+    "word": "笑话",
     "score": 247.0,
     "frequency": 19,
     "examCoverage": 13,
-    "pinyin": "shùn xù",
-    "meaning": "คำสั่ง (sequence)"
+    "pinyin": "xiào huà",
+    "meaning": "เรื่องตลก (jesting)"
   },
   {
-    "rank": 215,
-    "word": "感觉",
+    "rank": 358,
+    "word": "最近",
     "score": 247.0,
     "frequency": 19,
     "examCoverage": 13,
-    "pinyin": "gǎn jué",
-    "meaning": "รู้สึก (aesthesia)"
+    "pinyin": "zuì jìn",
+    "meaning": "ล่าสุด (recentness)"
   },
   {
-    "rank": 216,
-    "word": "活泼",
+    "rank": 359,
+    "word": "值得",
     "score": 247.0,
     "frequency": 19,
     "examCoverage": 13,
-    "pinyin": "huó pō",
-    "meaning": "มีชีวิตชีวา (liveliness)"
+    "pinyin": "zhí de",
+    "meaning": "คุณค่า (worthiness)"
   },
   {
-    "rank": 217,
-    "word": "能力",
-    "score": 247.0,
-    "frequency": 19,
-    "examCoverage": 13,
-    "pinyin": "néng lì",
-    "meaning": "ความสามารถ (competence)"
-  },
-  {
-    "rank": 218,
-    "word": "性格",
-    "score": 247.0,
-    "frequency": 19,
-    "examCoverage": 13,
-    "pinyin": "xìng gé",
-    "meaning": "อักขระ (semitism)"
-  },
-  {
-    "rank": 219,
-    "word": "吸引",
-    "score": 247.0,
-    "frequency": 19,
-    "examCoverage": 13,
-    "pinyin": "xī yǐn",
-    "meaning": "ดึงดูด (allure)"
-  },
-  {
-    "rank": 220,
-    "word": "拒绝",
-    "score": 247.0,
-    "frequency": 19,
-    "examCoverage": 13,
-    "pinyin": "jù jué",
-    "meaning": "ปฏิเสธ (knockback)"
-  },
-  {
-    "rank": 221,
+    "rank": 360,
     "word": "一段话",
     "score": 245.0,
     "frequency": 35,
@@ -1989,592 +3240,772 @@
     "meaning": "ย่อหน้า (no dictionary entry)"
   },
   {
-    "rank": 222,
-    "word": "选词",
-    "score": 242.0,
-    "frequency": 22,
-    "examCoverage": 11,
-    "pinyin": "xuǎn cí",
-    "meaning": "การเลือกคำ (no dictionary entry)"
+    "rank": 361,
+    "word": "出发",
+    "score": 240.0,
+    "frequency": 24,
+    "examCoverage": 10,
+    "pinyin": "chū fā",
+    "meaning": "ออกเดินทาง (starting)"
   },
   {
-    "rank": 223,
-    "word": "填空",
-    "score": 242.0,
-    "frequency": 22,
-    "examCoverage": 11,
-    "pinyin": "tián kòng",
-    "meaning": "กรอกข้อมูลในช่องว่าง (calking)"
-  },
-  {
-    "rank": 224,
-    "word": "为了",
-    "score": 242.0,
-    "frequency": 22,
-    "examCoverage": 11,
-    "pinyin": "wèi le",
-    "meaning": "สำหรับ (whippersnapper)"
-  },
-  {
-    "rank": 225,
-    "word": "结果",
-    "score": 242.0,
-    "frequency": 22,
-    "examCoverage": 11,
-    "pinyin": "jié guǒ",
-    "meaning": "ผลลัพธ์ (upshot)"
-  },
-  {
-    "rank": 226,
-    "word": "质量",
+    "rank": 362,
+    "word": "找到",
     "score": 240.0,
     "frequency": 20,
     "examCoverage": 12,
-    "pinyin": "zhì liàng",
-    "meaning": "คุณภาพ (quality)"
+    "pinyin": "zhǎo dào",
+    "meaning": "เปิดขึ้น (find)"
   },
   {
-    "rank": 227,
-    "word": "休息",
+    "rank": 363,
+    "word": "衣服",
     "score": 240.0,
     "frequency": 20,
     "examCoverage": 12,
-    "pinyin": "xiū xī",
-    "meaning": "พักผ่อน (recumbency)"
+    "pinyin": "yī fú",
+    "meaning": "เสื้อผ้า (clothing)"
   },
   {
-    "rank": 228,
-    "word": "感情",
+    "rank": 364,
+    "word": "城市",
     "score": 240.0,
     "frequency": 20,
     "examCoverage": 12,
-    "pinyin": "gǎn qíng",
-    "meaning": "อารมณ์ (reins)"
+    "pinyin": "chéng shì",
+    "meaning": "เมือง (city)"
   },
   {
-    "rank": 229,
-    "word": "通过",
+    "rank": 365,
+    "word": "关心",
     "score": 240.0,
     "frequency": 20,
     "examCoverage": 12,
-    "pinyin": "tōng guò",
-    "meaning": "ผ่าน (passthrough)"
+    "pinyin": "guān xīn",
+    "meaning": "การดูแล (attention)"
   },
   {
-    "rank": 230,
-    "word": "方便",
+    "rank": 366,
+    "word": "然后",
     "score": 240.0,
     "frequency": 20,
     "examCoverage": 12,
-    "pinyin": "fāng biàn",
-    "meaning": "สะดวก (conveniency)"
+    "pinyin": "rán hòu",
+    "meaning": "แล้ว (afterward)"
   },
   {
-    "rank": 231,
-    "word": "打乒乓球",
+    "rank": 367,
+    "word": "书写",
     "score": 240.0,
     "frequency": 16,
     "examCoverage": 15,
-    "pinyin": "dǎ pīng pāng qiú",
-    "meaning": "เล่นปิงปอง (no dictionary entry)"
+    "pinyin": "shū xiě",
+    "meaning": "เขียน (write)"
   },
   {
-    "rank": 232,
-    "word": "马虎",
-    "score": 234.0,
-    "frequency": 18,
-    "examCoverage": 13,
-    "pinyin": "mǎ hǔ",
-    "meaning": "สะเพร่า (catlick)"
-  },
-  {
-    "rank": 233,
-    "word": "鼓励",
-    "score": 234.0,
-    "frequency": 18,
-    "examCoverage": 13,
-    "pinyin": "gǔ lì",
-    "meaning": "ให้กำลังใจ (encouragement)"
-  },
-  {
-    "rank": 234,
-    "word": "适应",
-    "score": 234.0,
-    "frequency": 18,
-    "examCoverage": 13,
-    "pinyin": "shì yìng",
-    "meaning": "ปรับ (habituation)"
-  },
-  {
-    "rank": 235,
-    "word": "提供",
-    "score": 234.0,
-    "frequency": 18,
-    "examCoverage": 13,
-    "pinyin": "tí gōng",
-    "meaning": "จัดหา (afford)"
-  },
-  {
-    "rank": 236,
-    "word": "精彩",
-    "score": 234.0,
-    "frequency": 18,
-    "examCoverage": 13,
-    "pinyin": "jīng cǎi",
-    "meaning": "มหัศจรรย์ (showstopper)"
-  },
-  {
-    "rank": 237,
-    "word": "决定",
-    "score": 231.0,
-    "frequency": 21,
-    "examCoverage": 11,
-    "pinyin": "jué dìng",
-    "meaning": "ตัดสินใจ (decide)"
-  },
-  {
-    "rank": 238,
-    "word": "文化",
-    "score": 231.0,
-    "frequency": 21,
-    "examCoverage": 11,
-    "pinyin": "wén huà",
-    "meaning": "วัฒนธรรม (culture)"
-  },
-  {
-    "rank": 239,
-    "word": "减肥",
-    "score": 231.0,
-    "frequency": 21,
-    "examCoverage": 11,
-    "pinyin": "jiǎn féi",
-    "meaning": "ลดน้ำหนัก (slim)"
-  },
-  {
-    "rank": 240,
-    "word": "这种",
-    "score": 231.0,
-    "frequency": 21,
-    "examCoverage": 11,
-    "pinyin": "zhè zhǒng",
-    "meaning": "แบบนี้ (such)"
-  },
-  {
-    "rank": 241,
-    "word": "地球",
-    "score": 231.0,
-    "frequency": 21,
-    "examCoverage": 11,
-    "pinyin": "dì qiú",
-    "meaning": "โลก (globosity)"
-  },
-  {
-    "rank": 242,
-    "word": "越来越",
-    "score": 231.0,
-    "frequency": 21,
-    "examCoverage": 11,
-    "pinyin": "yuè lái yuè",
-    "meaning": "มากขึ้นเรื่อยๆ (ingravescent)"
-  },
-  {
-    "rank": 243,
-    "word": "紧张",
-    "score": 228.0,
-    "frequency": 19,
-    "examCoverage": 12,
-    "pinyin": "jǐn zhāng",
-    "meaning": "ประหม่า (intension)"
-  },
-  {
-    "rank": 244,
-    "word": "旅游",
-    "score": 228.0,
-    "frequency": 19,
-    "examCoverage": 12,
-    "pinyin": "lǚ yóu",
-    "meaning": "การท่องเที่ยว (junketing)"
-  },
-  {
-    "rank": 245,
-    "word": "过程",
-    "score": 228.0,
-    "frequency": 19,
-    "examCoverage": 12,
-    "pinyin": "guò chéng",
-    "meaning": "กระบวนการ (process)"
-  },
-  {
-    "rank": 246,
-    "word": "年龄",
-    "score": 228.0,
-    "frequency": 19,
-    "examCoverage": 12,
-    "pinyin": "nián líng",
-    "meaning": "อายุ (year)"
-  },
-  {
-    "rank": 247,
-    "word": "不好",
-    "score": 225.0,
-    "frequency": 25,
-    "examCoverage": 9,
-    "pinyin": "bù hǎo",
-    "meaning": "ไม่ดี (termagancy)"
-  },
-  {
-    "rank": 248,
-    "word": "用词",
-    "score": 225.0,
-    "frequency": 15,
-    "examCoverage": 15,
-    "pinyin": "yòng cí",
-    "meaning": "คำศัพท์ (malaprop)"
-  },
-  {
-    "rank": 249,
-    "word": "造句",
-    "score": 225.0,
-    "frequency": 15,
-    "examCoverage": 15,
-    "pinyin": "zào jù",
-    "meaning": "สร้างประโยค (construction)"
-  },
-  {
-    "rank": 250,
-    "word": "经济",
-    "score": 221.0,
-    "frequency": 17,
-    "examCoverage": 13,
-    "pinyin": "jīng jì",
-    "meaning": "เศรษฐกิจ (economy)"
-  },
-  {
-    "rank": 251,
-    "word": "礼貌",
-    "score": 221.0,
-    "frequency": 17,
-    "examCoverage": 13,
-    "pinyin": "lǐ mào",
-    "meaning": "สุภาพ (decorum)"
-  },
-  {
-    "rank": 252,
-    "word": "自行车",
-    "score": 221.0,
-    "frequency": 17,
-    "examCoverage": 13,
-    "pinyin": "zì xíng chē",
-    "meaning": "จักรยาน (bicycle)"
-  },
-  {
-    "rank": 253,
-    "word": "音乐",
-    "score": 221.0,
-    "frequency": 17,
-    "examCoverage": 13,
-    "pinyin": "yīn yuè",
-    "meaning": "ดนตรี (music)"
-  },
-  {
-    "rank": 254,
-    "word": "聪明",
-    "score": 221.0,
-    "frequency": 17,
-    "examCoverage": 13,
-    "pinyin": "cōng míng",
-    "meaning": "ฉลาด (becility)"
-  },
-  {
-    "rank": 255,
-    "word": "只是",
-    "score": 220.0,
-    "frequency": 20,
-    "examCoverage": 11,
-    "pinyin": "zhǐ shì",
-    "meaning": "เท่านั้น (nobbut)"
-  },
-  {
-    "rank": 256,
-    "word": "联系",
-    "score": 220.0,
-    "frequency": 20,
-    "examCoverage": 11,
-    "pinyin": "lián xì",
-    "meaning": "เชื่อมต่อ (connexion)"
-  },
-  {
-    "rank": 257,
-    "word": "社会",
-    "score": 220.0,
-    "frequency": 20,
-    "examCoverage": 11,
-    "pinyin": "shè huì",
-    "meaning": "สังคม (society)"
-  },
-  {
-    "rank": 258,
-    "word": "你们",
-    "score": 216.0,
-    "frequency": 18,
-    "examCoverage": 12,
-    "pinyin": "nǐ men",
-    "meaning": "คุณ (you)"
-  },
-  {
-    "rank": 259,
-    "word": "困难",
-    "score": 216.0,
-    "frequency": 18,
-    "examCoverage": 12,
-    "pinyin": "kùn nán",
-    "meaning": "ความยากลำบาก (difficulty)"
-  },
-  {
-    "rank": 260,
-    "word": "两个",
-    "score": 210.0,
-    "frequency": 21,
-    "examCoverage": 10,
-    "pinyin": "liǎng gè",
-    "meaning": "สอง (two)"
-  },
-  {
-    "rank": 261,
-    "word": "认为",
-    "score": 210.0,
-    "frequency": 21,
-    "examCoverage": 10,
-    "pinyin": "rèn wéi",
-    "meaning": "คิด (deem)"
-  },
-  {
-    "rank": 262,
-    "word": "过去",
-    "score": 209.0,
-    "frequency": 19,
-    "examCoverage": 11,
-    "pinyin": "guò qù",
-    "meaning": "อดีต (foretime)"
-  },
-  {
-    "rank": 263,
-    "word": "免费",
-    "score": 208.0,
+    "rank": 368,
+    "word": "校长",
+    "score": 240.0,
     "frequency": 16,
-    "examCoverage": 13,
-    "pinyin": "miǎn fèi",
-    "meaning": "ฟรี (gratis)"
+    "examCoverage": 15,
+    "pinyin": "xiào zhǎng",
+    "meaning": "อาจารย์ใหญ่ (preceptor)"
   },
   {
-    "rank": 264,
+    "rank": 369,
+    "word": "得意",
+    "score": 240.0,
+    "frequency": 16,
+    "examCoverage": 15,
+    "pinyin": "dé yì",
+    "meaning": "ภูมิใจ (exultation)"
+  },
+  {
+    "rank": 370,
+    "word": "粗心",
+    "score": 238.0,
+    "frequency": 17,
+    "examCoverage": 14,
+    "pinyin": "cū xīn",
+    "meaning": "สะเพร่า (blunderer)"
+  },
+  {
+    "rank": 371,
+    "word": "冷静",
+    "score": 238.0,
+    "frequency": 17,
+    "examCoverage": 14,
+    "pinyin": "lěng jìng",
+    "meaning": "เงียบสงบ (dispassion)"
+  },
+  {
+    "rank": 372,
+    "word": "弹钢琴",
+    "score": 238.0,
+    "frequency": 17,
+    "examCoverage": 14,
+    "pinyin": "tán gāng qín",
+    "meaning": "เล่นเปียโน (no dictionary entry)"
+  },
+  {
+    "rank": 373,
+    "word": "吃惊",
+    "score": 238.0,
+    "frequency": 17,
+    "examCoverage": 14,
+    "pinyin": "chī jīng",
+    "meaning": "น่าประหลาดใจ (fright)"
+  },
+  {
+    "rank": 374,
+    "word": "正在",
+    "score": 234.0,
+    "frequency": 18,
+    "examCoverage": 13,
+    "pinyin": "zhèng zài",
+    "meaning": "เป็น (initializing)"
+  },
+  {
+    "rank": 375,
+    "word": "缺少",
+    "score": 234.0,
+    "frequency": 18,
+    "examCoverage": 13,
+    "pinyin": "quē shǎo",
+    "meaning": "ขาด (poverty)"
+  },
+  {
+    "rank": 376,
     "word": "伤心",
-    "score": 208.0,
-    "frequency": 16,
+    "score": 234.0,
+    "frequency": 18,
     "examCoverage": 13,
     "pinyin": "shāng xīn",
     "meaning": "เศร้า (dolour)"
   },
   {
-    "rank": 265,
-    "word": "差不多",
+    "rank": 377,
+    "word": "因此",
+    "score": 231.0,
+    "frequency": 21,
+    "examCoverage": 11,
+    "pinyin": "yīn cǐ",
+    "meaning": "ดังนั้น (accordingly)"
+  },
+  {
+    "rank": 378,
+    "word": "小说",
+    "score": 231.0,
+    "frequency": 21,
+    "examCoverage": 11,
+    "pinyin": "xiǎo shuō",
+    "meaning": "นิยาย (fiction)"
+  },
+  {
+    "rank": 379,
+    "word": "早上",
+    "score": 231.0,
+    "frequency": 21,
+    "examCoverage": 11,
+    "pinyin": "zǎo shàng",
+    "meaning": "เช้า (yestermorn)"
+  },
+  {
+    "rank": 380,
+    "word": "理解",
+    "score": 231.0,
+    "frequency": 21,
+    "examCoverage": 11,
+    "pinyin": "lǐ jiě",
+    "meaning": "เข้าใจ (comprehension)"
+  },
+  {
+    "rank": 381,
+    "word": "结婚",
+    "score": 228.0,
+    "frequency": 19,
+    "examCoverage": 12,
+    "pinyin": "jié hūn",
+    "meaning": "แต่งงาน (matrimony)"
+  },
+  {
+    "rank": 382,
+    "word": "马上",
+    "score": 228.0,
+    "frequency": 19,
+    "examCoverage": 12,
+    "pinyin": "mǎ shàng",
+    "meaning": "โดยทันที (instanter)"
+  },
+  {
+    "rank": 383,
+    "word": "办法",
+    "score": 228.0,
+    "frequency": 19,
+    "examCoverage": 12,
+    "pinyin": "bàn fǎ",
+    "meaning": "ทาง (resource)"
+  },
+  {
+    "rank": 384,
+    "word": "清楚",
+    "score": 228.0,
+    "frequency": 19,
+    "examCoverage": 12,
+    "pinyin": "qīng chǔ",
+    "meaning": "ชัดเจน (clarity)"
+  },
+  {
+    "rank": 385,
+    "word": "几个",
+    "score": 228.0,
+    "frequency": 19,
+    "examCoverage": 12,
+    "pinyin": "jǐ gè",
+    "meaning": "หลาย (several)"
+  },
+  {
+    "rank": 386,
+    "word": "医生",
+    "score": 228.0,
+    "frequency": 19,
+    "examCoverage": 12,
+    "pinyin": "yī shēng",
+    "meaning": "หมอ (hakeem)"
+  },
+  {
+    "rank": 387,
+    "word": "心情",
+    "score": 228.0,
+    "frequency": 19,
+    "examCoverage": 12,
+    "pinyin": "xīn qíng",
+    "meaning": "ความรู้สึก (mood)"
+  },
+  {
+    "rank": 388,
+    "word": "教授",
+    "score": 228.0,
+    "frequency": 19,
+    "examCoverage": 12,
+    "pinyin": "jiào shòu",
+    "meaning": "ศาสตราจารย์ (facultyman)"
+  },
+  {
+    "rank": 389,
+    "word": "方向",
+    "score": 228.0,
+    "frequency": 19,
+    "examCoverage": 12,
+    "pinyin": "fāng xiàng",
+    "meaning": "ทิศทาง (orientation)"
+  },
+  {
+    "rank": 390,
+    "word": "发生",
+    "score": 228.0,
+    "frequency": 19,
+    "examCoverage": 12,
+    "pinyin": "fā shēng",
+    "meaning": "เกิดขึ้น (germination)"
+  },
+  {
+    "rank": 391,
+    "word": "答题卡",
+    "score": 225.0,
+    "frequency": 15,
+    "examCoverage": 15,
+    "pinyin": "dá tí kǎ",
+    "meaning": "กระดาษคำตอบ (no dictionary entry)"
+  },
+  {
+    "rank": 392,
+    "word": "无聊",
+    "score": 224.0,
+    "frequency": 16,
+    "examCoverage": 14,
+    "pinyin": "wú liáo",
+    "meaning": "น่าเบื่อ (fastidium)"
+  },
+  {
+    "rank": 393,
+    "word": "警察",
+    "score": 224.0,
+    "frequency": 16,
+    "examCoverage": 14,
+    "pinyin": "jǐng chá",
+    "meaning": "ตำรวจ (nuthook)"
+  },
+  {
+    "rank": 394,
+    "word": "抽烟",
+    "score": 224.0,
+    "frequency": 16,
+    "examCoverage": 14,
+    "pinyin": "chōu yān",
+    "meaning": "ควัน (smoking)"
+  },
+  {
+    "rank": 395,
+    "word": "继续",
+    "score": 221.0,
+    "frequency": 17,
+    "examCoverage": 13,
+    "pinyin": "jì xù",
+    "meaning": "ดำเนินการต่อ (perdure)"
+  },
+  {
+    "rank": 396,
+    "word": "味道",
+    "score": 221.0,
+    "frequency": 17,
+    "examCoverage": 13,
+    "pinyin": "wèi dào",
+    "meaning": "กลิ่น (sapor)"
+  },
+  {
+    "rank": 397,
+    "word": "演员",
+    "score": 221.0,
+    "frequency": 17,
+    "examCoverage": 13,
+    "pinyin": "yǎn yuán",
+    "meaning": "นักแสดงชาย (playactor)"
+  },
+  {
+    "rank": 398,
+    "word": "不过",
+    "score": 221.0,
+    "frequency": 17,
+    "examCoverage": 13,
+    "pinyin": "bù guò",
+    "meaning": "แต่ (merely)"
+  },
+  {
+    "rank": 399,
+    "word": "安静",
+    "score": 221.0,
+    "frequency": 17,
+    "examCoverage": 13,
+    "pinyin": "ān jìng",
+    "meaning": "เงียบ (tranquillization)"
+  },
+  {
+    "rank": 400,
+    "word": "游泳",
+    "score": 220.0,
+    "frequency": 20,
+    "examCoverage": 11,
+    "pinyin": "yóu yǒng",
+    "meaning": "ว่ายน้ำ (natation)"
+  },
+  {
+    "rank": 401,
+    "word": "要求",
+    "score": 220.0,
+    "frequency": 20,
+    "examCoverage": 11,
+    "pinyin": "yāo qiú",
+    "meaning": "จำเป็นต้อง (require)"
+  },
+  {
+    "rank": 402,
+    "word": "是因为",
+    "score": 220.0,
+    "frequency": 20,
+    "examCoverage": 11,
+    "pinyin": "shì yīn wèi",
+    "meaning": "มันเป็นเพราะว่า (no dictionary entry)"
+  },
+  {
+    "rank": 403,
+    "word": "之间",
+    "score": 220.0,
+    "frequency": 20,
+    "examCoverage": 11,
+    "pinyin": "zhī jiān",
+    "meaning": "ระหว่าง (areolet)"
+  },
+  {
+    "rank": 404,
+    "word": "经理",
+    "score": 220.0,
+    "frequency": 20,
+    "examCoverage": 11,
+    "pinyin": "jīng lǐ",
+    "meaning": "ผู้จัดการ (manager)"
+  },
+  {
+    "rank": 405,
+    "word": "表演",
+    "score": 216.0,
+    "frequency": 18,
+    "examCoverage": 12,
+    "pinyin": "biǎo yǎn",
+    "meaning": "ผลงาน (playact)"
+  },
+  {
+    "rank": 406,
+    "word": "回忆",
+    "score": 216.0,
+    "frequency": 18,
+    "examCoverage": 12,
+    "pinyin": "huí yì",
+    "meaning": "จดจำ (reminisce)"
+  },
+  {
+    "rank": 407,
+    "word": "内容",
+    "score": 216.0,
+    "frequency": 18,
+    "examCoverage": 12,
+    "pinyin": "nèi róng",
+    "meaning": "เนื้อหา (viscera)"
+  },
+  {
+    "rank": 408,
+    "word": "超过",
+    "score": 216.0,
+    "frequency": 18,
+    "examCoverage": 12,
+    "pinyin": "chāo guò",
+    "meaning": "เกิน (outstrip)"
+  },
+  {
+    "rank": 409,
+    "word": "适合",
+    "score": 216.0,
+    "frequency": 18,
+    "examCoverage": 12,
+    "pinyin": "shì hé",
+    "meaning": "เหมาะสม (befit)"
+  },
+  {
+    "rank": 410,
+    "word": "观众",
+    "score": 216.0,
+    "frequency": 18,
+    "examCoverage": 12,
+    "pinyin": "guān zhòng",
+    "meaning": "ผู้ชม (audience)"
+  },
+  {
+    "rank": 411,
+    "word": "麻烦",
+    "score": 216.0,
+    "frequency": 18,
+    "examCoverage": 12,
+    "pinyin": "má fán",
+    "meaning": "ปัญหา (discommodity)"
+  },
+  {
+    "rank": 412,
+    "word": "激动",
+    "score": 216.0,
+    "frequency": 18,
+    "examCoverage": 12,
+    "pinyin": "jī dòng",
+    "meaning": "ตื่นเต้น (incite)"
+  },
+  {
+    "rank": 413,
+    "word": "一种",
+    "score": 210.0,
+    "frequency": 21,
+    "examCoverage": 10,
+    "pinyin": "yī zhǒng",
+    "meaning": "ชนิดหนึ่ง (curlew)"
+  },
+  {
+    "rank": 414,
+    "word": "很大",
+    "score": 210.0,
+    "frequency": 21,
+    "examCoverage": 10,
+    "pinyin": "hěn dà",
+    "meaning": "ใหญ่มาก (hailstorm)"
+  },
+  {
+    "rank": 415,
+    "word": "生病",
+    "score": 210.0,
+    "frequency": 15,
+    "examCoverage": 14,
+    "pinyin": "shēng bìng",
+    "meaning": "หายป่วย (illness)"
+  },
+  {
+    "rank": 416,
+    "word": "记者",
+    "score": 210.0,
+    "frequency": 15,
+    "examCoverage": 14,
+    "pinyin": "jì zhě",
+    "meaning": "นักข่าว (newsperson)"
+  },
+  {
+    "rank": 417,
+    "word": "中文",
+    "score": 210.0,
+    "frequency": 15,
+    "examCoverage": 14,
+    "pinyin": "zhōng wén",
+    "meaning": "ชาวจีน (chinese)"
+  },
+  {
+    "rank": 418,
+    "word": "宾馆",
+    "score": 209.0,
+    "frequency": 19,
+    "examCoverage": 11,
+    "pinyin": "bīn guǎn",
+    "meaning": "โรงแรม (guesthouse)"
+  },
+  {
+    "rank": 419,
+    "word": "增加",
+    "score": 209.0,
+    "frequency": 19,
+    "examCoverage": 11,
+    "pinyin": "zēng jiā",
+    "meaning": "เพิ่มขึ้น (augmentation)"
+  },
+  {
+    "rank": 420,
+    "word": "力气",
     "score": 208.0,
     "frequency": 16,
     "examCoverage": 13,
-    "pinyin": "chà bu duō",
-    "meaning": "เกือบ (almost)"
+    "pinyin": "lì qì",
+    "meaning": "ความแข็งแกร่ง (strength)"
   },
   {
-    "rank": 266,
-    "word": "经历",
+    "rank": 421,
+    "word": "辛苦",
     "score": 208.0,
     "frequency": 16,
     "examCoverage": 13,
-    "pinyin": "jīng lì",
-    "meaning": "ประสบการณ์ (undergo)"
+    "pinyin": "xīn kǔ",
+    "meaning": "แข็ง (travail)"
   },
   {
-    "rank": 267,
-    "word": "标准",
+    "rank": 422,
+    "word": "关键",
     "score": 208.0,
     "frequency": 16,
     "examCoverage": 13,
-    "pinyin": "biāo zhǔn",
-    "meaning": "มาตรฐาน (norm)"
+    "pinyin": "guān jiàn",
+    "meaning": "สำคัญ (linchpin)"
   },
   {
-    "rank": 268,
-    "word": "提醒",
+    "rank": 423,
+    "word": "出差",
     "score": 208.0,
     "frequency": 16,
     "examCoverage": 13,
-    "pinyin": "tí xǐng",
-    "meaning": "เตือน (remind)"
+    "pinyin": "chū chāi",
+    "meaning": "ในการเดินทางเพื่อธุรกิจ (evection)"
   },
   {
-    "rank": 269,
-    "word": "效果",
+    "rank": 424,
+    "word": "老师",
     "score": 208.0,
     "frequency": 16,
     "examCoverage": 13,
-    "pinyin": "xiào guǒ",
-    "meaning": "ผล (purpose)"
+    "pinyin": "lǎo shī",
+    "meaning": "ครู (coacher)"
   },
   {
-    "rank": 270,
-    "word": "学生",
+    "rank": 425,
+    "word": "养成",
+    "score": 208.0,
+    "frequency": 16,
+    "examCoverage": 13,
+    "pinyin": "yǎng chéng",
+    "meaning": "พัฒนา (feedstuff)"
+  },
+  {
+    "rank": 426,
+    "word": "看看",
     "score": 207.0,
     "frequency": 23,
     "examCoverage": 9,
-    "pinyin": "xué shēng",
-    "meaning": "นักเรียน (pupil)"
+    "pinyin": "kàn kàn",
+    "meaning": "ดูสิ (no dictionary entry)"
   },
   {
-    "rank": 271,
-    "word": "流行",
+    "rank": 427,
+    "word": "按时",
     "score": 204.0,
     "frequency": 17,
     "examCoverage": 12,
-    "pinyin": "liú xíng",
-    "meaning": "ความนิยม (prevalence)"
+    "pinyin": "àn shí",
+    "meaning": "ตรงเวลา (punctually)"
   },
   {
-    "rank": 272,
-    "word": "信心",
+    "rank": 428,
+    "word": "杂志",
     "score": 204.0,
     "frequency": 17,
     "examCoverage": 12,
-    "pinyin": "xìn xīn",
-    "meaning": "ความมั่นใจ (confidence)"
+    "pinyin": "zá zhì",
+    "meaning": "นิตยสาร (journal)"
   },
   {
-    "rank": 273,
-    "word": "意见",
+    "rank": 429,
+    "word": "成绩",
     "score": 204.0,
     "frequency": 17,
     "examCoverage": 12,
-    "pinyin": "yì jiàn",
-    "meaning": "ความคิดเห็น (deliverance)"
+    "pinyin": "chéng jì",
+    "meaning": "คะแนน (performance)"
   },
   {
-    "rank": 274,
-    "word": "语言",
+    "rank": 430,
+    "word": "通知",
+    "score": 204.0,
+    "frequency": 17,
+    "examCoverage": 12,
+    "pinyin": "tōng zhī",
+    "meaning": "แจ้ง (apprise)"
+  },
+  {
+    "rank": 431,
+    "word": "健康",
+    "score": 204.0,
+    "frequency": 17,
+    "examCoverage": 12,
+    "pinyin": "jiàn kāng",
+    "meaning": "สุขภาพดี (healthiness)"
+  },
+  {
+    "rank": 432,
+    "word": "主动",
+    "score": 204.0,
+    "frequency": 17,
+    "examCoverage": 12,
+    "pinyin": "zhǔ dòng",
+    "meaning": "ความคิดริเริ่ม (initiative)"
+  },
+  {
+    "rank": 433,
+    "word": "知识",
+    "score": 204.0,
+    "frequency": 17,
+    "examCoverage": 12,
+    "pinyin": "zhī shí",
+    "meaning": "ความรู้ (learning)"
+  },
+  {
+    "rank": 434,
+    "word": "哪儿",
+    "score": 203.0,
+    "frequency": 29,
+    "examCoverage": 7,
+    "pinyin": "nǎ ér",
+    "meaning": "ที่ไหน (no dictionary entry)"
+  },
+  {
+    "rank": 435,
+    "word": "得到",
     "score": 200.0,
     "frequency": 20,
     "examCoverage": 10,
-    "pinyin": "yǔ yán",
-    "meaning": "ภาษา (borderism)"
+    "pinyin": "dé dào",
+    "meaning": "รับ (obtain)"
   },
   {
-    "rank": 275,
-    "word": "点儿",
+    "rank": 436,
+    "word": "怎样",
     "score": 200.0,
     "frequency": 20,
     "examCoverage": 10,
-    "pinyin": "diǎn ér",
-    "meaning": "นิดหน่อย (dite)"
+    "pinyin": "zěn yàng",
+    "meaning": "ยังไง (anyways)"
   },
   {
-    "rank": 276,
-    "word": "简单",
-    "score": 200.0,
-    "frequency": 20,
-    "examCoverage": 10,
-    "pinyin": "jiǎn dān",
-    "meaning": "เรียบง่าย (briefness)"
+    "rank": 437,
+    "word": "有点儿",
+    "score": 198.0,
+    "frequency": 22,
+    "examCoverage": 9,
+    "pinyin": "yǒu diǎn ér",
+    "meaning": "ชนิดของ (somedeal)"
   },
   {
-    "rank": 277,
-    "word": "两点",
+    "rank": 438,
+    "word": "哪个",
+    "score": 198.0,
+    "frequency": 22,
+    "examCoverage": 9,
+    "pinyin": "nǎ ge",
+    "meaning": "ที่ (whereinto)"
+  },
+  {
+    "rank": 439,
+    "word": "医院",
     "score": 198.0,
     "frequency": 18,
     "examCoverage": 11,
-    "pinyin": "liǎng diǎn",
-    "meaning": "สองโมง (deuce)"
+    "pinyin": "yī yuàn",
+    "meaning": "โรงพยาบาล (hospital)"
   },
   {
-    "rank": 278,
-    "word": "压力",
+    "rank": 440,
+    "word": "司机",
     "score": 198.0,
     "frequency": 18,
     "examCoverage": 11,
-    "pinyin": "yā lì",
-    "meaning": "ความดัน (pressure)"
+    "pinyin": "sī jī",
+    "meaning": "คนขับ (motorman)"
   },
   {
-    "rank": 279,
-    "word": "平时",
+    "rank": 441,
+    "word": "这么",
     "score": 198.0,
     "frequency": 18,
     "examCoverage": 11,
-    "pinyin": "píng shí",
-    "meaning": "โดยปกติ (peacetime)"
+    "pinyin": "zhè me",
+    "meaning": "ดังนั้น (no dictionary entry)"
   },
   {
-    "rank": 280,
-    "word": "不仅",
+    "rank": 442,
+    "word": "阳光",
     "score": 198.0,
     "frequency": 18,
     "examCoverage": 11,
-    "pinyin": "bù jǐn",
-    "meaning": "ไม่เพียงเท่านั้น (nay)"
+    "pinyin": "yáng guāng",
+    "meaning": "แสงแดด (sunshine)"
   },
   {
-    "rank": 281,
-    "word": "环境",
+    "rank": 443,
+    "word": "作用",
     "score": 198.0,
     "frequency": 18,
     "examCoverage": 11,
-    "pinyin": "huán jìng",
-    "meaning": "สิ่งแวดล้อม (surroundings)"
+    "pinyin": "zuò yòng",
+    "meaning": "ผล (operation)"
   },
   {
-    "rank": 282,
-    "word": "一样",
+    "rank": 444,
+    "word": "害怕",
     "score": 198.0,
     "frequency": 18,
     "examCoverage": 11,
-    "pinyin": "yī yàng",
-    "meaning": "เดียวกัน (whippy)"
+    "pinyin": "hài pà",
+    "meaning": "กลัว (afraid)"
   },
   {
-    "rank": 283,
-    "word": "以前",
-    "score": 198.0,
-    "frequency": 18,
-    "examCoverage": 11,
-    "pinyin": "yǐ qián",
-    "meaning": "ก่อน (beforetime)"
-  },
-  {
-    "rank": 284,
-    "word": "而且",
-    "score": 198.0,
-    "frequency": 18,
-    "examCoverage": 11,
-    "pinyin": "ér qiě",
-    "meaning": "และ (furthermore)"
-  },
-  {
-    "rank": 285,
-    "word": "便宜",
-    "score": 198.0,
-    "frequency": 18,
-    "examCoverage": 11,
-    "pinyin": "pián yi",
-    "meaning": "ราคาถูก (conveniency)"
-  },
-  {
-    "rank": 286,
-    "word": "诚实",
+    "rank": 445,
+    "word": "聊天儿",
     "score": 196.0,
-    "frequency": 14,
-    "examCoverage": 14,
-    "pinyin": "chéng shí",
-    "meaning": "ซื่อสัตย์ (heartiness)"
+    "frequency": 28,
+    "examCoverage": 7,
+    "pinyin": "liáo tiān ér",
+    "meaning": "แชท (no dictionary entry)"
   },
   {
-    "rank": 287,
+    "rank": 446,
     "word": "打扰",
     "score": 196.0,
     "frequency": 14,
@@ -2583,1920 +4014,489 @@
     "meaning": "รบกวน (hinder)"
   },
   {
-    "rank": 288,
-    "word": "失望",
+    "rank": 447,
+    "word": "周末",
     "score": 195.0,
     "frequency": 15,
     "examCoverage": 13,
-    "pinyin": "shī wàng",
-    "meaning": "ความผิดหวัง (despond)"
+    "pinyin": "zhōu mò",
+    "meaning": "สุดสัปดาห์ (weekend)"
   },
   {
-    "rank": 289,
-    "word": "十分",
+    "rank": 448,
+    "word": "好吃",
     "score": 195.0,
     "frequency": 15,
     "examCoverage": 13,
-    "pinyin": "shí fēn",
-    "meaning": "มาก (thoroughness)"
+    "pinyin": "hǎo chī",
+    "meaning": "อร่อย (fresser)"
   },
   {
-    "rank": 290,
-    "word": "误会",
+    "rank": 449,
+    "word": "抱歉",
     "score": 195.0,
     "frequency": 15,
     "examCoverage": 13,
-    "pinyin": "wù huì",
-    "meaning": "เข้าใจผิด (misapprehension)"
+    "pinyin": "bào qiàn",
+    "meaning": "รู้สึกเสียใจ (regret)"
   },
   {
-    "rank": 291,
-    "word": "弹钢琴",
+    "rank": 450,
+    "word": "加班",
     "score": 195.0,
     "frequency": 15,
     "examCoverage": 13,
-    "pinyin": "tán gāng qín",
-    "meaning": "เล่นเปียโน (no dictionary entry)"
+    "pinyin": "jiā bān",
+    "meaning": "ทำงานล่วงเวลา (overtime)"
   },
   {
-    "rank": 292,
-    "word": "支持",
+    "rank": 451,
+    "word": "暖和",
     "score": 195.0,
     "frequency": 15,
     "examCoverage": 13,
-    "pinyin": "zhī chí",
-    "meaning": "สนับสนุน (adhesion)"
+    "pinyin": "nuǎn huo",
+    "meaning": "อบอุ่น (warmth)"
   },
   {
-    "rank": 293,
-    "word": "友谊",
+    "rank": 452,
+    "word": "道歉",
     "score": 195.0,
     "frequency": 15,
     "examCoverage": 13,
-    "pinyin": "yǒu yì",
-    "meaning": "มิตรภาพ (companionship)"
+    "pinyin": "dào qiàn",
+    "meaning": "ขอโทษ (appologize)"
   },
   {
-    "rank": 294,
-    "word": "水平",
+    "rank": 453,
+    "word": "气候",
     "score": 192.0,
     "frequency": 16,
     "examCoverage": 12,
-    "pinyin": "shuǐ píng",
-    "meaning": "ระดับ (plane)"
+    "pinyin": "qì hòu",
+    "meaning": "ภูมิอากาศ (climate)"
   },
   {
-    "rank": 295,
-    "word": "勇敢",
+    "rank": 454,
+    "word": "整理",
     "score": 192.0,
     "frequency": 16,
     "examCoverage": 12,
-    "pinyin": "yǒng gǎn",
-    "meaning": "กล้าหาญ (bravery)"
+    "pinyin": "zhěng lǐ",
+    "meaning": "เรียบร้อย (collation)"
   },
   {
-    "rank": 296,
-    "word": "迟到",
+    "rank": 455,
+    "word": "管理",
     "score": 192.0,
     "frequency": 16,
     "examCoverage": 12,
-    "pinyin": "chí dào",
-    "meaning": "มาสาย (latecomer)"
+    "pinyin": "guǎn lǐ",
+    "meaning": "จัดการ (husbandry)"
   },
   {
-    "rank": 297,
-    "word": "看法",
+    "rank": 456,
+    "word": "愿意",
     "score": 192.0,
     "frequency": 16,
     "examCoverage": 12,
-    "pinyin": "kàn fǎ",
-    "meaning": "ดู (attitude)"
+    "pinyin": "yuàn yì",
+    "meaning": "เต็มใจ (would)"
   },
   {
-    "rank": 298,
-    "word": "沙发",
+    "rank": 457,
+    "word": "收入",
     "score": 192.0,
     "frequency": 16,
     "examCoverage": 12,
-    "pinyin": "shā fā",
-    "meaning": "โซฟา (sofa)"
+    "pinyin": "shōu rù",
+    "meaning": "รายได้ (earnings)"
   },
   {
-    "rank": 299,
-    "word": "重视",
+    "rank": 458,
+    "word": "电梯",
     "score": 192.0,
     "frequency": 16,
     "examCoverage": 12,
-    "pinyin": "zhòng shì",
-    "meaning": "ให้ความสนใจกับ (recognition)"
+    "pinyin": "diàn tī",
+    "meaning": "ลิฟต์ (elevator)"
   },
   {
-    "rank": 300,
-    "word": "京剧",
+    "rank": 459,
+    "word": "永远",
     "score": 192.0,
     "frequency": 16,
     "examCoverage": 12,
-    "pinyin": "jīng jù",
-    "meaning": "ปักกิ่งโอเปร่า (no dictionary entry)"
+    "pinyin": "yǒng yuǎn",
+    "meaning": "ตลอดไป (foreverness)"
   },
   {
-    "rank": 301,
-    "word": "笑话",
+    "rank": 460,
+    "word": "严重",
     "score": 192.0,
     "frequency": 16,
     "examCoverage": 12,
-    "pinyin": "xiào huà",
-    "meaning": "เรื่องตลก (jesting)"
+    "pinyin": "yán zhòng",
+    "meaning": "จริงจัง (graveness)"
   },
   {
-    "rank": 302,
-    "word": "运动",
+    "rank": 461,
+    "word": "尤其",
+    "score": 192.0,
+    "frequency": 16,
+    "examCoverage": 12,
+    "pinyin": "yóu qí",
+    "meaning": "โดยเฉพาะ (especially)"
+  },
+  {
+    "rank": 462,
+    "word": "认识",
     "score": 190.0,
     "frequency": 19,
     "examCoverage": 10,
-    "pinyin": "yùn dòng",
-    "meaning": "กีฬา (athletics)"
+    "pinyin": "rèn shí",
+    "meaning": "ทราบ (cognition)"
   },
   {
-    "rank": 303,
-    "word": "成熟",
+    "rank": 463,
+    "word": "森林",
     "score": 190.0,
     "frequency": 19,
     "examCoverage": 10,
-    "pinyin": "chéng shú",
-    "meaning": "เป็นผู้ใหญ่ (maturate)"
+    "pinyin": "sēn lín",
+    "meaning": "ป่า (woods)"
   },
   {
-    "rank": 304,
-    "word": "出发",
-    "score": 190.0,
-    "frequency": 19,
-    "examCoverage": 10,
-    "pinyin": "chū fā",
-    "meaning": "ออกเดินทาง (starting)"
-  },
-  {
-    "rank": 305,
-    "word": "顾客",
-    "score": 190.0,
-    "frequency": 19,
-    "examCoverage": 10,
-    "pinyin": "gù kè",
-    "meaning": "ลูกค้า (buyer)"
-  },
-  {
-    "rank": 306,
-    "word": "哪儿",
-    "score": 189.0,
-    "frequency": 27,
-    "examCoverage": 7,
-    "pinyin": "nǎ ér",
-    "meaning": "ที่ไหน (no dictionary entry)"
-  },
-  {
-    "rank": 307,
-    "word": "哪个",
-    "score": 189.0,
-    "frequency": 21,
-    "examCoverage": 9,
-    "pinyin": "nǎ ge",
-    "meaning": "ที่ (whereinto)"
-  },
-  {
-    "rank": 308,
-    "word": "引起",
+    "rank": 464,
+    "word": "一件",
     "score": 187.0,
     "frequency": 17,
     "examCoverage": 11,
-    "pinyin": "yǐn qǐ",
-    "meaning": "สาเหตุ (evoke)"
+    "pinyin": "yī jiàn",
+    "meaning": "ชิ้นเดียว (viand)"
   },
   {
-    "rank": 309,
-    "word": "温度",
+    "rank": 465,
+    "word": "专业",
     "score": 187.0,
     "frequency": 17,
     "examCoverage": 11,
-    "pinyin": "wēn dù",
-    "meaning": "อุณหภูมิ (temperature)"
+    "pinyin": "zhuān yè",
+    "meaning": "วิชาเอก (specialty)"
   },
   {
-    "rank": 310,
-    "word": "最近",
+    "rank": 466,
+    "word": "另外",
     "score": 187.0,
     "frequency": 17,
     "examCoverage": 11,
-    "pinyin": "zuì jìn",
-    "meaning": "ล่าสุด (recentness)"
+    "pinyin": "lìng wài",
+    "meaning": "นอกจากนี้ (thereto)"
   },
   {
-    "rank": 311,
-    "word": "心情",
+    "rank": 467,
+    "word": "教育",
     "score": 187.0,
     "frequency": 17,
     "examCoverage": 11,
-    "pinyin": "xīn qíng",
-    "meaning": "ความรู้สึก (mood)"
+    "pinyin": "jiào yù",
+    "meaning": "ให้ความรู้ (educate)"
   },
   {
-    "rank": 312,
-    "word": "使用",
+    "rank": 468,
+    "word": "解释",
     "score": 187.0,
     "frequency": 17,
     "examCoverage": 11,
-    "pinyin": "shǐ yòng",
-    "meaning": "ใช้ (usage)"
+    "pinyin": "jiě shì",
+    "meaning": "อธิบาย (exegesis)"
   },
   {
-    "rank": 313,
-    "word": "味道",
+    "rank": 469,
+    "word": "讨厌",
+    "score": 187.0,
+    "frequency": 17,
+    "examCoverage": 11,
+    "pinyin": "tǎo yàn",
+    "meaning": "เกลียด (distaste)"
+  },
+  {
+    "rank": 470,
+    "word": "当然",
+    "score": 187.0,
+    "frequency": 17,
+    "examCoverage": 11,
+    "pinyin": "dāng rán",
+    "meaning": "แน่นอน (naturalness)"
+  },
+  {
+    "rank": 471,
+    "word": "必须",
+    "score": 187.0,
+    "frequency": 17,
+    "examCoverage": 11,
+    "pinyin": "bì xū",
+    "meaning": "ต้อง (must)"
+  },
+  {
+    "rank": 472,
+    "word": "态度",
+    "score": 187.0,
+    "frequency": 17,
+    "examCoverage": 11,
+    "pinyin": "tài dù",
+    "meaning": "มารยาท (comportment)"
+  },
+  {
+    "rank": 473,
+    "word": "感动",
     "score": 182.0,
     "frequency": 14,
     "examCoverage": 13,
-    "pinyin": "wèi dào",
-    "meaning": "กลิ่น (sapor)"
+    "pinyin": "gǎn dòng",
+    "meaning": "เคลื่อนไหว (affect)"
   },
   {
-    "rank": 314,
-    "word": "热闹",
+    "rank": 474,
+    "word": "护士",
     "score": 182.0,
     "frequency": 14,
     "examCoverage": 13,
-    "pinyin": "rè nào",
-    "meaning": "มีชีวิตชีวา (jollification)"
+    "pinyin": "hù shì",
+    "meaning": "พยาบาล (nana)"
   },
   {
-    "rank": 315,
-    "word": "有点儿",
-    "score": 180.0,
-    "frequency": 20,
-    "examCoverage": 9,
-    "pinyin": "yǒu diǎn ér",
-    "meaning": "ชนิดของ (somedeal)"
+    "rank": 475,
+    "word": "个子",
+    "score": 182.0,
+    "frequency": 14,
+    "examCoverage": 13,
+    "pinyin": "gè zi",
+    "meaning": "สูง (sprat)"
   },
   {
-    "rank": 316,
-    "word": "邻居",
+    "rank": 476,
+    "word": "购物",
+    "score": 182.0,
+    "frequency": 14,
+    "examCoverage": 13,
+    "pinyin": "gòu wù",
+    "meaning": "ช้อปปิ้ง (shopping)"
+  },
+  {
+    "rank": 477,
+    "word": "兴奋",
+    "score": 182.0,
+    "frequency": 14,
+    "examCoverage": 13,
+    "pinyin": "xīng fèn",
+    "meaning": "ตื่นเต้น (agitatedly)"
+  },
+  {
+    "rank": 478,
+    "word": "感冒",
+    "score": 182.0,
+    "frequency": 14,
+    "examCoverage": 13,
+    "pinyin": "gǎn mào",
+    "meaning": "เย็น (rheum)"
+  },
+  {
+    "rank": 479,
+    "word": "印象",
+    "score": 182.0,
+    "frequency": 14,
+    "examCoverage": 13,
+    "pinyin": "yìn xiàng",
+    "meaning": "ความประทับใจ (impression)"
+  },
+  {
+    "rank": 480,
+    "word": "大使馆",
+    "score": 182.0,
+    "frequency": 14,
+    "examCoverage": 13,
+    "pinyin": "dà shǐ guǎn",
+    "meaning": "สถานทูต (embassy)"
+  },
+  {
+    "rank": 481,
+    "word": "手机",
     "score": 180.0,
     "frequency": 18,
     "examCoverage": 10,
-    "pinyin": "lín jū",
-    "meaning": "เพื่อนบ้าน (kith)"
+    "pinyin": "shǒu jī",
+    "meaning": "โทรศัพท์มือถือ (handset)"
   },
   {
-    "rank": 317,
-    "word": "之间",
+    "rank": 482,
+    "word": "更好",
     "score": 180.0,
     "frequency": 18,
     "examCoverage": 10,
-    "pinyin": "zhī jiān",
-    "meaning": "ระหว่าง (areolet)"
+    "pinyin": "gèng hǎo",
+    "meaning": "ดีกว่า (outbuild)"
   },
   {
-    "rank": 318,
-    "word": "很大",
+    "rank": 483,
+    "word": "那些",
     "score": 180.0,
     "frequency": 18,
     "examCoverage": 10,
-    "pinyin": "hěn dà",
-    "meaning": "ใหญ่มาก (hailstorm)"
+    "pinyin": "nà xiē",
+    "meaning": "พวกนั้น (those)"
   },
   {
-    "rank": 319,
-    "word": "提高",
+    "rank": 484,
+    "word": "颜色",
     "score": 180.0,
     "frequency": 18,
     "examCoverage": 10,
-    "pinyin": "tí gāo",
-    "meaning": "ทำให้ดีขึ้น (heighten)"
+    "pinyin": "yán sè",
+    "meaning": "สี (tinct)"
   },
   {
-    "rank": 320,
-    "word": "考虑",
+    "rank": 485,
+    "word": "塑料袋",
     "score": 180.0,
     "frequency": 18,
     "examCoverage": 10,
-    "pinyin": "kǎo lǜ",
-    "meaning": "พิจารณา (calculation)"
+    "pinyin": "sù liào dài",
+    "meaning": "ถุงพลาสติก (litterbag)"
   },
   {
-    "rank": 321,
-    "word": "情况",
-    "score": 180.0,
-    "frequency": 18,
-    "examCoverage": 10,
-    "pinyin": "qíng kuàng",
-    "meaning": "เงื่อนไข (complexion)"
-  },
-  {
-    "rank": 322,
-    "word": "总结",
-    "score": 180.0,
-    "frequency": 15,
-    "examCoverage": 12,
-    "pinyin": "zǒng jié",
-    "meaning": "สรุป (summarize)"
-  },
-  {
-    "rank": 323,
-    "word": "遇到",
-    "score": 180.0,
-    "frequency": 15,
-    "examCoverage": 12,
-    "pinyin": "yù dào",
-    "meaning": "พบปะ (encounter)"
-  },
-  {
-    "rank": 324,
-    "word": "走路",
-    "score": 180.0,
-    "frequency": 15,
-    "examCoverage": 12,
-    "pinyin": "zǒu lù",
-    "meaning": "เดิน (toddler)"
-  },
-  {
-    "rank": 325,
-    "word": "学校",
-    "score": 180.0,
-    "frequency": 15,
-    "examCoverage": 12,
-    "pinyin": "xué xiào",
-    "meaning": "โรงเรียน (seminary)"
-  },
-  {
-    "rank": 326,
-    "word": "一般",
-    "score": 180.0,
-    "frequency": 15,
-    "examCoverage": 12,
-    "pinyin": "yì bān",
-    "meaning": "โดยทั่วไป (generally)"
-  },
-  {
-    "rank": 327,
-    "word": "演员",
-    "score": 180.0,
-    "frequency": 15,
-    "examCoverage": 12,
-    "pinyin": "yǎn yuán",
-    "meaning": "นักแสดงชาย (playactor)"
-  },
-  {
-    "rank": 328,
-    "word": "舒服",
-    "score": 180.0,
-    "frequency": 15,
-    "examCoverage": 12,
-    "pinyin": "shū fú",
-    "meaning": "สะดวกสบาย (kelter)"
-  },
-  {
-    "rank": 329,
-    "word": "后悔",
-    "score": 180.0,
-    "frequency": 15,
-    "examCoverage": 12,
-    "pinyin": "hòu huǐ",
-    "meaning": "เสียใจ (contrition)"
-  },
-  {
-    "rank": 330,
-    "word": "发生",
-    "score": 180.0,
-    "frequency": 15,
-    "examCoverage": 12,
-    "pinyin": "fā shēng",
-    "meaning": "เกิดขึ้น (germination)"
-  },
-  {
-    "rank": 331,
-    "word": "调查",
-    "score": 180.0,
-    "frequency": 15,
-    "examCoverage": 12,
-    "pinyin": "diào chá",
-    "meaning": "การสืบสวน (indagate)"
-  },
-  {
-    "rank": 332,
-    "word": "城市",
-    "score": 176.0,
-    "frequency": 16,
-    "examCoverage": 11,
-    "pinyin": "chéng shì",
-    "meaning": "เมือง (city)"
-  },
-  {
-    "rank": 333,
-    "word": "熟悉",
-    "score": 176.0,
-    "frequency": 16,
-    "examCoverage": 11,
-    "pinyin": "shú xī",
-    "meaning": "คุ้นเคย (familiarize)"
-  },
-  {
-    "rank": 334,
-    "word": "判断",
-    "score": 176.0,
-    "frequency": 16,
-    "examCoverage": 11,
-    "pinyin": "pàn duàn",
-    "meaning": "ผู้พิพากษา (judgment)"
-  },
-  {
-    "rank": 335,
-    "word": "麻烦",
-    "score": 176.0,
-    "frequency": 16,
-    "examCoverage": 11,
-    "pinyin": "má fán",
-    "meaning": "ปัญหา (discommodity)"
-  },
-  {
-    "rank": 336,
-    "word": "导游",
-    "score": 176.0,
-    "frequency": 16,
-    "examCoverage": 11,
-    "pinyin": "dǎo yóu",
-    "meaning": "ไกด์นำเที่ยว (dragoman)"
-  },
-  {
-    "rank": 337,
-    "word": "医生",
-    "score": 176.0,
-    "frequency": 16,
-    "examCoverage": 11,
-    "pinyin": "yī shēng",
-    "meaning": "หมอ (hakeem)"
-  },
-  {
-    "rank": 338,
-    "word": "几个",
-    "score": 176.0,
-    "frequency": 16,
-    "examCoverage": 11,
-    "pinyin": "jǐ gè",
-    "meaning": "หลาย (several)"
-  },
-  {
-    "rank": 339,
-    "word": "下列",
-    "score": 171.0,
-    "frequency": 19,
-    "examCoverage": 9,
-    "pinyin": "xià liè",
-    "meaning": "ต่อไปนี้ (following)"
-  },
-  {
-    "rank": 340,
-    "word": "这么",
-    "score": 170.0,
-    "frequency": 17,
-    "examCoverage": 10,
-    "pinyin": "zhè me",
-    "meaning": "ดังนั้น (no dictionary entry)"
-  },
-  {
-    "rank": 341,
-    "word": "关心",
-    "score": 170.0,
-    "frequency": 17,
-    "examCoverage": 10,
-    "pinyin": "guān xīn",
-    "meaning": "การดูแล (attention)"
-  },
-  {
-    "rank": 342,
+    "rank": 486,
     "word": "一天",
-    "score": 170.0,
-    "frequency": 17,
+    "score": 180.0,
+    "frequency": 18,
     "examCoverage": 10,
     "pinyin": "yī tiān",
     "meaning": "วันหนึ่ง (darg)"
   },
   {
-    "rank": 343,
-    "word": "完全",
-    "score": 169.0,
-    "frequency": 13,
-    "examCoverage": 13,
-    "pinyin": "wán quán",
-    "meaning": "อย่างสมบูรณ์ (completeness)"
-  },
-  {
-    "rank": 344,
-    "word": "看看",
-    "score": 168.0,
-    "frequency": 21,
-    "examCoverage": 8,
-    "pinyin": "kàn kàn",
-    "meaning": "ดูสิ (no dictionary entry)"
-  },
-  {
-    "rank": 345,
-    "word": "收拾",
-    "score": 168.0,
-    "frequency": 14,
-    "examCoverage": 12,
-    "pinyin": "shōu shí",
-    "meaning": "เรียบร้อย (tidy)"
-  },
-  {
-    "rank": 346,
-    "word": "顺利",
-    "score": 168.0,
-    "frequency": 14,
-    "examCoverage": 12,
-    "pinyin": "shùn lì",
-    "meaning": "ได้อย่างราบรื่น (favorableness)"
-  },
-  {
-    "rank": 347,
-    "word": "热情",
-    "score": 168.0,
-    "frequency": 14,
-    "examCoverage": 12,
-    "pinyin": "rè qíng",
-    "meaning": "ความกระตือรือร้น (pash)"
-  },
-  {
-    "rank": 348,
-    "word": "接受",
-    "score": 168.0,
-    "frequency": 14,
-    "examCoverage": 12,
-    "pinyin": "jiē shòu",
-    "meaning": "ยอมรับ (receival)"
-  },
-  {
-    "rank": 349,
-    "word": "值得",
-    "score": 168.0,
-    "frequency": 14,
-    "examCoverage": 12,
-    "pinyin": "zhí de",
-    "meaning": "คุณค่า (worthiness)"
-  },
-  {
-    "rank": 350,
-    "word": "感冒",
-    "score": 168.0,
-    "frequency": 14,
-    "examCoverage": 12,
-    "pinyin": "gǎn mào",
-    "meaning": "เย็น (rheum)"
-  },
-  {
-    "rank": 351,
-    "word": "浪漫",
-    "score": 165.0,
-    "frequency": 15,
-    "examCoverage": 11,
-    "pinyin": "làng màn",
-    "meaning": "โรแมนติก (romantically)"
-  },
-  {
-    "rank": 352,
-    "word": "结婚",
-    "score": 165.0,
-    "frequency": 15,
-    "examCoverage": 11,
-    "pinyin": "jié hūn",
-    "meaning": "แต่งงาน (matrimony)"
-  },
-  {
-    "rank": 353,
-    "word": "缺少",
-    "score": 165.0,
-    "frequency": 15,
-    "examCoverage": 11,
-    "pinyin": "quē shǎo",
-    "meaning": "ขาด (poverty)"
-  },
-  {
-    "rank": 354,
-    "word": "白天",
-    "score": 165.0,
-    "frequency": 15,
-    "examCoverage": 11,
-    "pinyin": "bái tiān",
-    "meaning": "ตอนกลางวัน (daytime)"
-  },
-  {
-    "rank": 355,
-    "word": "回忆",
-    "score": 165.0,
-    "frequency": 15,
-    "examCoverage": 11,
-    "pinyin": "huí yì",
-    "meaning": "จดจำ (reminisce)"
-  },
-  {
-    "rank": 356,
-    "word": "肯定",
-    "score": 165.0,
-    "frequency": 15,
-    "examCoverage": 11,
-    "pinyin": "kěn dìng",
-    "meaning": "ยืนยัน (yea)"
-  },
-  {
-    "rank": 357,
-    "word": "理解",
-    "score": 165.0,
-    "frequency": 15,
-    "examCoverage": 11,
-    "pinyin": "lǐ jiě",
-    "meaning": "เข้าใจ (comprehension)"
-  },
-  {
-    "rank": 358,
-    "word": "愿意",
-    "score": 165.0,
-    "frequency": 15,
-    "examCoverage": 11,
-    "pinyin": "yuàn yì",
-    "meaning": "เต็มใจ (would)"
-  },
-  {
-    "rank": 359,
-    "word": "超市",
-    "score": 165.0,
-    "frequency": 15,
-    "examCoverage": 11,
-    "pinyin": "chāo shì",
-    "meaning": "ซูเปอร์มาร์เก็ต (no dictionary entry)"
-  },
-  {
-    "rank": 360,
-    "word": "世界",
-    "score": 162.0,
-    "frequency": 18,
-    "examCoverage": 9,
-    "pinyin": "shì jiè",
-    "meaning": "โลก (universe)"
-  },
-  {
-    "rank": 361,
-    "word": "房间",
-    "score": 162.0,
-    "frequency": 18,
-    "examCoverage": 9,
-    "pinyin": "fáng jiān",
-    "meaning": "ห้อง (apartment)"
-  },
-  {
-    "rank": 362,
-    "word": "或者",
-    "score": 162.0,
-    "frequency": 18,
-    "examCoverage": 9,
-    "pinyin": "huò zhě",
-    "meaning": "หรือ (possibly)"
-  },
-  {
-    "rank": 363,
-    "word": "真正",
-    "score": 160.0,
-    "frequency": 16,
-    "examCoverage": 10,
-    "pinyin": "zhēn zhèng",
-    "meaning": "จริง (honesttogod)"
-  },
-  {
-    "rank": 364,
-    "word": "早上",
-    "score": 160.0,
-    "frequency": 16,
-    "examCoverage": 10,
-    "pinyin": "zǎo shàng",
-    "meaning": "เช้า (yestermorn)"
-  },
-  {
-    "rank": 365,
-    "word": "正在",
-    "score": 160.0,
-    "frequency": 16,
-    "examCoverage": 10,
-    "pinyin": "zhèng zài",
-    "meaning": "เป็น (initializing)"
-  },
-  {
-    "rank": 366,
-    "word": "因此",
-    "score": 160.0,
-    "frequency": 16,
-    "examCoverage": 10,
-    "pinyin": "yīn cǐ",
-    "meaning": "ดังนั้น (accordingly)"
-  },
-  {
-    "rank": 367,
-    "word": "阳光",
-    "score": 160.0,
-    "frequency": 16,
-    "examCoverage": 10,
-    "pinyin": "yáng guāng",
-    "meaning": "แสงแดด (sunshine)"
-  },
-  {
-    "rank": 368,
-    "word": "然后",
-    "score": 160.0,
-    "frequency": 16,
-    "examCoverage": 10,
-    "pinyin": "rán hòu",
-    "meaning": "แล้ว (afterward)"
-  },
-  {
-    "rank": 369,
-    "word": "排列",
-    "score": 156.0,
-    "frequency": 13,
-    "examCoverage": 12,
-    "pinyin": "pái liè",
-    "meaning": "การจัดเตรียม (arrayal)"
-  },
-  {
-    "rank": 370,
-    "word": "考生",
-    "score": 156.0,
-    "frequency": 13,
-    "examCoverage": 12,
-    "pinyin": "kǎo shēng",
-    "meaning": "ผู้สมัคร (script)"
-  },
-  {
-    "rank": 371,
-    "word": "校长",
-    "score": 156.0,
-    "frequency": 13,
-    "examCoverage": 12,
-    "pinyin": "xiào zhǎng",
-    "meaning": "อาจารย์ใหญ่ (preceptor)"
-  },
-  {
-    "rank": 372,
-    "word": "正式",
-    "score": 156.0,
-    "frequency": 13,
-    "examCoverage": 12,
-    "pinyin": "zhèng shì",
-    "meaning": "เป็นทางการ (officially)"
-  },
-  {
-    "rank": 373,
-    "word": "轻松",
-    "score": 156.0,
-    "frequency": 13,
-    "examCoverage": 12,
-    "pinyin": "qīng sōng",
-    "meaning": "ง่าย (detension)"
-  },
-  {
-    "rank": 374,
-    "word": "友好",
-    "score": 156.0,
-    "frequency": 13,
-    "examCoverage": 12,
-    "pinyin": "yǒu hǎo",
-    "meaning": "เป็นกันเอง (friendship)"
-  },
-  {
-    "rank": 375,
-    "word": "讨论",
-    "score": 156.0,
-    "frequency": 13,
-    "examCoverage": 12,
-    "pinyin": "tǎo lùn",
-    "meaning": "หารือ (discussion)"
-  },
-  {
-    "rank": 376,
-    "word": "抱歉",
-    "score": 156.0,
-    "frequency": 13,
-    "examCoverage": 12,
-    "pinyin": "bào qiàn",
-    "meaning": "รู้สึกเสียใจ (regret)"
-  },
-  {
-    "rank": 377,
-    "word": "怀疑",
-    "score": 156.0,
-    "frequency": 13,
-    "examCoverage": 12,
-    "pinyin": "huái yí",
-    "meaning": "สงสัย (disbelief)"
-  },
-  {
-    "rank": 378,
-    "word": "老师",
-    "score": 154.0,
-    "frequency": 14,
-    "examCoverage": 11,
-    "pinyin": "lǎo shī",
-    "meaning": "ครู (coacher)"
-  },
-  {
-    "rank": 379,
-    "word": "详细",
-    "score": 154.0,
-    "frequency": 14,
-    "examCoverage": 11,
-    "pinyin": "xiáng xì",
-    "meaning": "รายละเอียด (elaborator)"
-  },
-  {
-    "rank": 380,
-    "word": "管理",
-    "score": 154.0,
-    "frequency": 14,
-    "examCoverage": 11,
-    "pinyin": "guǎn lǐ",
-    "meaning": "จัดการ (husbandry)"
-  },
-  {
-    "rank": 381,
-    "word": "开玩笑",
-    "score": 154.0,
-    "frequency": 14,
-    "examCoverage": 11,
-    "pinyin": "kāi wán xiào",
-    "meaning": "เรื่องตลก (gaggery)"
-  },
-  {
-    "rank": 382,
-    "word": "打折",
-    "score": 154.0,
-    "frequency": 14,
-    "examCoverage": 11,
-    "pinyin": "dǎ zhé",
-    "meaning": "การลดราคา (rebate)"
-  },
-  {
-    "rank": 383,
-    "word": "变化",
-    "score": 154.0,
-    "frequency": 14,
-    "examCoverage": 11,
-    "pinyin": "biàn huà",
-    "meaning": "เปลี่ยน (transmutation)"
-  },
-  {
-    "rank": 384,
-    "word": "原谅",
-    "score": 154.0,
-    "frequency": 14,
-    "examCoverage": 11,
-    "pinyin": "yuán liàng",
-    "meaning": "ให้อภัย (pardon)"
-  },
-  {
-    "rank": 385,
-    "word": "尤其",
-    "score": 154.0,
-    "frequency": 14,
-    "examCoverage": 11,
-    "pinyin": "yóu qí",
-    "meaning": "โดยเฉพาะ (especially)"
-  },
-  {
-    "rank": 386,
-    "word": "经理",
-    "score": 153.0,
-    "frequency": 17,
-    "examCoverage": 9,
-    "pinyin": "jīng lǐ",
-    "meaning": "ผู้จัดการ (manager)"
-  },
-  {
-    "rank": 387,
-    "word": "相信",
-    "score": 153.0,
-    "frequency": 17,
-    "examCoverage": 9,
-    "pinyin": "xiāng xìn",
-    "meaning": "เชื่อ (deem)"
-  },
-  {
-    "rank": 388,
-    "word": "知识",
-    "score": 150.0,
-    "frequency": 15,
-    "examCoverage": 10,
-    "pinyin": "zhī shí",
-    "meaning": "ความรู้ (learning)"
-  },
-  {
-    "rank": 389,
-    "word": "专业",
-    "score": 150.0,
-    "frequency": 15,
-    "examCoverage": 10,
-    "pinyin": "zhuān yè",
-    "meaning": "วิชาเอก (specialty)"
-  },
-  {
-    "rank": 390,
-    "word": "讨厌",
-    "score": 150.0,
-    "frequency": 15,
-    "examCoverage": 10,
-    "pinyin": "tǎo yàn",
-    "meaning": "เกลียด (distaste)"
-  },
-  {
-    "rank": 391,
-    "word": "内容",
-    "score": 150.0,
-    "frequency": 15,
-    "examCoverage": 10,
-    "pinyin": "nèi róng",
-    "meaning": "เนื้อหา (viscera)"
-  },
-  {
-    "rank": 392,
-    "word": "当然",
-    "score": 150.0,
-    "frequency": 15,
-    "examCoverage": 10,
-    "pinyin": "dāng rán",
-    "meaning": "แน่นอน (naturalness)"
-  },
-  {
-    "rank": 393,
+    "rank": 487,
     "word": "保护",
-    "score": 150.0,
-    "frequency": 15,
+    "score": 180.0,
+    "frequency": 18,
     "examCoverage": 10,
     "pinyin": "bǎo hù",
     "meaning": "ปกป้อง (protection)"
   },
   {
-    "rank": 394,
-    "word": "医院",
-    "score": 150.0,
+    "rank": 488,
+    "word": "航班",
+    "score": 180.0,
     "frequency": 15,
-    "examCoverage": 10,
-    "pinyin": "yī yuàn",
-    "meaning": "โรงพยาบาล (hospital)"
-  },
-  {
-    "rank": 395,
-    "word": "态度",
-    "score": 150.0,
-    "frequency": 15,
-    "examCoverage": 10,
-    "pinyin": "tài dù",
-    "meaning": "มารยาท (comportment)"
-  },
-  {
-    "rank": 396,
-    "word": "起来",
-    "score": 144.0,
-    "frequency": 18,
-    "examCoverage": 8,
-    "pinyin": "qǐ lái",
-    "meaning": "ยืนขึ้น (up)"
-  },
-  {
-    "rank": 397,
-    "word": "对话",
-    "score": 144.0,
-    "frequency": 18,
-    "examCoverage": 8,
-    "pinyin": "duì huà",
-    "meaning": "บทสนทนา (dialogue)"
-  },
-  {
-    "rank": 398,
-    "word": "民族",
-    "score": 144.0,
-    "frequency": 18,
-    "examCoverage": 8,
-    "pinyin": "mín zú",
-    "meaning": "สัญชาติ (nation)"
-  },
-  {
-    "rank": 399,
-    "word": "天气",
-    "score": 144.0,
-    "frequency": 16,
-    "examCoverage": 9,
-    "pinyin": "tiān qì",
-    "meaning": "สภาพอากาศ (weather)"
-  },
-  {
-    "rank": 400,
-    "word": "宾馆",
-    "score": 144.0,
-    "frequency": 16,
-    "examCoverage": 9,
-    "pinyin": "bīn guǎn",
-    "meaning": "โรงแรม (guesthouse)"
-  },
-  {
-    "rank": 401,
-    "word": "放心",
-    "score": 144.0,
-    "frequency": 16,
-    "examCoverage": 9,
-    "pinyin": "fàng xīn",
-    "meaning": "มั่นใจได้ (reassurance)"
-  },
-  {
-    "rank": 402,
-    "word": "机会",
-    "score": 144.0,
-    "frequency": 16,
-    "examCoverage": 9,
-    "pinyin": "jī huì",
-    "meaning": "โอกาส (opportunity)"
-  },
-  {
-    "rank": 403,
-    "word": "邀请",
-    "score": 144.0,
-    "frequency": 16,
-    "examCoverage": 9,
-    "pinyin": "yāo qǐng",
-    "meaning": "เชิญ (invitation)"
-  },
-  {
-    "rank": 404,
-    "word": "冷静",
-    "score": 144.0,
-    "frequency": 12,
     "examCoverage": 12,
-    "pinyin": "lěng jìng",
-    "meaning": "เงียบสงบ (dispassion)"
+    "pinyin": "háng bān",
+    "meaning": "เที่ยวบิน (no dictionary entry)"
   },
   {
-    "rank": 405,
-    "word": "最高",
-    "score": 144.0,
-    "frequency": 12,
+    "rank": 489,
+    "word": "窗户",
+    "score": 180.0,
+    "frequency": 15,
     "examCoverage": 12,
-    "pinyin": "zuì gāo",
-    "meaning": "สูงสุด (paramountcy)"
+    "pinyin": "chuāng hù",
+    "meaning": "หน้าต่าง (paneless)"
   },
   {
-    "rank": 406,
-    "word": "打车",
-    "score": 144.0,
-    "frequency": 12,
+    "rank": 490,
+    "word": "难过",
+    "score": 180.0,
+    "frequency": 15,
     "examCoverage": 12,
-    "pinyin": "dǎ chē",
-    "meaning": "นั่งแท็กซี่ (no dictionary entry)"
+    "pinyin": "nán guò",
+    "meaning": "เศร้า (sorrily)"
   },
   {
-    "rank": 407,
-    "word": "积累",
-    "score": 144.0,
-    "frequency": 12,
-    "examCoverage": 12,
-    "pinyin": "jī lěi",
-    "meaning": "การสะสม (pile)"
-  },
-  {
-    "rank": 408,
-    "word": "加班",
-    "score": 144.0,
-    "frequency": 12,
-    "examCoverage": 12,
-    "pinyin": "jiā bān",
-    "meaning": "ทำงานล่วงเวลา (overtime)"
-  },
-  {
-    "rank": 409,
-    "word": "印象",
-    "score": 144.0,
-    "frequency": 12,
-    "examCoverage": 12,
-    "pinyin": "yìn xiàng",
-    "meaning": "ความประทับใจ (impression)"
-  },
-  {
-    "rank": 410,
-    "word": "主意",
-    "score": 144.0,
-    "frequency": 12,
-    "examCoverage": 12,
-    "pinyin": "zhǔ yì",
-    "meaning": "ความคิด (dingbat)"
-  },
-  {
-    "rank": 411,
-    "word": "警察",
-    "score": 143.0,
-    "frequency": 13,
-    "examCoverage": 11,
-    "pinyin": "jǐng chá",
-    "meaning": "ตำรวจ (nuthook)"
-  },
-  {
-    "rank": 412,
-    "word": "教授",
-    "score": 143.0,
-    "frequency": 13,
-    "examCoverage": 11,
-    "pinyin": "jiào shòu",
-    "meaning": "ศาสตราจารย์ (facultyman)"
-  },
-  {
-    "rank": 413,
-    "word": "合适",
-    "score": 143.0,
-    "frequency": 13,
-    "examCoverage": 11,
-    "pinyin": "hé shì",
-    "meaning": "เหมาะสม (suitability)"
-  },
-  {
-    "rank": 414,
-    "word": "粗心",
-    "score": 143.0,
-    "frequency": 13,
-    "examCoverage": 11,
-    "pinyin": "cū xīn",
-    "meaning": "สะเพร่า (blunderer)"
-  },
-  {
-    "rank": 415,
-    "word": "继续",
-    "score": 143.0,
-    "frequency": 13,
-    "examCoverage": 11,
-    "pinyin": "jì xù",
-    "meaning": "ดำเนินการต่อ (perdure)"
-  },
-  {
-    "rank": 416,
-    "word": "大概",
-    "score": 143.0,
-    "frequency": 13,
-    "examCoverage": 11,
-    "pinyin": "dà gài",
-    "meaning": "บางที (assumably)"
-  },
-  {
-    "rank": 417,
-    "word": "飞机",
-    "score": 140.0,
-    "frequency": 14,
-    "examCoverage": 10,
-    "pinyin": "fēi jī",
-    "meaning": "เครื่องบิน (aeronef)"
-  },
-  {
-    "rank": 418,
-    "word": "表示",
-    "score": 140.0,
-    "frequency": 14,
-    "examCoverage": 10,
-    "pinyin": "biǎo shì",
-    "meaning": "ด่วน (profess)"
-  },
-  {
-    "rank": 419,
-    "word": "不过",
-    "score": 140.0,
-    "frequency": 14,
-    "examCoverage": 10,
-    "pinyin": "bù guò",
-    "meaning": "แต่ (merely)"
-  },
-  {
-    "rank": 420,
-    "word": "方向",
-    "score": 140.0,
-    "frequency": 14,
-    "examCoverage": 10,
-    "pinyin": "fāng xiàng",
-    "meaning": "ทิศทาง (orientation)"
-  },
-  {
-    "rank": 421,
-    "word": "一种",
-    "score": 136.0,
-    "frequency": 17,
-    "examCoverage": 8,
-    "pinyin": "yī zhǒng",
-    "meaning": "ชนิดหนึ่ง (curlew)"
-  },
-  {
-    "rank": 422,
-    "word": "空气",
-    "score": 135.0,
-    "frequency": 15,
-    "examCoverage": 9,
-    "pinyin": "kōng qì",
-    "meaning": "อากาศ (atmosphere)"
-  },
-  {
-    "rank": 423,
-    "word": "是因为",
-    "score": 135.0,
-    "frequency": 15,
-    "examCoverage": 9,
-    "pinyin": "shì yīn wèi",
-    "meaning": "มันเป็นเพราะว่า (no dictionary entry)"
-  },
-  {
-    "rank": 424,
-    "word": "手机",
-    "score": 135.0,
-    "frequency": 15,
-    "examCoverage": 9,
-    "pinyin": "shǒu jī",
-    "meaning": "โทรศัพท์มือถือ (handset)"
-  },
-  {
-    "rank": 425,
-    "word": "叶子",
-    "score": 135.0,
-    "frequency": 15,
-    "examCoverage": 9,
-    "pinyin": "yè zi",
-    "meaning": "ใบไม้ (frondesce)"
-  },
-  {
-    "rank": 426,
-    "word": "那些",
-    "score": 135.0,
-    "frequency": 15,
-    "examCoverage": 9,
-    "pinyin": "nà xiē",
-    "meaning": "พวกนั้น (those)"
-  },
-  {
-    "rank": 427,
-    "word": "生气",
-    "score": 135.0,
-    "frequency": 15,
-    "examCoverage": 9,
-    "pinyin": "shēng qì",
-    "meaning": "โกรธ (irate)"
-  },
-  {
-    "rank": 428,
-    "word": "教育",
-    "score": 135.0,
-    "frequency": 15,
-    "examCoverage": 9,
-    "pinyin": "jiào yù",
-    "meaning": "ให้ความรู้ (educate)"
-  },
-  {
-    "rank": 429,
-    "word": "多少",
-    "score": 135.0,
-    "frequency": 15,
-    "examCoverage": 9,
-    "pinyin": "duō shǎo",
-    "meaning": "เท่าไหร่ (acidulous)"
-  },
-  {
-    "rank": 430,
-    "word": "高兴",
-    "score": 135.0,
-    "frequency": 15,
-    "examCoverage": 9,
-    "pinyin": "gāo xìng",
-    "meaning": "มีความสุข (cheerfulness)"
-  },
-  {
-    "rank": 431,
-    "word": "快到",
-    "score": 132.0,
-    "frequency": 12,
-    "examCoverage": 11,
-    "pinyin": "kuài dào",
-    "meaning": "เร็วๆ นี้ (no dictionary entry)"
-  },
-  {
-    "rank": 432,
-    "word": "起晚",
-    "score": 132.0,
-    "frequency": 12,
-    "examCoverage": 11,
-    "pinyin": "qǐ wǎn",
-    "meaning": "ตื่นสาย (no dictionary entry)"
-  },
-  {
-    "rank": 433,
-    "word": "记得",
-    "score": 132.0,
-    "frequency": 12,
-    "examCoverage": 11,
-    "pinyin": "jì de",
-    "meaning": "จดจำ (recollect)"
-  },
-  {
-    "rank": 434,
-    "word": "抽烟",
-    "score": 132.0,
-    "frequency": 12,
-    "examCoverage": 11,
-    "pinyin": "chōu yān",
-    "meaning": "ควัน (smoking)"
-  },
-  {
-    "rank": 435,
-    "word": "吃惊",
-    "score": 132.0,
-    "frequency": 12,
-    "examCoverage": 11,
-    "pinyin": "chī jīng",
-    "meaning": "น่าประหลาดใจ (fright)"
-  },
-  {
-    "rank": 436,
-    "word": "辛苦",
-    "score": 132.0,
-    "frequency": 12,
-    "examCoverage": 11,
-    "pinyin": "xīn kǔ",
-    "meaning": "แข็ง (travail)"
-  },
-  {
-    "rank": 437,
-    "word": "永远",
-    "score": 132.0,
-    "frequency": 12,
-    "examCoverage": 11,
-    "pinyin": "yǒng yuǎn",
-    "meaning": "ตลอดไป (foreverness)"
-  },
-  {
-    "rank": 438,
-    "word": "激动",
-    "score": 132.0,
-    "frequency": 12,
-    "examCoverage": 11,
-    "pinyin": "jī dòng",
-    "meaning": "ตื่นเต้น (incite)"
-  },
-  {
-    "rank": 439,
-    "word": "关键",
-    "score": 132.0,
-    "frequency": 12,
-    "examCoverage": 11,
-    "pinyin": "guān jiàn",
-    "meaning": "สำคัญ (linchpin)"
-  },
-  {
-    "rank": 440,
-    "word": "估计",
-    "score": 132.0,
-    "frequency": 12,
-    "examCoverage": 11,
-    "pinyin": "gū jì",
-    "meaning": "ประมาณการ (estimating)"
-  },
-  {
-    "rank": 441,
-    "word": "有名",
-    "score": 130.0,
-    "frequency": 13,
-    "examCoverage": 10,
-    "pinyin": "yǒu míng",
-    "meaning": "มีชื่อเสียง (onomasticon)"
-  },
-  {
-    "rank": 442,
-    "word": "解释",
-    "score": 130.0,
-    "frequency": 13,
-    "examCoverage": 10,
-    "pinyin": "jiě shì",
-    "meaning": "อธิบาย (exegesis)"
-  },
-  {
-    "rank": 443,
-    "word": "超过",
-    "score": 130.0,
-    "frequency": 13,
-    "examCoverage": 10,
-    "pinyin": "chāo guò",
-    "meaning": "เกิน (outstrip)"
-  },
-  {
-    "rank": 444,
-    "word": "通知",
-    "score": 130.0,
-    "frequency": 13,
-    "examCoverage": 10,
-    "pinyin": "tōng zhī",
-    "meaning": "แจ้ง (apprise)"
-  },
-  {
-    "rank": 445,
-    "word": "周末",
-    "score": 130.0,
-    "frequency": 13,
-    "examCoverage": 10,
-    "pinyin": "zhōu mò",
-    "meaning": "สุดสัปดาห์ (weekend)"
-  },
-  {
-    "rank": 446,
-    "word": "它们",
-    "score": 128.0,
-    "frequency": 16,
-    "examCoverage": 8,
-    "pinyin": "tā men",
-    "meaning": "พวกเขา (they)"
-  },
-  {
-    "rank": 447,
-    "word": "速度",
-    "score": 126.0,
-    "frequency": 14,
-    "examCoverage": 9,
-    "pinyin": "sù dù",
-    "meaning": "ความเร็ว (rapidity)"
-  },
-  {
-    "rank": 448,
-    "word": "咱们",
-    "score": 126.0,
-    "frequency": 14,
-    "examCoverage": 9,
-    "pinyin": "zán men",
-    "meaning": "เรา (no dictionary entry)"
-  },
-  {
-    "rank": 449,
-    "word": "森林",
-    "score": 126.0,
-    "frequency": 14,
-    "examCoverage": 9,
-    "pinyin": "sēn lín",
-    "meaning": "ป่า (woods)"
-  },
-  {
-    "rank": 450,
-    "word": "塑料袋",
-    "score": 126.0,
-    "frequency": 14,
-    "examCoverage": 9,
-    "pinyin": "sù liào dài",
-    "meaning": "ถุงพลาสติก (litterbag)"
-  },
-  {
-    "rank": 451,
-    "word": "书写",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "shū xiě",
-    "meaning": "เขียน (write)"
-  },
-  {
-    "rank": 452,
-    "word": "答题卡",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "dá tí kǎ",
-    "meaning": "กระดาษคำตอบ (no dictionary entry)"
-  },
-  {
-    "rank": 453,
-    "word": "个人信息",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "gè rén xìn xī",
-    "meaning": "ข้อมูลส่วนบุคคล (pim)"
-  },
-  {
-    "rank": 454,
-    "word": "汉办",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "hàn bàn",
-    "meaning": "ฮันบัน (no dictionary entry)"
-  },
-  {
-    "rank": 455,
-    "word": "孔子",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "kǒng zi",
-    "meaning": "ขงจื๊อ (confucian)"
-  },
-  {
-    "rank": 456,
-    "word": "学院",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "xué yuàn",
-    "meaning": "วิทยาลัย (seminary)"
-  },
-  {
-    "rank": 457,
-    "word": "总部",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "zǒng bù",
-    "meaning": "สำนักงานใหญ่ (headquarters)"
-  },
-  {
-    "rank": 458,
-    "word": "编制",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "biān zhì",
-    "meaning": "จัดทำโดย (planning)"
-  },
-  {
-    "rank": 459,
-    "word": "对错",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "duì cuò",
-    "meaning": "ถูกหรือผิด (no dictionary entry)"
-  },
-  {
-    "rank": 460,
-    "word": "油是",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "yóu shì",
-    "meaning": "น้ำมันคือ (no dictionary entry)"
-  },
-  {
-    "rank": 461,
-    "word": "购物",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "gòu wù",
-    "meaning": "ช้อปปิ้ง (shopping)"
-  },
-  {
-    "rank": 462,
-    "word": "爬山",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "pá shān",
-    "meaning": "ปีนภูเขา (no dictionary entry)"
-  },
-  {
-    "rank": 463,
-    "word": "五份",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "wǔ fèn",
-    "meaning": "ห้าเสิร์ฟ (no dictionary entry)"
-  },
-  {
-    "rank": 464,
-    "word": "地址",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "dì zhǐ",
-    "meaning": "ที่อยู่ (address)"
-  },
-  {
-    "rank": 465,
-    "word": "真冷",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "zhēn lěng",
-    "meaning": "หนาวมาก (no dictionary entry)"
-  },
-  {
-    "rank": 466,
-    "word": "渐弱",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "jiàn ruò",
-    "meaning": "จางหายไป (decrescendo)"
-  },
-  {
-    "rank": 467,
-    "word": "准时",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "zhǔn shí",
-    "meaning": "ตรงเวลา (punctuality)"
-  },
-  {
-    "rank": 468,
-    "word": "无聊",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "wú liáo",
-    "meaning": "น่าเบื่อ (fastidium)"
-  },
-  {
-    "rank": 469,
-    "word": "得意",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "dé yì",
-    "meaning": "ภูมิใจ (exultation)"
-  },
-  {
-    "rank": 470,
-    "word": "记者",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "jì zhě",
-    "meaning": "นักข่าว (newsperson)"
-  },
-  {
-    "rank": 471,
-    "word": "中文",
-    "score": 121.0,
-    "frequency": 11,
-    "examCoverage": 11,
-    "pinyin": "zhōng wén",
-    "meaning": "ชาวจีน (chinese)"
-  },
-  {
-    "rank": 472,
-    "word": "衣服",
-    "score": 120.0,
-    "frequency": 12,
-    "examCoverage": 10,
-    "pinyin": "yī fú",
-    "meaning": "เสื้อผ้า (clothing)"
-  },
-  {
-    "rank": 473,
-    "word": "按时",
-    "score": 120.0,
-    "frequency": 12,
-    "examCoverage": 10,
-    "pinyin": "àn shí",
-    "meaning": "ตรงเวลา (punctually)"
-  },
-  {
-    "rank": 474,
-    "word": "复杂",
-    "score": 120.0,
-    "frequency": 12,
-    "examCoverage": 10,
-    "pinyin": "fù zá",
-    "meaning": "ซับซ้อน (intricacy)"
-  },
-  {
-    "rank": 475,
-    "word": "区别",
-    "score": 120.0,
-    "frequency": 12,
-    "examCoverage": 10,
-    "pinyin": "qū bié",
-    "meaning": "ความแตกต่าง (differentiation)"
-  },
-  {
-    "rank": 476,
-    "word": "愉快",
-    "score": 120.0,
-    "frequency": 12,
-    "examCoverage": 10,
-    "pinyin": "yú kuài",
-    "meaning": "ความสุข (delectation)"
-  },
-  {
-    "rank": 477,
-    "word": "介绍",
-    "score": 120.0,
-    "frequency": 12,
-    "examCoverage": 10,
-    "pinyin": "jiè shào",
-    "meaning": "แนะนำ (presentation)"
-  },
-  {
-    "rank": 478,
-    "word": "杂志",
-    "score": 120.0,
-    "frequency": 12,
-    "examCoverage": 10,
-    "pinyin": "zá zhì",
-    "meaning": "นิตยสาร (journal)"
-  },
-  {
-    "rank": 479,
-    "word": "来不及",
-    "score": 120.0,
-    "frequency": 12,
-    "examCoverage": 10,
-    "pinyin": "lái bù jí",
-    "meaning": "สายเกินไป (no dictionary entry)"
-  },
-  {
-    "rank": 480,
-    "word": "安静",
-    "score": 120.0,
-    "frequency": 12,
-    "examCoverage": 10,
-    "pinyin": "ān jìng",
-    "meaning": "เงียบ (tranquillization)"
-  },
-  {
-    "rank": 481,
+    "rank": 491,
     "word": "相反",
-    "score": 120.0,
-    "frequency": 12,
-    "examCoverage": 10,
+    "score": 180.0,
+    "frequency": 15,
+    "examCoverage": 12,
     "pinyin": "xiāng fǎn",
     "meaning": "ในทางตรงกันข้าม (contrariousness)"
   },
   {
-    "rank": 482,
-    "word": "收入",
-    "score": 120.0,
-    "frequency": 12,
-    "examCoverage": 10,
-    "pinyin": "shōu rù",
-    "meaning": "รายได้ (earnings)"
-  },
-  {
-    "rank": 483,
-    "word": "原来",
-    "score": 120.0,
-    "frequency": 12,
-    "examCoverage": 10,
-    "pinyin": "yuán lái",
-    "meaning": "กลายเป็น (aboriginally)"
-  },
-  {
-    "rank": 484,
-    "word": "必须",
-    "score": 120.0,
-    "frequency": 12,
-    "examCoverage": 10,
-    "pinyin": "bì xū",
-    "meaning": "ต้อง (must)"
-  },
-  {
-    "rank": 485,
-    "word": "打扮",
-    "score": 120.0,
-    "frequency": 12,
-    "examCoverage": 10,
-    "pinyin": "dǎ bàn",
-    "meaning": "แต่งตัว (brushup)"
-  },
-  {
-    "rank": 486,
-    "word": "价格",
-    "score": 120.0,
-    "frequency": 12,
-    "examCoverage": 10,
-    "pinyin": "jià gé",
-    "meaning": "ราคา (prix)"
-  },
-  {
-    "rank": 487,
-    "word": "聊天儿",
-    "score": 119.0,
-    "frequency": 17,
-    "examCoverage": 7,
-    "pinyin": "liáo tiān ér",
-    "meaning": "แชท (no dictionary entry)"
-  },
-  {
-    "rank": 488,
-    "word": "数字",
-    "score": 117.0,
-    "frequency": 13,
-    "examCoverage": 9,
-    "pinyin": "shù zì",
-    "meaning": "ตัวเลข (numeral)"
-  },
-  {
-    "rank": 489,
-    "word": "找到",
-    "score": 117.0,
-    "frequency": 13,
-    "examCoverage": 9,
-    "pinyin": "zhǎo dào",
-    "meaning": "เปิดขึ้น (find)"
-  },
-  {
-    "rank": 490,
-    "word": "表演",
-    "score": 117.0,
-    "frequency": 13,
-    "examCoverage": 9,
-    "pinyin": "biǎo yǎn",
-    "meaning": "ผลงาน (playact)"
-  },
-  {
-    "rank": 491,
-    "word": "消息",
-    "score": 117.0,
-    "frequency": 13,
-    "examCoverage": 9,
-    "pinyin": "xiāo xī",
-    "meaning": "ข้อมูล (tidings)"
-  },
-  {
     "rank": 492,
-    "word": "方面",
-    "score": 117.0,
-    "frequency": 13,
-    "examCoverage": 9,
-    "pinyin": "fāng miàn",
-    "meaning": "ด้าน (sphere)"
+    "word": "即使",
+    "score": 180.0,
+    "frequency": 15,
+    "examCoverage": 12,
+    "pinyin": "jí shǐ",
+    "meaning": "ถึงแม้ว่า (even)"
   },
   {
     "rank": 493,
-    "word": "适合",
-    "score": 117.0,
-    "frequency": 13,
-    "examCoverage": 9,
-    "pinyin": "shì hé",
-    "meaning": "เหมาะสม (befit)"
+    "word": "顺利",
+    "score": 180.0,
+    "frequency": 15,
+    "examCoverage": 12,
+    "pinyin": "shùn lì",
+    "meaning": "ได้อย่างราบรื่น (favorableness)"
   },
   {
     "rank": 494,
+    "word": "接受",
+    "score": 180.0,
+    "frequency": 15,
+    "examCoverage": 12,
+    "pinyin": "jiē shòu",
+    "meaning": "ยอมรับ (receival)"
+  },
+  {
+    "rank": 495,
+    "word": "正式",
+    "score": 180.0,
+    "frequency": 15,
+    "examCoverage": 12,
+    "pinyin": "zhèng shì",
+    "meaning": "เป็นทางการ (officially)"
+  },
+  {
+    "rank": 496,
+    "word": "记得",
+    "score": 180.0,
+    "frequency": 15,
+    "examCoverage": 12,
+    "pinyin": "jì de",
+    "meaning": "จดจำ (recollect)"
+  },
+  {
+    "rank": 497,
+    "word": "钥匙",
+    "score": 180.0,
+    "frequency": 15,
+    "examCoverage": 12,
+    "pinyin": "yào shi",
+    "meaning": "สำคัญ (key)"
+  },
+  {
+    "rank": 498,
+    "word": "对面",
+    "score": 176.0,
+    "frequency": 16,
+    "examCoverage": 11,
+    "pinyin": "duì miàn",
+    "meaning": "ตรงข้าม (towards)"
+  },
+  {
+    "rank": 499,
     "word": "风景",
-    "score": 117.0,
-    "frequency": 13,
-    "examCoverage": 9,
+    "score": 176.0,
+    "frequency": 16,
+    "examCoverage": 11,
     "pinyin": "fēng jǐng",
     "meaning": "ภูมิประเทศ (scenery)"
   },
   {
-    "rank": 495,
-    "word": "出差",
-    "score": 117.0,
-    "frequency": 13,
-    "examCoverage": 9,
-    "pinyin": "chū chāi",
-    "meaning": "ในการเดินทางเพื่อธุรกิจ (evection)"
-  },
-  {
-    "rank": 496,
-    "word": "要求",
-    "score": 117.0,
-    "frequency": 13,
-    "examCoverage": 9,
-    "pinyin": "yāo qiú",
-    "meaning": "จำเป็นต้อง (require)"
-  },
-  {
-    "rank": 497,
-    "word": "及时",
-    "score": 117.0,
-    "frequency": 13,
-    "examCoverage": 9,
-    "pinyin": "jí shí",
-    "meaning": "ทันเวลา (betimes)"
-  },
-  {
-    "rank": 498,
-    "word": "见面",
-    "score": 117.0,
-    "frequency": 13,
-    "examCoverage": 9,
-    "pinyin": "jiàn miàn",
-    "meaning": "พบปะ (hongi)"
-  },
-  {
-    "rank": 499,
-    "word": "作用",
-    "score": 117.0,
-    "frequency": 13,
-    "examCoverage": 9,
-    "pinyin": "zuò yòng",
-    "meaning": "ผล (operation)"
-  },
-  {
     "rank": 500,
-    "word": "办法",
-    "score": 117.0,
-    "frequency": 13,
-    "examCoverage": 9,
-    "pinyin": "bàn fǎ",
-    "meaning": "ทาง (resource)"
+    "word": "动作",
+    "score": 176.0,
+    "frequency": 16,
+    "examCoverage": 11,
+    "pinyin": "dòng zuò",
+    "meaning": "การกระทำ (comportment)"
   }
 ]

@@ -1,178 +1,242 @@
 [
   {
     "word": "什么",
-    "count": 259
+    "count": 280
   },
   {
     "word": "我们",
-    "count": 198
-  },
-  {
-    "word": "可以",
-    "count": 115
+    "count": 235
   },
   {
     "word": "例如",
-    "count": 115
+    "count": 153
+  },
+  {
+    "word": "可以",
+    "count": 128
   },
   {
     "word": "现在",
-    "count": 109
-  },
-  {
-    "word": "一个",
-    "count": 96
+    "count": 124
   },
   {
     "word": "时间",
-    "count": 94
+    "count": 119
+  },
+  {
+    "word": "一个",
+    "count": 115
+  },
+  {
+    "word": "分钟",
+    "count": 100
   },
   {
     "word": "这个",
-    "count": 88
+    "count": 99
   },
   {
     "word": "考试",
-    "count": 86
+    "count": 97
+  },
+  {
+    "word": "今天",
+    "count": 94
   },
   {
     "word": "部分",
-    "count": 82
+    "count": 92
   },
   {
     "word": "他们",
+    "count": 88
+  },
+  {
+    "word": "很多",
+    "count": 81
+  },
+  {
+    "word": "大家",
     "count": 78
   },
   {
     "word": "根据",
-    "count": 74
-  },
-  {
-    "word": "今天",
-    "count": 74
-  },
-  {
-    "word": "大家",
-    "count": 73
-  },
-  {
-    "word": "分钟",
-    "count": 71
-  },
-  {
-    "word": "很多",
-    "count": 68
-  },
-  {
-    "word": "自己",
-    "count": 62
+    "count": 76
   },
   {
     "word": "喜欢",
-    "count": 60
-  },
-  {
-    "word": "开始",
-    "count": 60
-  },
-  {
-    "word": "知道",
-    "count": 58
+    "count": 75
   },
   {
     "word": "正确",
-    "count": 58
+    "count": 75
   },
   {
-    "word": "别人",
-    "count": 57
-  },
-  {
-    "word": "怎么样",
-    "count": 57
+    "word": "自己",
+    "count": 73
   },
   {
     "word": "所以",
-    "count": 53
+    "count": 68
   },
   {
-    "word": "四级",
-    "count": 50
+    "word": "别人",
+    "count": 66
   },
   {
-    "word": "听力",
-    "count": 50
-  },
-  {
-    "word": "觉得",
-    "count": 49
-  },
-  {
-    "word": "明天",
-    "count": 49
-  },
-  {
-    "word": "不管",
-    "count": 49
-  },
-  {
-    "word": "没有",
-    "count": 47
-  },
-  {
-    "word": "主要",
-    "count": 46
-  },
-  {
-    "word": "这段话",
-    "count": 45
-  },
-  {
-    "word": "时候",
-    "count": 45
-  },
-  {
-    "word": "一下",
-    "count": 45
-  },
-  {
-    "word": "下午",
-    "count": 45
-  },
-  {
-    "word": "工作",
-    "count": 44
-  },
-  {
-    "word": "广告",
-    "count": 44
+    "word": "开始",
+    "count": 62
   },
   {
     "word": "答案",
-    "count": 43
+    "count": 62
   },
   {
-    "word": "事情",
-    "count": 42
+    "word": "知道",
+    "count": 61
   },
   {
-    "word": "怎么",
-    "count": 42
+    "word": "不管",
+    "count": 60
+  },
+  {
+    "word": "觉得",
+    "count": 59
+  },
+  {
+    "word": "明天",
+    "count": 59
+  },
+  {
+    "word": "四级",
+    "count": 58
+  },
+  {
+    "word": "听力",
+    "count": 58
+  },
+  {
+    "word": "怎么样",
+    "count": 58
+  },
+  {
+    "word": "工作",
+    "count": 57
+  },
+  {
+    "word": "广告",
+    "count": 57
   },
   {
     "word": "会议室",
-    "count": 42
+    "count": 54
+  },
+  {
+    "word": "主要",
+    "count": 53
+  },
+  {
+    "word": "没有",
+    "count": 53
+  },
+  {
+    "word": "时候",
+    "count": 51
+  },
+  {
+    "word": "下午",
+    "count": 51
+  },
+  {
+    "word": "这段话",
+    "count": 50
+  },
+  {
+    "word": "机场",
+    "count": 50
+  },
+  {
+    "word": "一下",
+    "count": 49
+  },
+  {
+    "word": "选出",
+    "count": 49
+  },
+  {
+    "word": "三点",
+    "count": 49
   },
   {
     "word": "生活",
-    "count": 41
+    "count": 48
   },
   {
     "word": "应该",
-    "count": 40
+    "count": 47
+  },
+  {
+    "word": "问题",
+    "count": 47
+  },
+  {
+    "word": "怎么",
+    "count": 47
+  },
+  {
+    "word": "中国",
+    "count": 46
+  },
+  {
+    "word": "小时",
+    "count": 45
+  },
+  {
+    "word": "一会儿",
+    "count": 45
+  },
+  {
+    "word": "事情",
+    "count": 43
   },
   {
     "word": "参加",
+    "count": 43
+  },
+  {
+    "word": "那么",
+    "count": 43
+  },
+  {
+    "word": "意思",
+    "count": 43
+  },
+  {
+    "word": "银行",
+    "count": 43
+  },
+  {
+    "word": "电视",
+    "count": 43
+  },
+  {
+    "word": "说话",
+    "count": 42
+  },
+  {
+    "word": "非常",
+    "count": 41
+  },
+  {
+    "word": "看到",
+    "count": 41
+  },
+  {
+    "word": "总能",
+    "count": 41
+  },
+  {
+    "word": "人们",
     "count": 40
   },
   {
@@ -180,43 +244,51 @@
     "count": 40
   },
   {
-    "word": "问题",
+    "word": "不是",
     "count": 40
   },
   {
-    "word": "中国",
+    "word": "会议",
+    "count": 40
+  },
+  {
+    "word": "可能",
     "count": 39
   },
   {
-    "word": "不是",
+    "word": "公司",
     "count": 39
   },
   {
-    "word": "三点",
+    "word": "加油站",
     "count": 39
+  },
+  {
+    "word": "推迟",
+    "count": 39
+  },
+  {
+    "word": "不要",
+    "count": 38
   },
   {
     "word": "为什么",
     "count": 38
   },
   {
-    "word": "意思",
-    "count": 37
+    "word": "只要",
+    "count": 38
   },
   {
-    "word": "小时",
-    "count": 37
+    "word": "这儿",
+    "count": 38
   },
   {
-    "word": "机场",
-    "count": 37
+    "word": "很少",
+    "count": 36
   },
   {
-    "word": "一会儿",
-    "count": 37
-  },
-  {
-    "word": "说话",
+    "word": "不错",
     "count": 36
   },
   {
@@ -224,11 +296,15 @@
     "count": 36
   },
   {
-    "word": "可能",
+    "word": "孩子",
     "count": 35
   },
   {
-    "word": "这儿",
+    "word": "不能",
+    "count": 35
+  },
+  {
+    "word": "需要",
     "count": 35
   },
   {
@@ -236,67 +312,87 @@
     "count": 35
   },
   {
-    "word": "不要",
+    "word": "一直",
     "count": 34
-  },
-  {
-    "word": "人们",
-    "count": 34
-  },
-  {
-    "word": "银行",
-    "count": 34
-  },
-  {
-    "word": "选出",
-    "count": 34
-  },
-  {
-    "word": "非常",
-    "count": 33
-  },
-  {
-    "word": "那么",
-    "count": 33
-  },
-  {
-    "word": "电视",
-    "count": 33
-  },
-  {
-    "word": "会议",
-    "count": 33
-  },
-  {
-    "word": "看到",
-    "count": 32
-  },
-  {
-    "word": "公司",
-    "count": 32
-  },
-  {
-    "word": "推迟",
-    "count": 32
   },
   {
     "word": "还是",
-    "count": 31
+    "count": 34
   },
   {
-    "word": "只要",
-    "count": 31
+    "word": "材料",
+    "count": 33
   },
   {
-    "word": "总能",
-    "count": 31
-  },
-  {
-    "word": "需要",
-    "count": 30
+    "word": "重要",
+    "count": 32
   },
   {
     "word": "一次",
+    "count": 32
+  },
+  {
+    "word": "每天",
+    "count": 32
+  },
+  {
+    "word": "填写",
+    "count": 32
+  },
+  {
+    "word": "上下班",
+    "count": 32
+  },
+  {
+    "word": "选词",
+    "count": 32
+  },
+  {
+    "word": "填空",
+    "count": 32
+  },
+  {
+    "word": "北京",
+    "count": 31
+  },
+  {
+    "word": "没变",
+    "count": 31
+  },
+  {
+    "word": "刚才",
+    "count": 31
+  },
+  {
+    "word": "因为",
+    "count": 30
+  },
+  {
+    "word": "原因",
+    "count": 30
+  },
+  {
+    "word": "坚持",
+    "count": 30
+  },
+  {
+    "word": "有趣",
+    "count": 30
+  },
+  {
+    "word": "幽默",
+    "count": 30
+  },
+  {
+    "word": "路上",
+    "count": 30
+  },
+  {
+    "word": "结束",
+    "count": 30
+  },
+  {
+    "word": "半个",
     "count": 30
   },
   {
@@ -304,91 +400,139 @@
     "count": 29
   },
   {
-    "word": "加油站",
+    "word": "快乐",
     "count": 29
   },
   {
-    "word": "很少",
+    "word": "浪费",
+    "count": 29
+  },
+  {
+    "word": "哪儿",
+    "count": 29
+  },
+  {
+    "word": "告诉",
     "count": 28
+  },
+  {
+    "word": "东西",
+    "count": 28
+  },
+  {
+    "word": "节目",
+    "count": 28
+  },
+  {
+    "word": "可是",
+    "count": 28
+  },
+  {
+    "word": "如果",
+    "count": 27
+  },
+  {
+    "word": "已经",
+    "count": 27
   },
   {
     "word": "欢迎",
     "count": 27
   },
   {
-    "word": "哪儿",
+    "word": "信用卡",
     "count": 27
   },
   {
-    "word": "不错",
-    "count": 26
+    "word": "其中",
+    "count": 27
+  },
+  {
+    "word": "看电视",
+    "count": 27
+  },
+  {
+    "word": "复印",
+    "count": 27
   },
   {
     "word": "成功",
     "count": 26
   },
   {
-    "word": "结束",
+    "word": "特别",
     "count": 26
   },
   {
-    "word": "没变",
+    "word": "阅读",
     "count": 26
   },
   {
-    "word": "重要",
+    "word": "身体",
+    "count": 26
+  },
+  {
+    "word": "太多",
+    "count": 26
+  },
+  {
+    "word": "汉语",
+    "count": 26
+  },
+  {
+    "word": "这样",
     "count": 25
   },
   {
-    "word": "因为",
+    "word": "有些",
     "count": 25
   },
   {
-    "word": "材料",
+    "word": "还有",
     "count": 25
   },
   {
-    "word": "幽默",
+    "word": "打开",
     "count": 25
   },
   {
-    "word": "半个",
+    "word": "骄傲",
     "count": 25
   },
   {
-    "word": "孩子",
+    "word": "拿到",
+    "count": 25
+  },
+  {
+    "word": "害羞",
+    "count": 25
+  },
+  {
+    "word": "发给",
+    "count": 25
+  },
+  {
+    "word": "注意",
     "count": 24
   },
   {
-    "word": "如果",
+    "word": "那个",
     "count": 24
   },
   {
-    "word": "告诉",
+    "word": "带来",
     "count": 24
   },
   {
-    "word": "已经",
+    "word": "就是",
     "count": 24
   },
   {
-    "word": "原因",
+    "word": "准备",
     "count": 24
   },
   {
-    "word": "一直",
-    "count": 24
-  },
-  {
-    "word": "北京",
-    "count": 24
-  },
-  {
-    "word": "有趣",
-    "count": 24
-  },
-  {
-    "word": "回来",
+    "word": "今天下午",
     "count": 24
   },
   {
@@ -396,207 +540,63 @@
     "count": 24
   },
   {
-    "word": "刚才",
+    "word": "回来",
     "count": 24
   },
   {
-    "word": "不能",
-    "count": 23
-  },
-  {
-    "word": "每天",
-    "count": 23
-  },
-  {
-    "word": "有些",
-    "count": 23
-  },
-  {
-    "word": "坚持",
-    "count": 23
-  },
-  {
-    "word": "浪费",
-    "count": 23
-  },
-  {
-    "word": "路上",
-    "count": 23
+    "word": "活泼",
+    "count": 24
   },
   {
     "word": "打算",
-    "count": 23
-  },
-  {
-    "word": "填写",
-    "count": 23
-  },
-  {
-    "word": "东西",
-    "count": 22
-  },
-  {
-    "word": "那个",
-    "count": 22
-  },
-  {
-    "word": "信用卡",
-    "count": 22
-  },
-  {
-    "word": "看电视",
-    "count": 22
-  },
-  {
-    "word": "上下班",
-    "count": 22
-  },
-  {
-    "word": "复印",
-    "count": 22
-  },
-  {
-    "word": "选词",
-    "count": 22
-  },
-  {
-    "word": "填空",
-    "count": 22
-  },
-  {
-    "word": "个题",
-    "count": 21
-  },
-  {
-    "word": "每题",
-    "count": 21
-  },
-  {
-    "word": "其中",
-    "count": 21
-  },
-  {
-    "word": "太多",
-    "count": 21
-  },
-  {
-    "word": "节目",
-    "count": 21
-  },
-  {
-    "word": "准备",
-    "count": 21
-  },
-  {
-    "word": "骄傲",
-    "count": 21
-  },
-  {
-    "word": "害羞",
-    "count": 21
-  },
-  {
-    "word": "注意",
-    "count": 20
-  },
-  {
-    "word": "这样",
-    "count": 20
-  },
-  {
-    "word": "就是",
-    "count": 20
-  },
-  {
-    "word": "还有",
-    "count": 20
-  },
-  {
-    "word": "经验",
-    "count": 20
-  },
-  {
-    "word": "身体",
-    "count": 20
-  },
-  {
-    "word": "打开",
-    "count": 20
-  },
-  {
-    "word": "提前",
-    "count": 20
-  },
-  {
-    "word": "可是",
-    "count": 20
-  },
-  {
-    "word": "发给",
-    "count": 20
+    "count": 24
   },
   {
     "word": "点儿",
-    "count": 20
-  },
-  {
-    "word": "快乐",
-    "count": 19
-  },
-  {
-    "word": "变得",
-    "count": 19
-  },
-  {
-    "word": "这些",
-    "count": 19
-  },
-  {
-    "word": "比赛",
-    "count": 19
-  },
-  {
-    "word": "失败",
-    "count": 19
-  },
-  {
-    "word": "活动",
-    "count": 19
-  },
-  {
-    "word": "今天下午",
-    "count": 19
-  },
-  {
-    "word": "拿到",
-    "count": 19
-  },
-  {
-    "word": "看看",
-    "count": 19
-  },
-  {
-    "word": "玩儿",
-    "count": 19
-  },
-  {
-    "word": "汉语",
-    "count": 19
+    "count": 24
   },
   {
     "word": "改了",
-    "count": 19
+    "count": 24
   },
   {
-    "word": "地方",
-    "count": 18
+    "word": "经验",
+    "count": 23
   },
   {
-    "word": "第一",
-    "count": 18
+    "word": "全部",
+    "count": 23
   },
   {
-    "word": "幸福",
-    "count": 18
+    "word": "办个",
+    "count": 23
+  },
+  {
+    "word": "去一趟",
+    "count": 23
+  },
+  {
+    "word": "加油",
+    "count": 23
+  },
+  {
+    "word": "房间",
+    "count": 23
+  },
+  {
+    "word": "好像",
+    "count": 23
+  },
+  {
+    "word": "朋友",
+    "count": 22
+  },
+  {
+    "word": "一些",
+    "count": 22
+  },
+  {
+    "word": "分三",
+    "count": 22
   }
 ]

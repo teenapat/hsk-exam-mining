@@ -4,27 +4,16 @@
     "occurrenceCount": 24,
     "examCount": 13,
     "sectionDistribution": {
-      "Listening": 13,
+      "Listening": 14,
       "Reading": 2,
-      "Grammar": 4,
-      "Vocabulary": 3
-    }
-  },
-  {
-    "pattern": "虽然.*但是",
-    "occurrenceCount": 11,
-    "examCount": 11,
-    "sectionDistribution": {
-      "Listening": 5,
-      "Reading": 1,
-      "Grammar": 1,
-      "Vocabulary": 0
+      "Grammar": 5,
+      "Vocabulary": 5
     }
   },
   {
     "pattern": "先.*再",
-    "occurrenceCount": 11,
-    "examCount": 11,
+    "occurrenceCount": 4,
+    "examCount": 4,
     "sectionDistribution": {
       "Listening": 9,
       "Reading": 0,
@@ -33,25 +22,36 @@
     }
   },
   {
-    "pattern": "不仅.*而且",
-    "occurrenceCount": 7,
-    "examCount": 7,
+    "pattern": "虽然.*但是",
+    "occurrenceCount": 3,
+    "examCount": 3,
     "sectionDistribution": {
-      "Listening": 2,
-      "Reading": 0,
+      "Listening": 4,
+      "Reading": 1,
       "Grammar": 0,
       "Vocabulary": 1
     }
   },
   {
+    "pattern": "不仅.*而且",
+    "occurrenceCount": 2,
+    "examCount": 2,
+    "sectionDistribution": {
+      "Listening": 3,
+      "Reading": 0,
+      "Grammar": 0,
+      "Vocabulary": 0
+    }
+  },
+  {
     "pattern": "一边.*一边",
-    "occurrenceCount": 5,
-    "examCount": 5,
+    "occurrenceCount": 2,
+    "examCount": 2,
     "sectionDistribution": {
       "Listening": 2,
       "Reading": 0,
-      "Grammar": 3,
-      "Vocabulary": 2
+      "Grammar": 1,
+      "Vocabulary": 1
     }
   }
 ]

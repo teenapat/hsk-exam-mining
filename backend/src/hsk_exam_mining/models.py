@@ -12,6 +12,8 @@ class ExamQuestion:
     question: str
     options: list[str] = field(default_factory=list)
     answer: str | None = None
+    confidence: float = 0.5
+    parseMethod: str = "unknown"
 
     def to_dict(self) -> dict[str, Any]:
         return asdict(self)
