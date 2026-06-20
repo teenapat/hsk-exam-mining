@@ -15,3 +15,6 @@ output/
 frontend/public/data/
 !frontend/public/data/.gitkeep
 
+frontend/public/data/*
+!frontend/public/data/.gitkeep
+!frontend/public/data/*.json

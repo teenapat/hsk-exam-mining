@@ -1,0 +1,902 @@
+[
+  {
+    "word": "什么",
+    "totalOccurrences": 319,
+    "examsAppeared": 16,
+    "listeningCount": 259,
+    "readingCount": 10,
+    "grammarCount": 18,
+    "vocabularyCount": 32
+  },
+  {
+    "word": "我们",
+    "totalOccurrences": 275,
+    "examsAppeared": 16,
+    "listeningCount": 198,
+    "readingCount": 5,
+    "grammarCount": 13,
+    "vocabularyCount": 59
+  },
+  {
+    "word": "可以",
+    "totalOccurrences": 180,
+    "examsAppeared": 16,
+    "listeningCount": 115,
+    "readingCount": 7,
+    "grammarCount": 18,
+    "vocabularyCount": 40
+  },
+  {
+    "word": "例如",
+    "totalOccurrences": 147,
+    "examsAppeared": 16,
+    "listeningCount": 115,
+    "readingCount": 3,
+    "grammarCount": 26,
+    "vocabularyCount": 3
+  },
+  {
+    "word": "现在",
+    "totalOccurrences": 147,
+    "examsAppeared": 15,
+    "listeningCount": 109,
+    "readingCount": 8,
+    "grammarCount": 15,
+    "vocabularyCount": 15
+  },
+  {
+    "word": "一个",
+    "totalOccurrences": 145,
+    "examsAppeared": 17,
+    "listeningCount": 96,
+    "readingCount": 6,
+    "grammarCount": 9,
+    "vocabularyCount": 34
+  },
+  {
+    "word": "自己",
+    "totalOccurrences": 134,
+    "examsAppeared": 14,
+    "listeningCount": 62,
+    "readingCount": 3,
+    "grammarCount": 17,
+    "vocabularyCount": 52
+  },
+  {
+    "word": "时间",
+    "totalOccurrences": 126,
+    "examsAppeared": 15,
+    "listeningCount": 94,
+    "readingCount": 3,
+    "grammarCount": 12,
+    "vocabularyCount": 17
+  },
+  {
+    "word": "他们",
+    "totalOccurrences": 121,
+    "examsAppeared": 15,
+    "listeningCount": 78,
+    "readingCount": 2,
+    "grammarCount": 6,
+    "vocabularyCount": 35
+  },
+  {
+    "word": "这个",
+    "totalOccurrences": 120,
+    "examsAppeared": 16,
+    "listeningCount": 88,
+    "readingCount": 4,
+    "grammarCount": 10,
+    "vocabularyCount": 18
+  },
+  {
+    "word": "部分",
+    "totalOccurrences": 113,
+    "examsAppeared": 15,
+    "listeningCount": 82,
+    "readingCount": 5,
+    "grammarCount": 22,
+    "vocabularyCount": 4
+  },
+  {
+    "word": "考试",
+    "totalOccurrences": 107,
+    "examsAppeared": 14,
+    "listeningCount": 86,
+    "readingCount": 0,
+    "grammarCount": 21,
+    "vocabularyCount": 0
+  },
+  {
+    "word": "根据",
+    "totalOccurrences": 104,
+    "examsAppeared": 16,
+    "listeningCount": 74,
+    "readingCount": 0,
+    "grammarCount": 4,
+    "vocabularyCount": 26
+  },
+  {
+    "word": "这段话",
+    "totalOccurrences": 104,
+    "examsAppeared": 16,
+    "listeningCount": 45,
+    "readingCount": 0,
+    "grammarCount": 10,
+    "vocabularyCount": 49
+  },
+  {
+    "word": "别人",
+    "totalOccurrences": 103,
+    "examsAppeared": 15,
+    "listeningCount": 57,
+    "readingCount": 2,
+    "grammarCount": 9,
+    "vocabularyCount": 35
+  },
+  {
+    "word": "大家",
+    "totalOccurrences": 102,
+    "examsAppeared": 16,
+    "listeningCount": 73,
+    "readingCount": 2,
+    "grammarCount": 19,
+    "vocabularyCount": 8
+  },
+  {
+    "word": "喜欢",
+    "totalOccurrences": 97,
+    "examsAppeared": 16,
+    "listeningCount": 60,
+    "readingCount": 3,
+    "grammarCount": 14,
+    "vocabularyCount": 20
+  },
+  {
+    "word": "很多",
+    "totalOccurrences": 97,
+    "examsAppeared": 15,
+    "listeningCount": 68,
+    "readingCount": 4,
+    "grammarCount": 10,
+    "vocabularyCount": 15
+  },
+  {
+    "word": "知道",
+    "totalOccurrences": 87,
+    "examsAppeared": 15,
+    "listeningCount": 58,
+    "readingCount": 1,
+    "grammarCount": 12,
+    "vocabularyCount": 16
+  },
+  {
+    "word": "开始",
+    "totalOccurrences": 83,
+    "examsAppeared": 14,
+    "listeningCount": 60,
+    "readingCount": 4,
+    "grammarCount": 10,
+    "vocabularyCount": 9
+  },
+  {
+    "word": "今天",
+    "totalOccurrences": 81,
+    "examsAppeared": 15,
+    "listeningCount": 74,
+    "readingCount": 0,
+    "grammarCount": 1,
+    "vocabularyCount": 6
+  },
+  {
+    "word": "主要",
+    "totalOccurrences": 76,
+    "examsAppeared": 16,
+    "listeningCount": 46,
+    "readingCount": 3,
+    "grammarCount": 7,
+    "vocabularyCount": 20
+  },
+  {
+    "word": "没有",
+    "totalOccurrences": 76,
+    "examsAppeared": 15,
+    "listeningCount": 47,
+    "readingCount": 1,
+    "grammarCount": 4,
+    "vocabularyCount": 24
+  },
+  {
+    "word": "分钟",
+    "totalOccurrences": 74,
+    "examsAppeared": 11,
+    "listeningCount": 71,
+    "readingCount": 0,
+    "grammarCount": 2,
+    "vocabularyCount": 1
+  },
+  {
+    "word": "所以",
+    "totalOccurrences": 72,
+    "examsAppeared": 15,
+    "listeningCount": 53,
+    "readingCount": 2,
+    "grammarCount": 4,
+    "vocabularyCount": 13
+  },
+  {
+    "word": "应该",
+    "totalOccurrences": 71,
+    "examsAppeared": 16,
+    "listeningCount": 40,
+    "readingCount": 4,
+    "grammarCount": 5,
+    "vocabularyCount": 22
+  },
+  {
+    "word": "觉得",
+    "totalOccurrences": 69,
+    "examsAppeared": 15,
+    "listeningCount": 49,
+    "readingCount": 1,
+    "grammarCount": 4,
+    "vocabularyCount": 15
+  },
+  {
+    "word": "工作",
+    "totalOccurrences": 68,
+    "examsAppeared": 15,
+    "listeningCount": 44,
+    "readingCount": 1,
+    "grammarCount": 6,
+    "vocabularyCount": 17
+  },
+  {
+    "word": "正确",
+    "totalOccurrences": 67,
+    "examsAppeared": 15,
+    "listeningCount": 58,
+    "readingCount": 0,
+    "grammarCount": 2,
+    "vocabularyCount": 7
+  },
+  {
+    "word": "不要",
+    "totalOccurrences": 67,
+    "examsAppeared": 13,
+    "listeningCount": 34,
+    "readingCount": 2,
+    "grammarCount": 5,
+    "vocabularyCount": 26
+  },
+  {
+    "word": "四级",
+    "totalOccurrences": 66,
+    "examsAppeared": 14,
+    "listeningCount": 50,
+    "readingCount": 0,
+    "grammarCount": 16,
+    "vocabularyCount": 0
+  },
+  {
+    "word": "人们",
+    "totalOccurrences": 66,
+    "examsAppeared": 14,
+    "listeningCount": 34,
+    "readingCount": 1,
+    "grammarCount": 6,
+    "vocabularyCount": 25
+  },
+  {
+    "word": "时候",
+    "totalOccurrences": 66,
+    "examsAppeared": 14,
+    "listeningCount": 45,
+    "readingCount": 2,
+    "grammarCount": 5,
+    "vocabularyCount": 14
+  },
+  {
+    "word": "听力",
+    "totalOccurrences": 62,
+    "examsAppeared": 14,
+    "listeningCount": 50,
+    "readingCount": 0,
+    "grammarCount": 12,
+    "vocabularyCount": 0
+  },
+  {
+    "word": "怎么样",
+    "totalOccurrences": 62,
+    "examsAppeared": 11,
+    "listeningCount": 57,
+    "readingCount": 1,
+    "grammarCount": 1,
+    "vocabularyCount": 3
+  },
+  {
+    "word": "孩子",
+    "totalOccurrences": 62,
+    "examsAppeared": 14,
+    "listeningCount": 24,
+    "readingCount": 1,
+    "grammarCount": 4,
+    "vocabularyCount": 33
+  },
+  {
+    "word": "明天",
+    "totalOccurrences": 61,
+    "examsAppeared": 15,
+    "listeningCount": 49,
+    "readingCount": 2,
+    "grammarCount": 4,
+    "vocabularyCount": 6
+  },
+  {
+    "word": "生活",
+    "totalOccurrences": 61,
+    "examsAppeared": 14,
+    "listeningCount": 41,
+    "readingCount": 3,
+    "grammarCount": 4,
+    "vocabularyCount": 13
+  },
+  {
+    "word": "不管",
+    "totalOccurrences": 60,
+    "examsAppeared": 15,
+    "listeningCount": 49,
+    "readingCount": 2,
+    "grammarCount": 6,
+    "vocabularyCount": 3
+  },
+  {
+    "word": "事情",
+    "totalOccurrences": 60,
+    "examsAppeared": 15,
+    "listeningCount": 42,
+    "readingCount": 1,
+    "grammarCount": 1,
+    "vocabularyCount": 16
+  },
+  {
+    "word": "广告",
+    "totalOccurrences": 59,
+    "examsAppeared": 14,
+    "listeningCount": 44,
+    "readingCount": 3,
+    "grammarCount": 6,
+    "vocabularyCount": 6
+  },
+  {
+    "word": "一下",
+    "totalOccurrences": 58,
+    "examsAppeared": 16,
+    "listeningCount": 45,
+    "readingCount": 4,
+    "grammarCount": 2,
+    "vocabularyCount": 7
+  },
+  {
+    "word": "参加",
+    "totalOccurrences": 58,
+    "examsAppeared": 14,
+    "listeningCount": 40,
+    "readingCount": 0,
+    "grammarCount": 12,
+    "vocabularyCount": 6
+  },
+  {
+    "word": "关于",
+    "totalOccurrences": 57,
+    "examsAppeared": 15,
+    "listeningCount": 40,
+    "readingCount": 1,
+    "grammarCount": 5,
+    "vocabularyCount": 11
+  },
+  {
+    "word": "问题",
+    "totalOccurrences": 53,
+    "examsAppeared": 14,
+    "listeningCount": 40,
+    "readingCount": 0,
+    "grammarCount": 3,
+    "vocabularyCount": 10
+  },
+  {
+    "word": "为什么",
+    "totalOccurrences": 53,
+    "examsAppeared": 13,
+    "listeningCount": 38,
+    "readingCount": 1,
+    "grammarCount": 5,
+    "vocabularyCount": 9
+  },
+  {
+    "word": "中国",
+    "totalOccurrences": 52,
+    "examsAppeared": 14,
+    "listeningCount": 39,
+    "readingCount": 0,
+    "grammarCount": 1,
+    "vocabularyCount": 12
+  },
+  {
+    "word": "非常",
+    "totalOccurrences": 52,
+    "examsAppeared": 15,
+    "listeningCount": 33,
+    "readingCount": 1,
+    "grammarCount": 5,
+    "vocabularyCount": 13
+  },
+  {
+    "word": "不能",
+    "totalOccurrences": 51,
+    "examsAppeared": 13,
+    "listeningCount": 23,
+    "readingCount": 1,
+    "grammarCount": 4,
+    "vocabularyCount": 23
+  },
+  {
+    "word": "需要",
+    "totalOccurrences": 50,
+    "examsAppeared": 16,
+    "listeningCount": 30,
+    "readingCount": 5,
+    "grammarCount": 2,
+    "vocabularyCount": 13
+  },
+  {
+    "word": "可能",
+    "totalOccurrences": 50,
+    "examsAppeared": 15,
+    "listeningCount": 35,
+    "readingCount": 1,
+    "grammarCount": 0,
+    "vocabularyCount": 14
+  },
+  {
+    "word": "重要",
+    "totalOccurrences": 50,
+    "examsAppeared": 15,
+    "listeningCount": 25,
+    "readingCount": 1,
+    "grammarCount": 6,
+    "vocabularyCount": 18
+  },
+  {
+    "word": "怎么",
+    "totalOccurrences": 49,
+    "examsAppeared": 13,
+    "listeningCount": 42,
+    "readingCount": 0,
+    "grammarCount": 2,
+    "vocabularyCount": 5
+  },
+  {
+    "word": "如果",
+    "totalOccurrences": 48,
+    "examsAppeared": 14,
+    "listeningCount": 24,
+    "readingCount": 3,
+    "grammarCount": 6,
+    "vocabularyCount": 15
+  },
+  {
+    "word": "意思",
+    "totalOccurrences": 47,
+    "examsAppeared": 15,
+    "listeningCount": 37,
+    "readingCount": 3,
+    "grammarCount": 1,
+    "vocabularyCount": 6
+  },
+  {
+    "word": "不是",
+    "totalOccurrences": 47,
+    "examsAppeared": 16,
+    "listeningCount": 39,
+    "readingCount": 0,
+    "grammarCount": 1,
+    "vocabularyCount": 7
+  },
+  {
+    "word": "因为",
+    "totalOccurrences": 47,
+    "examsAppeared": 14,
+    "listeningCount": 25,
+    "readingCount": 5,
+    "grammarCount": 4,
+    "vocabularyCount": 13
+  },
+  {
+    "word": "小时",
+    "totalOccurrences": 46,
+    "examsAppeared": 14,
+    "listeningCount": 37,
+    "readingCount": 1,
+    "grammarCount": 4,
+    "vocabularyCount": 4
+  },
+  {
+    "word": "注意",
+    "totalOccurrences": 46,
+    "examsAppeared": 15,
+    "listeningCount": 20,
+    "readingCount": 3,
+    "grammarCount": 5,
+    "vocabularyCount": 18
+  },
+  {
+    "word": "答案",
+    "totalOccurrences": 45,
+    "examsAppeared": 13,
+    "listeningCount": 43,
+    "readingCount": 0,
+    "grammarCount": 2,
+    "vocabularyCount": 0
+  },
+  {
+    "word": "下午",
+    "totalOccurrences": 45,
+    "examsAppeared": 14,
+    "listeningCount": 45,
+    "readingCount": 0,
+    "grammarCount": 0,
+    "vocabularyCount": 0
+  },
+  {
+    "word": "看到",
+    "totalOccurrences": 44,
+    "examsAppeared": 15,
+    "listeningCount": 32,
+    "readingCount": 2,
+    "grammarCount": 8,
+    "vocabularyCount": 2
+  },
+  {
+    "word": "那么",
+    "totalOccurrences": 44,
+    "examsAppeared": 15,
+    "listeningCount": 33,
+    "readingCount": 1,
+    "grammarCount": 3,
+    "vocabularyCount": 7
+  },
+  {
+    "word": "会议室",
+    "totalOccurrences": 44,
+    "examsAppeared": 14,
+    "listeningCount": 42,
+    "readingCount": 0,
+    "grammarCount": 2,
+    "vocabularyCount": 0
+  },
+  {
+    "word": "告诉",
+    "totalOccurrences": 44,
+    "examsAppeared": 14,
+    "listeningCount": 24,
+    "readingCount": 1,
+    "grammarCount": 4,
+    "vocabularyCount": 15
+  },
+  {
+    "word": "机场",
+    "totalOccurrences": 43,
+    "examsAppeared": 14,
+    "listeningCount": 37,
+    "readingCount": 4,
+    "grammarCount": 0,
+    "vocabularyCount": 2
+  },
+  {
+    "word": "历史",
+    "totalOccurrences": 43,
+    "examsAppeared": 15,
+    "listeningCount": 13,
+    "readingCount": 0,
+    "grammarCount": 20,
+    "vocabularyCount": 10
+  },
+  {
+    "word": "很少",
+    "totalOccurrences": 42,
+    "examsAppeared": 14,
+    "listeningCount": 28,
+    "readingCount": 3,
+    "grammarCount": 3,
+    "vocabularyCount": 8
+  },
+  {
+    "word": "已经",
+    "totalOccurrences": 42,
+    "examsAppeared": 13,
+    "listeningCount": 24,
+    "readingCount": 0,
+    "grammarCount": 8,
+    "vocabularyCount": 10
+  },
+  {
+    "word": "说话",
+    "totalOccurrences": 41,
+    "examsAppeared": 15,
+    "listeningCount": 36,
+    "readingCount": 0,
+    "grammarCount": 0,
+    "vocabularyCount": 5
+  },
+  {
+    "word": "欢迎",
+    "totalOccurrences": 41,
+    "examsAppeared": 13,
+    "listeningCount": 27,
+    "readingCount": 0,
+    "grammarCount": 12,
+    "vocabularyCount": 2
+  },
+  {
+    "word": "一次",
+    "totalOccurrences": 41,
+    "examsAppeared": 13,
+    "listeningCount": 30,
+    "readingCount": 5,
+    "grammarCount": 4,
+    "vocabularyCount": 2
+  },
+  {
+    "word": "东西",
+    "totalOccurrences": 41,
+    "examsAppeared": 13,
+    "listeningCount": 22,
+    "readingCount": 1,
+    "grammarCount": 3,
+    "vocabularyCount": 15
+  },
+  {
+    "word": "银行",
+    "totalOccurrences": 40,
+    "examsAppeared": 14,
+    "listeningCount": 34,
+    "readingCount": 0,
+    "grammarCount": 5,
+    "vocabularyCount": 1
+  },
+  {
+    "word": "还是",
+    "totalOccurrences": 40,
+    "examsAppeared": 14,
+    "listeningCount": 31,
+    "readingCount": 0,
+    "grammarCount": 4,
+    "vocabularyCount": 5
+  },
+  {
+    "word": "一会儿",
+    "totalOccurrences": 39,
+    "examsAppeared": 14,
+    "listeningCount": 37,
+    "readingCount": 0,
+    "grammarCount": 0,
+    "vocabularyCount": 2
+  },
+  {
+    "word": "三点",
+    "totalOccurrences": 39,
+    "examsAppeared": 14,
+    "listeningCount": 39,
+    "readingCount": 0,
+    "grammarCount": 0,
+    "vocabularyCount": 0
+  },
+  {
+    "word": "一共",
+    "totalOccurrences": 39,
+    "examsAppeared": 15,
+    "listeningCount": 29,
+    "readingCount": 4,
+    "grammarCount": 4,
+    "vocabularyCount": 2
+  },
+  {
+    "word": "地方",
+    "totalOccurrences": 39,
+    "examsAppeared": 12,
+    "listeningCount": 18,
+    "readingCount": 0,
+    "grammarCount": 6,
+    "vocabularyCount": 15
+  },
+  {
+    "word": "只要",
+    "totalOccurrences": 38,
+    "examsAppeared": 15,
+    "listeningCount": 31,
+    "readingCount": 2,
+    "grammarCount": 3,
+    "vocabularyCount": 2
+  },
+  {
+    "word": "这样",
+    "totalOccurrences": 38,
+    "examsAppeared": 16,
+    "listeningCount": 20,
+    "readingCount": 1,
+    "grammarCount": 0,
+    "vocabularyCount": 17
+  },
+  {
+    "word": "电视",
+    "totalOccurrences": 37,
+    "examsAppeared": 14,
+    "listeningCount": 33,
+    "readingCount": 1,
+    "grammarCount": 3,
+    "vocabularyCount": 0
+  },
+  {
+    "word": "下面",
+    "totalOccurrences": 37,
+    "examsAppeared": 7,
+    "listeningCount": 36,
+    "readingCount": 0,
+    "grammarCount": 0,
+    "vocabularyCount": 1
+  },
+  {
+    "word": "公司",
+    "totalOccurrences": 36,
+    "examsAppeared": 15,
+    "listeningCount": 32,
+    "readingCount": 0,
+    "grammarCount": 0,
+    "vocabularyCount": 4
+  },
+  {
+    "word": "那个",
+    "totalOccurrences": 36,
+    "examsAppeared": 11,
+    "listeningCount": 22,
+    "readingCount": 1,
+    "grammarCount": 2,
+    "vocabularyCount": 11
+  },
+  {
+    "word": "会议",
+    "totalOccurrences": 35,
+    "examsAppeared": 15,
+    "listeningCount": 33,
+    "readingCount": 1,
+    "grammarCount": 0,
+    "vocabularyCount": 1
+  },
+  {
+    "word": "总能",
+    "totalOccurrences": 35,
+    "examsAppeared": 15,
+    "listeningCount": 31,
+    "readingCount": 1,
+    "grammarCount": 3,
+    "vocabularyCount": 0
+  },
+  {
+    "word": "不错",
+    "totalOccurrences": 35,
+    "examsAppeared": 14,
+    "listeningCount": 26,
+    "readingCount": 1,
+    "grammarCount": 1,
+    "vocabularyCount": 7
+  },
+  {
+    "word": "这儿",
+    "totalOccurrences": 35,
+    "examsAppeared": 12,
+    "listeningCount": 35,
+    "readingCount": 0,
+    "grammarCount": 0,
+    "vocabularyCount": 0
+  },
+  {
+    "word": "成功",
+    "totalOccurrences": 35,
+    "examsAppeared": 12,
+    "listeningCount": 26,
+    "readingCount": 0,
+    "grammarCount": 1,
+    "vocabularyCount": 8
+  },
+  {
+    "word": "一段话",
+    "totalOccurrences": 35,
+    "examsAppeared": 7,
+    "listeningCount": 35,
+    "readingCount": 0,
+    "grammarCount": 0,
+    "vocabularyCount": 0
+  },
+  {
+    "word": "原因",
+    "totalOccurrences": 34,
+    "examsAppeared": 15,
+    "listeningCount": 24,
+    "readingCount": 1,
+    "grammarCount": 4,
+    "vocabularyCount": 5
+  },
+  {
+    "word": "选出",
+    "totalOccurrences": 34,
+    "examsAppeared": 12,
+    "listeningCount": 34,
+    "readingCount": 0,
+    "grammarCount": 0,
+    "vocabularyCount": 0
+  },
+  {
+    "word": "加油站",
+    "totalOccurrences": 34,
+    "examsAppeared": 14,
+    "listeningCount": 29,
+    "readingCount": 3,
+    "grammarCount": 2,
+    "vocabularyCount": 0
+  },
+  {
+    "word": "一直",
+    "totalOccurrences": 34,
+    "examsAppeared": 13,
+    "listeningCount": 24,
+    "readingCount": 0,
+    "grammarCount": 1,
+    "vocabularyCount": 9
+  },
+  {
+    "word": "朋友",
+    "totalOccurrences": 34,
+    "examsAppeared": 13,
+    "listeningCount": 17,
+    "readingCount": 1,
+    "grammarCount": 1,
+    "vocabularyCount": 15
+  },
+  {
+    "word": "第一",
+    "totalOccurrences": 33,
+    "examsAppeared": 13,
+    "listeningCount": 18,
+    "readingCount": 0,
+    "grammarCount": 12,
+    "vocabularyCount": 3
+  },
+  {
+    "word": "幸福",
+    "totalOccurrences": 33,
+    "examsAppeared": 12,
+    "listeningCount": 18,
+    "readingCount": 1,
+    "grammarCount": 10,
+    "vocabularyCount": 4
+  },
+  {
+    "word": "一些",
+    "totalOccurrences": 33,
+    "examsAppeared": 11,
+    "listeningCount": 18,
+    "readingCount": 3,
+    "grammarCount": 0,
+    "vocabularyCount": 12
+  },
+  {
+    "word": "每天",
+    "totalOccurrences": 32,
+    "examsAppeared": 14,
+    "listeningCount": 23,
+    "readingCount": 2,
+    "grammarCount": 1,
+    "vocabularyCount": 6
+  }
+]

@@ -1,0 +1,818 @@
+[
+  {
+    "examA": "H41218",
+    "examB": "H41219",
+    "jaccardSimilarity": 0.4649,
+    "sharedWords": 695
+  },
+  {
+    "examA": "H41008",
+    "examB": "H41218",
+    "jaccardSimilarity": 0.4531,
+    "sharedWords": 686
+  },
+  {
+    "examA": "H41008",
+    "examB": "H41219",
+    "jaccardSimilarity": 0.4468,
+    "sharedWords": 685
+  },
+  {
+    "examA": "H41006",
+    "examB": "H41219",
+    "jaccardSimilarity": 0.4459,
+    "sharedWords": 680
+  },
+  {
+    "examA": "H41006",
+    "examB": "H41218",
+    "jaccardSimilarity": 0.4455,
+    "sharedWords": 674
+  },
+  {
+    "examA": "H41006",
+    "examB": "H41008",
+    "jaccardSimilarity": 0.4411,
+    "sharedWords": 678
+  },
+  {
+    "examA": "H41007",
+    "examB": "H41008",
+    "jaccardSimilarity": 0.4338,
+    "sharedWords": 580
+  },
+  {
+    "examA": "H41004",
+    "examB": "H41008",
+    "jaccardSimilarity": 0.4293,
+    "sharedWords": 604
+  },
+  {
+    "examA": "H41004",
+    "examB": "H41218",
+    "jaccardSimilarity": 0.4287,
+    "sharedWords": 595
+  },
+  {
+    "examA": "H41005",
+    "examB": "H41218",
+    "jaccardSimilarity": 0.4197,
+    "sharedWords": 583
+  },
+  {
+    "examA": "H41005",
+    "examB": "H41006",
+    "jaccardSimilarity": 0.4193,
+    "sharedWords": 587
+  },
+  {
+    "examA": "H41004",
+    "examB": "H41006",
+    "jaccardSimilarity": 0.419,
+    "sharedWords": 590
+  },
+  {
+    "examA": "H41004",
+    "examB": "H41219",
+    "jaccardSimilarity": 0.4181,
+    "sharedWords": 590
+  },
+  {
+    "examA": "H41004",
+    "examB": "H41005",
+    "jaccardSimilarity": 0.414,
+    "sharedWords": 522
+  },
+  {
+    "examA": "H41003",
+    "examB": "H41004",
+    "jaccardSimilarity": 0.4131,
+    "sharedWords": 511
+  },
+  {
+    "examA": "H41005",
+    "examB": "H41008",
+    "jaccardSimilarity": 0.4104,
+    "sharedWords": 582
+  },
+  {
+    "examA": "H41005",
+    "examB": "H41219",
+    "jaccardSimilarity": 0.3994,
+    "sharedWords": 568
+  },
+  {
+    "examA": "H41003",
+    "examB": "H41008",
+    "jaccardSimilarity": 0.3986,
+    "sharedWords": 560
+  },
+  {
+    "examA": "H41003",
+    "examB": "H41219",
+    "jaccardSimilarity": 0.3984,
+    "sharedWords": 557
+  },
+  {
+    "examA": "H41003",
+    "examB": "H41006",
+    "jaccardSimilarity": 0.3983,
+    "sharedWords": 556
+  },
+  {
+    "examA": "H41003",
+    "examB": "H41005",
+    "jaccardSimilarity": 0.3974,
+    "sharedWords": 494
+  },
+  {
+    "examA": "H41003",
+    "examB": "H41218",
+    "jaccardSimilarity": 0.3955,
+    "sharedWords": 549
+  },
+  {
+    "examA": "H41002",
+    "examB": "H41008",
+    "jaccardSimilarity": 0.3874,
+    "sharedWords": 549
+  },
+  {
+    "examA": "H41002",
+    "examB": "H41005",
+    "jaccardSimilarity": 0.3871,
+    "sharedWords": 485
+  },
+  {
+    "examA": "H41002",
+    "examB": "H41218",
+    "jaccardSimilarity": 0.3843,
+    "sharedWords": 538
+  },
+  {
+    "examA": "H41002",
+    "examB": "H41006",
+    "jaccardSimilarity": 0.3841,
+    "sharedWords": 542
+  },
+  {
+    "examA": "H41002",
+    "examB": "H41004",
+    "jaccardSimilarity": 0.3804,
+    "sharedWords": 482
+  },
+  {
+    "examA": "H41005",
+    "examB": "H41007",
+    "jaccardSimilarity": 0.3799,
+    "sharedWords": 465
+  },
+  {
+    "examA": "H41219",
+    "examB": "H41330",
+    "jaccardSimilarity": 0.3795,
+    "sharedWords": 529
+  },
+  {
+    "examA": "H41007",
+    "examB": "H41218",
+    "jaccardSimilarity": 0.3758,
+    "sharedWords": 516
+  },
+  {
+    "examA": "H41004",
+    "examB": "H41330",
+    "jaccardSimilarity": 0.3728,
+    "sharedWords": 466
+  },
+  {
+    "examA": "H41004",
+    "examB": "H41007",
+    "jaccardSimilarity": 0.3699,
+    "sharedWords": 459
+  },
+  {
+    "examA": "H41002",
+    "examB": "H41219",
+    "jaccardSimilarity": 0.3688,
+    "sharedWords": 527
+  },
+  {
+    "examA": "H41006",
+    "examB": "H41007",
+    "jaccardSimilarity": 0.3688,
+    "sharedWords": 513
+  },
+  {
+    "examA": "H41218",
+    "examB": "H41330",
+    "jaccardSimilarity": 0.3676,
+    "sharedWords": 512
+  },
+  {
+    "examA": "H41005",
+    "examB": "H41330",
+    "jaccardSimilarity": 0.3662,
+    "sharedWords": 457
+  },
+  {
+    "examA": "H41007",
+    "examB": "H41219",
+    "jaccardSimilarity": 0.366,
+    "sharedWords": 511
+  },
+  {
+    "examA": "H41328",
+    "examB": "H41330",
+    "jaccardSimilarity": 0.3654,
+    "sharedWords": 433
+  },
+  {
+    "examA": "H41002",
+    "examB": "H41003",
+    "jaccardSimilarity": 0.3635,
+    "sharedWords": 454
+  },
+  {
+    "examA": "H41005",
+    "examB": "H41328",
+    "jaccardSimilarity": 0.3611,
+    "sharedWords": 447
+  },
+  {
+    "examA": "H41219",
+    "examB": "H41220",
+    "jaccardSimilarity": 0.3611,
+    "sharedWords": 494
+  },
+  {
+    "examA": "H41003",
+    "examB": "H41007",
+    "jaccardSimilarity": 0.3591,
+    "sharedWords": 437
+  },
+  {
+    "examA": "H41002",
+    "examB": "H41007",
+    "jaccardSimilarity": 0.3577,
+    "sharedWords": 436
+  },
+  {
+    "examA": "H41003",
+    "examB": "H41330",
+    "jaccardSimilarity": 0.3577,
+    "sharedWords": 440
+  },
+  {
+    "examA": "H41006",
+    "examB": "H41330",
+    "jaccardSimilarity": 0.3569,
+    "sharedWords": 505
+  },
+  {
+    "examA": "H41218",
+    "examB": "H41328",
+    "jaccardSimilarity": 0.3551,
+    "sharedWords": 494
+  },
+  {
+    "examA": "H41004",
+    "examB": "H41328",
+    "jaccardSimilarity": 0.3525,
+    "sharedWords": 442
+  },
+  {
+    "examA": "H41008",
+    "examB": "H41330",
+    "jaccardSimilarity": 0.3508,
+    "sharedWords": 502
+  },
+  {
+    "examA": "H41219",
+    "examB": "H41328",
+    "jaccardSimilarity": 0.3506,
+    "sharedWords": 494
+  },
+  {
+    "examA": "H41218",
+    "examB": "H41220",
+    "jaccardSimilarity": 0.3499,
+    "sharedWords": 478
+  },
+  {
+    "examA": "H41008",
+    "examB": "H41328",
+    "jaccardSimilarity": 0.3453,
+    "sharedWords": 491
+  },
+  {
+    "examA": "H41008",
+    "examB": "H41220",
+    "jaccardSimilarity": 0.3448,
+    "sharedWords": 480
+  },
+  {
+    "examA": "H41003",
+    "examB": "H41328",
+    "jaccardSimilarity": 0.3447,
+    "sharedWords": 423
+  },
+  {
+    "examA": "H41219",
+    "examB": "H41221",
+    "jaccardSimilarity": 0.3445,
+    "sharedWords": 482
+  },
+  {
+    "examA": "H41006",
+    "examB": "H41328",
+    "jaccardSimilarity": 0.3437,
+    "sharedWords": 486
+  },
+  {
+    "examA": "H41002",
+    "examB": "H41330",
+    "jaccardSimilarity": 0.3422,
+    "sharedWords": 426
+  },
+  {
+    "examA": "H41006",
+    "examB": "H41221",
+    "jaccardSimilarity": 0.3414,
+    "sharedWords": 478
+  },
+  {
+    "examA": "H41218",
+    "examB": "H41221",
+    "jaccardSimilarity": 0.3413,
+    "sharedWords": 474
+  },
+  {
+    "examA": "H41008",
+    "examB": "H41221",
+    "jaccardSimilarity": 0.3402,
+    "sharedWords": 480
+  },
+  {
+    "examA": "H41006",
+    "examB": "H41220",
+    "jaccardSimilarity": 0.3374,
+    "sharedWords": 469
+  },
+  {
+    "examA": "H41007",
+    "examB": "H41330",
+    "jaccardSimilarity": 0.3372,
+    "sharedWords": 409
+  },
+  {
+    "examA": "H41007",
+    "examB": "H41328",
+    "jaccardSimilarity": 0.3306,
+    "sharedWords": 398
+  },
+  {
+    "examA": "H41004",
+    "examB": "H41221",
+    "jaccardSimilarity": 0.3286,
+    "sharedWords": 414
+  },
+  {
+    "examA": "H41005",
+    "examB": "H41221",
+    "jaccardSimilarity": 0.3283,
+    "sharedWords": 411
+  },
+  {
+    "examA": "H41005",
+    "examB": "H41220",
+    "jaccardSimilarity": 0.3279,
+    "sharedWords": 406
+  },
+  {
+    "examA": "H41004",
+    "examB": "H41220",
+    "jaccardSimilarity": 0.3272,
+    "sharedWords": 408
+  },
+  {
+    "examA": "H41003",
+    "examB": "H41220",
+    "jaccardSimilarity": 0.3265,
+    "sharedWords": 396
+  },
+  {
+    "examA": "H41220",
+    "examB": "H41221",
+    "jaccardSimilarity": 0.321,
+    "sharedWords": 373
+  },
+  {
+    "examA": "H41002",
+    "examB": "H41328",
+    "jaccardSimilarity": 0.3197,
+    "sharedWords": 400
+  },
+  {
+    "examA": "H41220",
+    "examB": "H41330",
+    "jaccardSimilarity": 0.3186,
+    "sharedWords": 381
+  },
+  {
+    "examA": "H41007",
+    "examB": "H41220",
+    "jaccardSimilarity": 0.3052,
+    "sharedWords": 365
+  },
+  {
+    "examA": "H41002",
+    "examB": "H41220",
+    "jaccardSimilarity": 0.3047,
+    "sharedWords": 376
+  },
+  {
+    "examA": "H41003",
+    "examB": "H41221",
+    "jaccardSimilarity": 0.3045,
+    "sharedWords": 380
+  },
+  {
+    "examA": "H41002",
+    "examB": "H41221",
+    "jaccardSimilarity": 0.3011,
+    "sharedWords": 377
+  },
+  {
+    "examA": "H41007",
+    "examB": "H41221",
+    "jaccardSimilarity": 0.2887,
+    "sharedWords": 354
+  },
+  {
+    "examA": "H41220",
+    "examB": "H41328",
+    "jaccardSimilarity": 0.2868,
+    "sharedWords": 347
+  },
+  {
+    "examA": "H41221",
+    "examB": "H41328",
+    "jaccardSimilarity": 0.2844,
+    "sharedWords": 349
+  },
+  {
+    "examA": "H41221",
+    "examB": "H41330",
+    "jaccardSimilarity": 0.283,
+    "sharedWords": 352
+  },
+  {
+    "examA": "H41006",
+    "examB": "H41009",
+    "jaccardSimilarity": 0.2824,
+    "sharedWords": 353
+  },
+  {
+    "examA": "H41004",
+    "examB": "H41329",
+    "jaccardSimilarity": 0.262,
+    "sharedWords": 290
+  },
+  {
+    "examA": "H41009",
+    "examB": "H41218",
+    "jaccardSimilarity": 0.2583,
+    "sharedWords": 326
+  },
+  {
+    "examA": "H41218",
+    "examB": "H41329",
+    "jaccardSimilarity": 0.2528,
+    "sharedWords": 320
+  },
+  {
+    "examA": "H41329",
+    "examB": "H41330",
+    "jaccardSimilarity": 0.2514,
+    "sharedWords": 265
+  },
+  {
+    "examA": "H41009",
+    "examB": "H41220",
+    "jaccardSimilarity": 0.25,
+    "sharedWords": 252
+  },
+  {
+    "examA": "H41009",
+    "examB": "H41221",
+    "jaccardSimilarity": 0.249,
+    "sharedWords": 255
+  },
+  {
+    "examA": "H41005",
+    "examB": "H41329",
+    "jaccardSimilarity": 0.2486,
+    "sharedWords": 276
+  },
+  {
+    "examA": "H41219",
+    "examB": "H41329",
+    "jaccardSimilarity": 0.2482,
+    "sharedWords": 319
+  },
+  {
+    "examA": "H41328",
+    "examB": "H41329",
+    "jaccardSimilarity": 0.2478,
+    "sharedWords": 258
+  },
+  {
+    "examA": "H41009",
+    "examB": "H41219",
+    "jaccardSimilarity": 0.2459,
+    "sharedWords": 317
+  },
+  {
+    "examA": "H41005",
+    "examB": "H41009",
+    "jaccardSimilarity": 0.2426,
+    "sharedWords": 271
+  },
+  {
+    "examA": "H41008",
+    "examB": "H41009",
+    "jaccardSimilarity": 0.2421,
+    "sharedWords": 315
+  },
+  {
+    "examA": "H41003",
+    "examB": "H41329",
+    "jaccardSimilarity": 0.2406,
+    "sharedWords": 262
+  },
+  {
+    "examA": "H41004",
+    "examB": "H41009",
+    "jaccardSimilarity": 0.237,
+    "sharedWords": 268
+  },
+  {
+    "examA": "H41006",
+    "examB": "H41329",
+    "jaccardSimilarity": 0.2363,
+    "sharedWords": 306
+  },
+  {
+    "examA": "H41008",
+    "examB": "H41329",
+    "jaccardSimilarity": 0.2339,
+    "sharedWords": 306
+  },
+  {
+    "examA": "H41002",
+    "examB": "H41329",
+    "jaccardSimilarity": 0.2325,
+    "sharedWords": 255
+  },
+  {
+    "examA": "H41007",
+    "examB": "H41329",
+    "jaccardSimilarity": 0.2258,
+    "sharedWords": 240
+  },
+  {
+    "examA": "H41003",
+    "examB": "H41009",
+    "jaccardSimilarity": 0.2244,
+    "sharedWords": 248
+  },
+  {
+    "examA": "H41221",
+    "examB": "H41329",
+    "jaccardSimilarity": 0.2244,
+    "sharedWords": 234
+  },
+  {
+    "examA": "H41220",
+    "examB": "H41329",
+    "jaccardSimilarity": 0.2225,
+    "sharedWords": 229
+  },
+  {
+    "examA": "H41002",
+    "examB": "H41009",
+    "jaccardSimilarity": 0.2176,
+    "sharedWords": 242
+  },
+  {
+    "examA": "H41007",
+    "examB": "H41009",
+    "jaccardSimilarity": 0.2095,
+    "sharedWords": 226
+  },
+  {
+    "examA": "H41009",
+    "examB": "H41330",
+    "jaccardSimilarity": 0.2031,
+    "sharedWords": 223
+  },
+  {
+    "examA": "H41009",
+    "examB": "H41328",
+    "jaccardSimilarity": 0.1991,
+    "sharedWords": 216
+  },
+  {
+    "examA": "H41009",
+    "examB": "H41329",
+    "jaccardSimilarity": 0.157,
+    "sharedWords": 136
+  },
+  {
+    "examA": "H41327",
+    "examB": "H41329",
+    "jaccardSimilarity": 0.1037,
+    "sharedWords": 59
+  },
+  {
+    "examA": "H41005",
+    "examB": "H41327",
+    "jaccardSimilarity": 0.0799,
+    "sharedWords": 75
+  },
+  {
+    "examA": "H41327",
+    "examB": "H41330",
+    "jaccardSimilarity": 0.0786,
+    "sharedWords": 69
+  },
+  {
+    "examA": "H41004",
+    "examB": "H41327",
+    "jaccardSimilarity": 0.0778,
+    "sharedWords": 74
+  },
+  {
+    "examA": "H41219",
+    "examB": "H41327",
+    "jaccardSimilarity": 0.0769,
+    "sharedWords": 88
+  },
+  {
+    "examA": "H41327",
+    "examB": "H41328",
+    "jaccardSimilarity": 0.0767,
+    "sharedWords": 66
+  },
+  {
+    "examA": "H41220",
+    "examB": "H41327",
+    "jaccardSimilarity": 0.0765,
+    "sharedWords": 63
+  },
+  {
+    "examA": "H41218",
+    "examB": "H41327",
+    "jaccardSimilarity": 0.0753,
+    "sharedWords": 85
+  },
+  {
+    "examA": "H41002",
+    "examB": "H41327",
+    "jaccardSimilarity": 0.0746,
+    "sharedWords": 68
+  },
+  {
+    "examA": "H41006",
+    "examB": "H41327",
+    "jaccardSimilarity": 0.0743,
+    "sharedWords": 85
+  },
+  {
+    "examA": "H41008",
+    "examB": "H41327",
+    "jaccardSimilarity": 0.0725,
+    "sharedWords": 84
+  },
+  {
+    "examA": "H41003",
+    "examB": "H41327",
+    "jaccardSimilarity": 0.0723,
+    "sharedWords": 66
+  },
+  {
+    "examA": "H41221",
+    "examB": "H41327",
+    "jaccardSimilarity": 0.0723,
+    "sharedWords": 61
+  },
+  {
+    "examA": "H41007",
+    "examB": "H41327",
+    "jaccardSimilarity": 0.0689,
+    "sharedWords": 60
+  },
+  {
+    "examA": "H41009",
+    "examB": "H41327",
+    "jaccardSimilarity": 0.0588,
+    "sharedWords": 35
+  },
+  {
+    "examA": "H41001",
+    "examB": "H41002",
+    "jaccardSimilarity": 0.0277,
+    "sharedWords": 24
+  },
+  {
+    "examA": "H41001",
+    "examB": "H41328",
+    "jaccardSimilarity": 0.027,
+    "sharedWords": 22
+  },
+  {
+    "examA": "H41001",
+    "examB": "H41007",
+    "jaccardSimilarity": 0.0256,
+    "sharedWords": 21
+  },
+  {
+    "examA": "H41001",
+    "examB": "H41006",
+    "jaccardSimilarity": 0.0252,
+    "sharedWords": 28
+  },
+  {
+    "examA": "H41001",
+    "examB": "H41330",
+    "jaccardSimilarity": 0.0251,
+    "sharedWords": 21
+  },
+  {
+    "examA": "H41001",
+    "examB": "H41008",
+    "jaccardSimilarity": 0.0249,
+    "sharedWords": 28
+  },
+  {
+    "examA": "H41001",
+    "examB": "H41327",
+    "jaccardSimilarity": 0.0248,
+    "sharedWords": 4
+  },
+  {
+    "examA": "H41001",
+    "examB": "H41005",
+    "jaccardSimilarity": 0.0244,
+    "sharedWords": 22
+  },
+  {
+    "examA": "H41001",
+    "examB": "H41219",
+    "jaccardSimilarity": 0.0242,
+    "sharedWords": 27
+  },
+  {
+    "examA": "H41001",
+    "examB": "H41004",
+    "jaccardSimilarity": 0.0241,
+    "sharedWords": 22
+  },
+  {
+    "examA": "H41001",
+    "examB": "H41003",
+    "jaccardSimilarity": 0.023,
+    "sharedWords": 20
+  },
+  {
+    "examA": "H41001",
+    "examB": "H41220",
+    "jaccardSimilarity": 0.0219,
+    "sharedWords": 17
+  },
+  {
+    "examA": "H41001",
+    "examB": "H41221",
+    "jaccardSimilarity": 0.0201,
+    "sharedWords": 16
+  },
+  {
+    "examA": "H41001",
+    "examB": "H41218",
+    "jaccardSimilarity": 0.02,
+    "sharedWords": 22
+  },
+  {
+    "examA": "H41001",
+    "examB": "H41329",
+    "jaccardSimilarity": 0.019,
+    "sharedWords": 10
+  },
+  {
+    "examA": "H41001",
+    "examB": "H41009",
+    "jaccardSimilarity": 0.017,
+    "sharedWords": 9
+  }
+]

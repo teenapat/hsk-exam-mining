@@ -1,0 +1,57 @@
+[
+  {
+    "pattern": "越来越",
+    "occurrenceCount": 24,
+    "examCount": 13,
+    "sectionDistribution": {
+      "Listening": 13,
+      "Reading": 2,
+      "Grammar": 4,
+      "Vocabulary": 3
+    }
+  },
+  {
+    "pattern": "虽然.*但是",
+    "occurrenceCount": 11,
+    "examCount": 11,
+    "sectionDistribution": {
+      "Listening": 5,
+      "Reading": 1,
+      "Grammar": 1,
+      "Vocabulary": 0
+    }
+  },
+  {
+    "pattern": "先.*再",
+    "occurrenceCount": 11,
+    "examCount": 11,
+    "sectionDistribution": {
+      "Listening": 9,
+      "Reading": 0,
+      "Grammar": 1,
+      "Vocabulary": 0
+    }
+  },
+  {
+    "pattern": "不仅.*而且",
+    "occurrenceCount": 7,
+    "examCount": 7,
+    "sectionDistribution": {
+      "Listening": 2,
+      "Reading": 0,
+      "Grammar": 0,
+      "Vocabulary": 1
+    }
+  },
+  {
+    "pattern": "一边.*一边",
+    "occurrenceCount": 5,
+    "examCount": 5,
+    "sectionDistribution": {
+      "Listening": 2,
+      "Reading": 0,
+      "Grammar": 3,
+      "Vocabulary": 2
+    }
+  }
+]

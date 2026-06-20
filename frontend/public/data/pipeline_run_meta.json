@@ -1,0 +1,9 @@
+{
+  "totalExams": 21,
+  "totalQuestions": 921,
+  "totalVocabulary": 3353,
+  "totalListeningScripts": 7,
+  "outputJsonDir": "D:\\hsk-exam-mining\\output\\json",
+  "outputCsvDir": "D:\\hsk-exam-mining\\output\\csv",
+  "outputReportsDir": "D:\\hsk-exam-mining\\output\\reports"
+}
