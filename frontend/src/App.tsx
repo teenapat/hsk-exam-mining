@@ -117,6 +117,9 @@ export default function App() {
   const [selectedWord, setSelectedWord] = useState("应该");
   const [searchWord, setSearchWord] = useState("");
   const [highValueSearch, setHighValueSearch] = useState("");
+  const [hideBasicWords, setHideBasicWords] = useState(false);
+  const [highValueSortBy, setHighValueSortBy] = useState<"rank" | "pinyin">("rank");
+  const [highValueSortDirection, setHighValueSortDirection] = useState<"asc" | "desc">("asc");
   const [sentenceItems, setSentenceItems] = useState<SentenceBuilderItem[]>([]);
   const [sentenceSearch, setSentenceSearch] = useState("");
   const [sentenceDraft, setSentenceDraft] = useState("");
@@ -413,11 +416,35 @@ export default function App() {
 
   const filteredHighValueWords = useMemo(() => {
     const q = highValueSearch.trim();
-    if (!q) return highValueWords;
-    return highValueWords.filter(
-      (row) => row.word.includes(q) || row.pinyin?.toLowerCase().includes(q.toLowerCase()) || row.meaning?.toLowerCase().includes(q.toLowerCase())
-    );
-  }, [highValueSearch, highValueWords]);
+    const qLower = q.toLowerCase();
+    const baseRows = hideBasicWords ? highValueWords.filter((row) => !row.isBasicWord) : highValueWords;
+    if (!q) return baseRows;
+    return baseRows.filter((row) => {
+      const reasonsText = (row.rankingReasons ?? []).join(" ").toLowerCase();
+      return (
+        row.word.includes(q) ||
+        row.pinyin?.toLowerCase().includes(qLower) ||
+        row.meaning?.toLowerCase().includes(qLower) ||
+        reasonsText.includes(qLower)
+      );
+    });
+  }, [hideBasicWords, highValueSearch, highValueWords]);
+
+  const sortedHighValueWords = useMemo(() => {
+    const rows = [...filteredHighValueWords];
+    if (highValueSortBy === "pinyin") {
+      rows.sort((a, b) => {
+        const left = (a.pinyin ?? "").trim().toLowerCase();
+        const right = (b.pinyin ?? "").trim().toLowerCase();
+        const primary = left.localeCompare(right, "zh-Hans-CN", { sensitivity: "base" });
+        if (primary !== 0) return highValueSortDirection === "asc" ? primary : -primary;
+        return a.rank - b.rank;
+      });
+      return rows;
+    }
+    rows.sort((a, b) => (highValueSortDirection === "asc" ? a.rank - b.rank : b.rank - a.rank));
+    return rows;
+  }, [filteredHighValueWords, highValueSortBy, highValueSortDirection]);
 
   const filteredSentenceItems = useMemo(() => {
     const q = sentenceSearch.trim();
@@ -959,12 +986,36 @@ export default function App() {
               แสดงข้อมูลคำศัพท์มูลค่าสูงทั้งหมด พร้อมค้นหาและดูคอลัมน์สำคัญ (อันดับ, คะแนน, ความถี่, การครอบคลุมข้อสอบ)
             </p>
             <div className="mt-3">
-              <Input
-                placeholder="ค้นหาคำศัพท์ / พินอิน / ความหมาย"
-                value={highValueSearch}
-                onChange={(e) => setHighValueSearch(e.target.value)}
-                className="max-w-md"
-              />
+              <div className="flex flex-wrap gap-2">
+                <Input
+                  placeholder="ค้นหาคำศัพท์ / พินอิน / ความหมาย / เหตุผล"
+                  value={highValueSearch}
+                  onChange={(e) => setHighValueSearch(e.target.value)}
+                  className="max-w-md"
+                />
+                <Button
+                  variant={hideBasicWords ? "default" : "outline"}
+                  onClick={() => setHideBasicWords((prev) => !prev)}
+                >
+                  {hideBasicWords ? "กำลังซ่อนคำพื้นฐาน" : "ซ่อนคำพื้นฐาน"}
+                </Button>
+                <Button
+                  variant={highValueSortBy === "pinyin" ? "default" : "outline"}
+                  onClick={() =>
+                    setHighValueSortBy((prev) => (prev === "pinyin" ? "rank" : "pinyin"))
+                  }
+                >
+                  {highValueSortBy === "pinyin" ? "เรียงตามพินอิน" : "เรียงตามอันดับ"}
+                </Button>
+                <Button
+                  variant="outline"
+                  onClick={() =>
+                    setHighValueSortDirection((prev) => (prev === "asc" ? "desc" : "asc"))
+                  }
+                >
+                  {highValueSortDirection === "asc" ? "เรียงน้อย→มาก" : "เรียงมาก→น้อย"}
+                </Button>
+              </div>
             </div>
           </Card>
 
@@ -981,10 +1032,12 @@ export default function App() {
                     <th className="sticky top-0 z-40 bg-[#0b1220] px-3 py-2 shadow-[0_1px_0_0_rgba(36,50,74,1)]">คะแนน</th>
                     <th className="sticky top-0 z-40 bg-[#0b1220] px-3 py-2 shadow-[0_1px_0_0_rgba(36,50,74,1)]">ความถี่</th>
                     <th className="sticky top-0 z-40 bg-[#0b1220] px-3 py-2 shadow-[0_1px_0_0_rgba(36,50,74,1)]">ครอบคลุมข้อสอบ</th>
+                    <th className="sticky top-0 z-40 bg-[#0b1220] px-3 py-2 shadow-[0_1px_0_0_rgba(36,50,74,1)]">สถานะคำ</th>
+                    <th className="sticky top-0 z-40 bg-[#0b1220] px-3 py-2 shadow-[0_1px_0_0_rgba(36,50,74,1)]">เหตุผลการจัดอันดับ</th>
                   </tr>
                 </thead>
                 <tbody>
-                  {filteredHighValueWords.slice(0, 1000).map((row) => (
+                  {sortedHighValueWords.slice(0, 1000).map((row) => (
                     <tr
                       key={`${row.rank}-${row.word}`}
                       className="border-t border-white/20 odd:bg-[#0a1424] even:bg-[#0b1728] hover:bg-[#13233a]"
@@ -1007,13 +1060,19 @@ export default function App() {
                       <td className="px-3 py-2">{row.score}</td>
                       <td className="px-3 py-2">{row.frequency}</td>
                       <td className="px-3 py-2">{row.examCoverage}</td>
+                      <td className="px-3 py-2">
+                        {row.isBasicWord ? <Badge variant="warning">คำพื้นฐาน</Badge> : <Badge variant="success">คำเด่นสอบ</Badge>}
+                      </td>
+                      <td className="px-3 py-2">
+                        {(row.rankingReasons ?? []).length > 0 ? (row.rankingReasons ?? []).join(" + ") : "-"}
+                      </td>
                     </tr>
                   ))}
                 </tbody>
               </table>
             </div>
             <p className="mt-2 text-xs text-textMuted">
-              แสดง {Math.min(filteredHighValueWords.length, 1000)} จาก {filteredHighValueWords.length} รายการ
+              แสดง {Math.min(sortedHighValueWords.length, 1000)} จาก {sortedHighValueWords.length} รายการ
             </p>
           </Card>
         </motion.section>

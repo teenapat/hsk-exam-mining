@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 import json
+import math
+import re
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -8,6 +10,7 @@ import jieba
 import networkx as nx
 import numpy as np
 import pandas as pd
+from pypdf import PdfReader
 from sklearn.cluster import KMeans
 from sklearn.feature_extraction.text import TfidfVectorizer
 from wordcloud import WordCloud
@@ -33,6 +36,55 @@ TOPIC_LABELS = [
     "Transportation",
     "Family",
 ]
+
+FUNCTION_WORD_SEED = {
+    "我",
+    "你",
+    "他",
+    "她",
+    "它",
+    "我们",
+    "你们",
+    "他们",
+    "她们",
+    "什么",
+    "怎么",
+    "为什么",
+    "哪",
+    "哪里",
+    "谁",
+    "几",
+    "吗",
+    "呢",
+    "吧",
+    "的",
+    "了",
+    "着",
+    "过",
+    "是",
+    "有",
+    "在",
+    "和",
+    "跟",
+    "对",
+    "把",
+    "被",
+    "给",
+    "从",
+    "到",
+    "就",
+    "才",
+    "还",
+    "也",
+    "都",
+    "又",
+    "很",
+    "太",
+    "更",
+    "最",
+    "不",
+    "没",
+}
 
 
 def compute_vocabulary_stats(occurrences: list[WordOccurrence]) -> list[VocabularyStats]:
@@ -74,17 +126,103 @@ def compute_vocabulary_stats(occurrences: list[WordOccurrence]) -> list[Vocabula
     return sorted(stats, key=lambda x: x.totalOccurrences, reverse=True)
 
 
-def rank_high_value_words(stats: list[VocabularyStats]) -> list[dict]:
+def _read_text_for_basic_seed(file_path: Path) -> str:
+    suffix = file_path.suffix.lower()
+    if suffix == ".pdf":
+        reader = PdfReader(str(file_path))
+        return "\n".join((page.extract_text() or "") for page in reader.pages)
+    return file_path.read_text(encoding="utf-8", errors="ignore")
+
+
+def _load_basic_words_from_raw(root_dir: Path) -> set[str]:
+    raw_dir = root_dir / "data" / "raw"
+    if not raw_dir.exists():
+        return set()
+
+    words: set[str] = set()
+    for file_path in raw_dir.iterdir():
+        if not file_path.is_file():
+            continue
+        name = file_path.name.lower()
+        if "vocabulary level" not in name and "hsk" not in name:
+            continue
+        if file_path.suffix.lower() not in {".pdf", ".txt", ".csv", ".json"}:
+            continue
+        try:
+            text = _read_text_for_basic_seed(file_path)
+        except Exception:
+            continue
+        for token in re.findall(r"[\u4e00-\u9fff]{1,4}", text):
+            t = token.strip()
+            if t:
+                words.add(t)
+    return words
+
+
+def _normalized_entropy(values: list[int]) -> float:
+    total = sum(values)
+    if total <= 0:
+        return 0.0
+    probs = [v / total for v in values if v > 0]
+    if len(probs) <= 1:
+        return 0.0
+    entropy = -sum(p * math.log(p) for p in probs)
+    return entropy / math.log(len(values))
+
+
+def rank_high_value_words(stats: list[VocabularyStats], total_exams: int, root_dir: Path | None = None) -> list[dict]:
+    total_exams = max(1, total_exams)
+    basic_seed = set(FUNCTION_WORD_SEED)
+    if root_dir is not None:
+        basic_seed |= _load_basic_words_from_raw(root_dir)
+
     ranking: list[dict] = []
     for idx, item in enumerate(stats, start=1):
-        score = float(item.totalOccurrences * item.examsAppeared)
+        coverage_ratio = item.examsAppeared / total_exams
+        total_sections = max(1, item.listeningCount + item.readingCount + item.grammarCount + item.vocabularyCount)
+        listening_ratio = item.listeningCount / total_sections
+        reading_vocab_ratio = (item.readingCount + item.grammarCount + item.vocabularyCount) / total_sections
+        section_entropy = _normalized_entropy(
+            [item.listeningCount, item.readingCount, item.grammarCount, item.vocabularyCount]
+        )
+
+        is_seed_word = item.word in basic_seed
+        heuristic_basic = (
+            len(item.word) <= 2
+            and coverage_ratio >= 0.70
+            and listening_ratio >= 0.55
+            and section_entropy >= 0.55
+        )
+        is_basic_word = is_seed_word or heuristic_basic
+
+        base_score = float(item.totalOccurrences * item.examsAppeared)
+        coverage_weight = 0.8 + (coverage_ratio * 0.4)
+        section_weight = 1.0 + min(0.35, reading_vocab_ratio * 0.35)
+        basic_penalty = 0.22 if is_basic_word else 1.12
+        final_score = base_score * coverage_weight * section_weight * basic_penalty
+
+        ranking_reasons: list[str] = []
+        if coverage_ratio >= 0.75:
+            ranking_reasons.append("coverage สูง")
+        if reading_vocab_ratio >= 0.55:
+            ranking_reasons.append("เด่นในพาร์ตอ่าน/ไวยากรณ์/คำศัพท์")
+        elif listening_ratio >= 0.60:
+            ranking_reasons.append("เด่นในพาร์ตฟัง")
+        if is_basic_word:
+            ranking_reasons.append("คำพื้นฐานทั่วไป (ถูกลดคะแนน)")
+        else:
+            ranking_reasons.append("ไม่ใช่คำพื้นฐาน")
+
         ranking.append(
             {
                 "rank": idx,
                 "word": item.word,
-                "score": round(score, 2),
+                "score": round(final_score, 2),
                 "frequency": item.totalOccurrences,
                 "examCoverage": item.examsAppeared,
+                "coverageRatio": round(coverage_ratio, 4),
+                "isBasicWord": is_basic_word,
+                "rankingReasons": ranking_reasons,
             }
         )
     ranking.sort(key=lambda x: x["score"], reverse=True)
@@ -316,7 +454,7 @@ def dump_phase4_and_advanced(
         json.dumps(stats_payload[:500], ensure_ascii=False, indent=2), encoding="utf-8"
     )
     (output_json_dir / "high_value_words.json").write_text(
-        json.dumps(high_value[:500], ensure_ascii=False, indent=2), encoding="utf-8"
+        json.dumps(high_value[:1000], ensure_ascii=False, indent=2), encoding="utf-8"
     )
     (output_json_dir / "grammar_patterns.json").write_text(
         json.dumps(grammar_ranking, ensure_ascii=False, indent=2), encoding="utf-8"

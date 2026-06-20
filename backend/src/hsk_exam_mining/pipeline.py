@@ -40,7 +40,11 @@ def run_pipeline(root_dir: Path | None = None) -> dict:
     dump_phase3(occurrences, config.output_json_dir)
 
     stats = compute_vocabulary_stats(occurrences)
-    high_value = rank_high_value_words(stats)
+    high_value = rank_high_value_words(
+        stats,
+        total_exams=len(parsed.corpus_by_exam_section),
+        root_dir=config.root_dir,
+    )
     grammar_ranking = mine_grammar_patterns(parsed.raw_exam_texts, parsed.corpus_by_exam_section)
     listening_top = top_words_by_section(stats, "Listening", top_n=150)
     reading_top = top_words_by_section(stats, "Reading", top_n=150)
@@ -53,7 +57,12 @@ def run_pipeline(root_dir: Path | None = None) -> dict:
     question_texts: dict[str, list[str]] = {}
     for exam_id, section_map in parsed.corpus_by_exam_section.items():
         question_texts[exam_id] = [doc for docs in section_map.values() for doc in docs]
-    cards = build_vocabulary_cards(stats[:1000], question_texts=question_texts)
+    stats_by_word = {row.word: row for row in stats}
+    high_value_words_top = [row["word"] for row in high_value[:1000]]
+    card_seed_words = set(high_value_words_top) | {row.word for row in stats[:1000]}
+    card_seed_stats = [stats_by_word[word] for word in card_seed_words if word in stats_by_word]
+    card_seed_stats.sort(key=lambda row: row.totalOccurrences, reverse=True)
+    cards = build_vocabulary_cards(card_seed_stats, question_texts=question_texts)
     card_map = {card.word: card for card in cards}
     high_value_enriched = []
     for row in high_value:

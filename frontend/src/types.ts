@@ -21,7 +21,7 @@ export interface GrammarPattern {
   examCount: number;
   sectionDistribution?: Record<string, number>;
 }
-
+    
 export interface TierRecommendation {
   tier: "S" | "A" | "B";
   word: string;
@@ -57,6 +57,9 @@ export interface HighValueWord {
   score: number;
   frequency: number;
   examCoverage: number;
+  coverageRatio?: number;
+  isBasicWord?: boolean;
+  rankingReasons?: string[];
   pinyin: string;
   meaning: string;
 }

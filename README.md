@@ -51,6 +51,16 @@ Supported formats: `.html`, `.htm`, `.pdf`, `.txt`
 python backend/run_pipeline.py
 ```
 
+4) Generate BASIC_WORD candidates (to exclude generic words from high-value ranking):
+
+```bash
+python backend/run_basic_words_candidates.py
+```
+
+Outputs:
+- `output/csv/basic_words_candidates.csv`
+- `output/json/basic_words_candidates.json`
+
 Outputs are generated under:
 - `output/json`
 - `output/csv`
