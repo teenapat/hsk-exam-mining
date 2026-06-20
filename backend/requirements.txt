@@ -1,0 +1,13 @@
+beautifulsoup4
+cedict
+deep-translator
+jieba
+lxml
+networkx
+numpy
+pandas
+pypdf
+pypinyin
+reportlab
+scikit-learn
+wordcloud

@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+:root {
+  color: #e2e8f0;
+  background: #070b14;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 10% 10%, rgba(56, 189, 248, 0.15), transparent 25%),
+    radial-gradient(circle at 85% 20%, rgba(139, 92, 246, 0.18), transparent 30%),
+    #070b14;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.recharts-tooltip-wrapper {
+  outline: none;
+}
+
